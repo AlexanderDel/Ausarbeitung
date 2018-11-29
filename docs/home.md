@@ -2,7 +2,7 @@
 Repo für die Ausarbeitung.</br>
 
 
-| Teammitglied   |      Tagebuch     |  Github | Rolle |
+| Teammitglied   |   Github | Rolle |
 |:-----------------|---------------:|------------:|:--------|
 | Justin Drögemeier|[Github](https://github.com/SephirotJustin)| Projektleiter|
 | Alex Nachname    |[Github](https://github.com/AlexanderDel)| Entwickler|
