@@ -6,12 +6,12 @@
     font-style: italic;
     font-size: smaller;
     text-indent: 0;
-    border: thin silver solid;
-    margin: 0.5em;
-    padding: 0.5em;
-    max-width:20%;
-    min-width:450px;
-    max-height:800px;
+    border: none;
+    margin: 2em;
+    padding: 2em;
+    max-width:450px;
+    min-width:350px;
+    max-height:1500px;
     min-height:21%;
 }
 .fig_left {
@@ -21,12 +21,12 @@
     font-style: italic;
     font-size: smaller;
     text-indent: 0;
-    border: thin silver solid;
-    margin: 0.5em;
-    padding: 0.5em;
-    max-width:20%;
-    min-width:450px;
-    max-height:800px;
+    border: none;
+    margin: 2em;
+    padding: 2em;
+    max-width:450px;
+    min-width:350px;
+    max-height:1500px;
     min-height:21%;
 }
 </style>
@@ -39,17 +39,17 @@ Nachdem die Entscheidung für ein Projekt getroffen wurde, ist es notwendig das 
 
 ## Der Projektauftrag
 
-ls ersten Schritt gilt es einen Projektauftrag zu erstellen, um das Projekt entstehen zu lassen. Dabei ist es wichtig den Startzeitpunkt zu benennen, welcher nicht unbedingt einfach zu identifizieren ist. Deshalb soll ein interner Projektauftrag erstellt werden, in dem die Ziele, Termine, Kosten und der Nutzen des Projekts grob festgehalten werden.
+Als ersten Schritt gilt es einen Projektauftrag zu erstellen, um das Projekt entstehen zu lassen. Dabei ist es wichtig den Startzeitpunkt zu benennen, welcher nicht unbedingt einfach zu identifizieren ist. Deshalb soll ein interner Projektauftrag erstellt werden, in dem die Ziele, Termine, Kosten und der Nutzen des Projekts grob festgehalten werden.
 
 ### Projektcharter
-Hier ist ein Beispiel eines Projektcharters zu sehen, der einen Teil des Projektauftrags darstellt. Dieser bietet eine übersichtliche Darstellung der wichtigsten Vereinbarungen, wie den Namen des Projekts, das Datum der Projektbegründung, Ziele, Ergebnisse, Meilensteine, Risiken, Budget und Teammitglieder. Wichtig ist hierbei zu erwähnen, dass es sich um keine rechtsgültige Abmachung zwischen den Personen und der Organisation handelt, sondern nur um ein internes Dokument, das zur Organisation des Projekts dient.
-
 <figure class="fig_right">
-    <img src="Ausarbeitung/include/moritz/Projektauftrag.jpg" width="400px" height="400px" alt="Projektauftrag.jpg" />
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/moritz/Projektauftrag.jpg" width="400px" height="400px" alt="Projektauftrag.jpg" />
     <figcaption>
         Abbildung 1: Beispiel eines Projektauftrags
     </figcaption>
 </figure>
+
+Hier ist ein Beispiel eines Projektcharters zu sehen, der einen Teil des Projektauftrags darstellt. Dieser bietet eine übersichtliche Darstellung der wichtigsten Vereinbarungen, wie den Namen des Projekts, das Datum der Projektbegründung, Ziele, Ergebnisse, Meilensteine, Risiken, Budget und Teammitglieder. Wichtig ist hierbei zu erwähnen, dass es sich um keine rechtsgültige Abmachung zwischen den Personen und der Organisation handelt, sondern nur um ein internes Dokument, das zur Organisation des Projekts dient.
 
 Die **Aufgabe** eines internen Projektauftrags ist die, eine Vereinbarung zwischen dem <u>internen Auftraggeber</u> und der Projektleitung zu schaffen. Der Projektauftrag ist hierbei die Ausgangsbasis für weitere Aktivitäten im Projekt und stellt die grundlegende Erlaubnis für die Arbeit am Projekt dar. Der Projektleitung und das Team erhalten somit den Zugriff auf die notwendigen Ressourcen, wie zum Beispiel Ausstattung, Gelder etc.
 
@@ -78,8 +78,7 @@ Für beide Veranstaltungstypen hat sich ein Muster entwickelt, welches Fragen un
 Wie in Abbildung 2 zu sehen müssen auch die **langfristigen Ziele** genau definiert werden. Zum Beispiel: Welche Vorteile verspricht man sich von der Bearbeitung des Projekts? Die Beantwortung dieser Frage geht von den Stakeholdern aus. Klar ist, dass sowohl Auftragnehmer als auch Auftraggeber mit Hilfe der Durchführung Gewinne erzielen wollen.
 
 <figure class="fig_left">
-    <img src="
-        Ausarbeitung/include/moritz/Projektauftrag_Fragen.jpg" width="400px" height="400px" alt="Projektauftrag_Fragen.jpg" />
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/moritz/Projektauftrag_Fragen.jpg" width="400px" height="400px" alt="Projektauftrag_Fragen.jpg" />
     <figcaption>
         Abbildung 2: Zu beantwortende Fragen im Projektauftrag
     </figcaption>
@@ -101,23 +100,26 @@ Auch ein **Projektname und eine Kurzbeschreibung** sollte sich die Projektleitun
 Die **Verabschiedung des Projektauftrags** sollte am Ende der Definitionsphase eines Projektes erfolgen. Da ein Projekt sich aber im Verlauf ändern kann, ist es auch möglich später den Projektauftrag noch abzuändern. Dafür bedarf es allerdings der Zustimmung der Projektleitung.
 
 ### Der Projektauftrag für den Segeltörn
-<figure class="fig_right">
-    <img src="Ausarbeitung/include/moritz/Meilensteine_Segeltörn.jpg" width="400px" height="400px" alt="Meilensteine_Segeltörn.jpg" />
-    <img src="Ausarbeitung/include/moritz/Meilensteine_Segeltörn_Tabelle.jpg" width="400px" height="400px" alt="Meilensteine_Segeltörn_Tabelle.jpg" />
-    <figcaption>
-        Abbildung 5: Meilensteine im Segeltörn
-    </figcaption>
-</figure>
-<figure class="fig_right">
-    <img src="Ausarbeitung/include/moritz/Projektauftrag_Fragen_Segeltörn.jpg" width="400px" height="400px" alt="Projektauftrag_Fragen_Segeltörn.jpg" />
+
+<figure class="fig_right" style="width:380px;">
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/moritz/Projektauftrag_Fragen_Segelt%C3%B6rn.jpg" width="400px" height="400px" alt="Projektauftrag_Fragen_Segeltörn.jpg" />
     <figcaption>
         Abbildung 4: Beantwortete Fragen zum Segeltörn
     </figcaption>
 </figure>
-<figure class="fig_right">
-    <img src="Ausarbeitung/include/moritz/Projektauftrag_Segeltörn.jpg" width="400px" height="400px" alt="Projektauftrag_Segeltörn.jpg" />
+<figure class="fig_right" style="width:380px;">
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/moritz/Projektauftrag_Segelt%C3%B6rn.jpg" width="400px" height="400px" alt="Projektauftrag_Segeltörn.jpg" />
     <figcaption>
         Abbildung 3: Segeltörn Projektcharter
+    </figcaption>
+</figure>
+
+
+<figure class="fig_right" style="width:420px;">
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/moritz/Meilensteine_Segelt%C3%B6rn.jpg" width="400px" height="400px" alt="Meilensteine_Segeltörn.jpg" />
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/moritz/Meilensteine_Segelt%C3%B6rn_Tabelle.jpg" width="400px" height="400px" alt="Meilensteine_Segeltörn_Tabelle.jpg" />
+    <figcaption>
+        Abbildung 5: Meilensteine im Segeltörn
     </figcaption>
 </figure>
 
