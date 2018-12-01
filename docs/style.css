@@ -1,0 +1,40 @@
+.fig_right {
+    float: right;
+    width: 30%;
+    text-indent: 0;
+    border: none;
+    padding: 1em;
+    max-width:450px;
+    min-width:350px;
+    max-height:1500px;
+    min-height:21%;
+}
+
+.fig_left {
+    float: left;
+    width: 30%;
+    text-indent: 0;
+    border: none;
+    padding: 1em;
+    max-width:450px;
+    min-width:350px;
+    max-height:1500px;
+    min-height:21%;
+}
+.column {
+    float: left;
+    width: 50%;
+    padding: 5px;
+}
+
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+figure {
+    text-align: center;
+    font-style: italic;
+    font-size: smaller;
+}
