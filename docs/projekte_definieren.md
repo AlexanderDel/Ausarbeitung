@@ -7,7 +7,7 @@ Nachdem die Entscheidung für ein Projekt getroffen wurde, ist es notwendig das 
 Als ersten Schritt gilt es einen Projektauftrag zu erstellen, um das Projekt entstehen zu lassen. Dabei ist es wichtig den Startzeitpunkt zu benennen, welcher nicht unbedingt einfach zu identifizieren ist. Deshalb soll ein interner Projektauftrag erstellt werden, in dem die Ziele, Termine, Kosten und der Nutzen des Projekts grob festgehalten werden.
 
 ### Projektcharter
-<figure class="fig_right" role="group">
+<figure class="fig_right" style="width:420px;" role="group">
     <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/moritz/Projektauftrag.jpg" alt="Projektauftrag.jpg" />
     <figcaption>
         Abbildung 1: Beispiel eines Projektauftrags
@@ -42,7 +42,7 @@ Für beide Veranstaltungstypen hat sich ein Muster entwickelt, welches Fragen un
 
 Wie in Abbildung 2 zu sehen müssen auch die **langfristigen Ziele** genau definiert werden. Zum Beispiel: Welche Vorteile verspricht man sich von der Bearbeitung des Projekts? Die Beantwortung dieser Frage geht von den Stakeholdern aus. Klar ist, dass sowohl Auftragnehmer als auch Auftraggeber mit Hilfe der Durchführung Gewinne erzielen wollen.
 
-<figure class="fig_left" role="group">
+<figure class="fig_left" style="width:420px;" role="group">
     <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/moritz/Projektauftrag_Fragen.jpg" alt="Projektauftrag_Fragen.jpg" />
     <figcaption>
         Abbildung 2: Zu beantwortende Fragen im Projektauftrag
@@ -66,13 +66,13 @@ Die **Verabschiedung des Projektauftrags** sollte am Ende der Definitionsphase e
 
 ### Der Projektauftrag für den Segeltörn
 
-<figure class="fig_right" style="width:380px;" role="group">
+<figure class="fig_right" style="width:385px;" role="group">
     <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/moritz/Projektauftrag_Fragen_Segelt%C3%B6rn.jpg" width="400px" height="500px" alt="Projektauftrag_Fragen_Segeltörn.jpg" />
     <figcaption>
         Abbildung 4: Beantwortete Fragen zum Segeltörn
     </figcaption>
 </figure>
-<figure class="fig_right" style="width:380px;" role="group">
+<figure class="fig_right" style="width:385px;" role="group">
     <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/moritz/Projektauftrag_Segelt%C3%B6rn.jpg" width="400px" height="500px" alt="Projektauftrag_Segeltörn.jpg" />
     <figcaption>
         Abbildung 3: Segeltörn Projektcharter
@@ -121,7 +121,7 @@ Mit dem Stakeholdermanagement muss zu einem möglichst frühen Zeitpunkt im Proj
 Zusätzlich muss auch eine Stakeholder-Analyse durchgeführt werden, durch die eine Bewertung der Stakeholder erreicht wird und jedem eine Bedeutung für das Projekt zugewiesen wird. Diese Bedeutung kann sich aber im Laufe des Projekts ändern, sodass Maßnahmen getroffen werden müssen, wie eine stärkere Einbindung in das Projekt an entsprechender Stelle.
 
 ### Wie können Stakeholder identifiziert werden?
-<figure class="fig_left" role="group">
+<figure class="fig_left" style="width:430px;" role="group">
     <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/moritz/Stakeholderermittlung_Tabelle.JPG" alt="Stakeholderermittlung_Tabelle.jpg" />
     <figcaption>
         Abbildung 6: Stakeholder im Projekt
@@ -131,14 +131,15 @@ Zusätzlich muss auch eine Stakeholder-Analyse durchgeführt werden, durch die e
 Ein Stakeholder ist jeder der sich für einen Stakeholder am Projekt hält. Nicht das Projektteam entscheidet dies. Eine Analyse sollte jedoch vom Projektteam erfolgen, das sich Hilfe von Gesprächen mit dem Auftraggeber, Nutzern, oder anderen bereits bekannten Stakeholdern holen kann. Auch frühere Projekte können Aufschluss darüber geben, wer alles Stakeholder des aktuellen Projekts ist. 
 
 Die Tabelle in Abbildung 6 hilft dabei Stakeholder des Projekts zu benennen. Hierbei hilft auch ein Blick in Dokumente, die zwar nicht für das Stakeholdermanagement erarbeitet wurden, jedoch wichtige Sekundärdaten liefern können, wie beispielsweise der Projektauftrag. An dieser Stelle ist es noch einmal notwendig zu erwähnen, dass vor allem Gespräche aber auch einfache Befragungen unvermeidlich sind, um Stakeholder zu ermitteln und einschätzen zu können. Eine weitere Möglichkeit ist das Treffen von **Annahmen**. Diese können dabei helfen, die Interessen von Stakeholdern näher zu beschreiben. Da diese jedoch der eigenen Sichtweise unterliegen, können sie schnell zu Fehleinschätzungen führen. Deshalb ist es sinnvoll, dass mehrere Teammitglieder Annahmen zu Stakeholdern machen und diese vergleichen, damit verschiedene Eindrücke eingebracht werden und Fehleinschätzungen minimiert werden können.
-<figure class="fig_right" role="group">
+> Stakeholdermanagement ist Emotionsmanagement. 
+
+<figure class="fig_right" style="width:430px;" role="group">
     <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/moritz/Stakeholderanalyse_Tabelle.JPG" alt="Stakeholderanalyse_Tabelle.jpg" />
     <figcaption>
         Abbildung 7: Fragen zur Einschätzung von Stakeholdern
     </figcaption>
 </figure>
 
-> Stakeholdermanagement ist Emotionsmanagement. 
 
 Daher ist es wichtig sich der eigenen Gemütsbewegungen bewusst zu sein, aber auch die der anderen. Das stellt eine schwierige Aufgabe da, die sowohl Menschenkenntnis an sich, vor allem aber auch emotionale Fähigkeiten verlangt. 
 
@@ -163,7 +164,7 @@ Einmal stellt sich die Frage, inwiefern ein Stakeholder mit seinen Möglichkeite
 - Schadenspotenzial
 
 Denn hat ein Stakeholder beispielsweise großen Möglichkeiten dem Projekt zu schaden und ist auch noch ein Gegner, so ist es wahrscheinlich, dass ein Stakeholder seine Möglichkeiten zum Nachteil des Projekts einsetzen wird. Somit wird diesem Projekt eine größere Bedeutung zugewiesen als beispielsweise einer, der dem Projekt ebenfalls negativ gegenübersteht, jedoch nicht über Mittel verfügt, die dem Projekt Schaden zufügen können.
-<figure class="fig_right" role="group">
+<figure class="fig_right" style="width:410px;" role="group">
     <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/moritz/Stakeholderumgang_Strategie.JPG" alt="Stakeholderumgang_Strategie.jpg" />
     <figcaption>
         Abbildung 9: Strategien für Stakeholderumgang
@@ -278,7 +279,7 @@ In großen Projekten gibt es neben den bisher genannten Hauptrollen noch weitere
 <u>Der Projektmarketingmanager</u> wird in internen Projekten benötigt, welches die Restrukturierung einer Organisation als Ziel hat. Hier ist das Marketing des Projekts von höherer Bedeutung.
 
 ### RASCI-Chart zur Klärung der Rollen
-<figure class="fig_left" role="group">
+<figure class="fig_left" style="width:400px;" role="group">
     <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/moritz/Rollen_RASCIchart.jpg" alt="Rollen_RASCIchart.jpg" />
     <figcaption>
         Abbildung 13: RASCI-Chart
@@ -292,7 +293,7 @@ Ein wichtiger Aspekt bei der Rollenverteilung ist es die Stärken eines jeden ei
 Die Rollenklärung sollte dabei möglichst früh im Projekt erfolgen, um sich der bevorstehenden Aufgaben bewusst zu werden. Da sich im Projektverlauf immer wieder Veränderungen ergeben können, ist es wichtig, am Besten nach jeder Projektphase die Rollenklärung im Team zu besprechen und zu bestätigen. 
 
 ### Rollen im Segeltörn
-<figure class="fig_right" role="group">
+<figure class="fig_right" style="width:400px;" role="group">
     <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/moritz/Rollen_RASCIchart_Segelt%C3%B6rn.jpg" alt="Rollen_RASCIchart_Segeltörn.jpg" />
     <figcaption>
         Abbildung 14: RASCI-Chart im Segeltörn
@@ -313,7 +314,7 @@ Ein Team besteht aus einer geringen Anzahl von Personen, die über einen begrenz
 
 ### Teamtentwicklung
 Teamentwicklung ist ein Prozess, der immer stattfindet, wenn ein Team zusammenarbeitet. Wichtig ist, dass dieser Prozess ertragreich verläuft, damit das Team effizient und produktiv arbeiten kann. Teammitglieder sollten in der Lage sein ihr individuelles Wissen einzubringen, wozu eine offene Teamatmosphäre unumgänglich ist. 
-<figure class="fig_right" role="group">
+<figure class="fig_right" style="width:400px;" role="group">
     <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/moritz/DasTeam_Gruppenprozesse.jpg" alt="DasTeam_Gruppenprozesse.jpg" />
     <figcaption>
         Abbildung 15: Fünf Phasen des Gruppenprozesses
