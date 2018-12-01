@@ -1,49 +1,14 @@
-<style>
-.fig_right {
-    float: right;
-    width: 30%;
-    text-align: center;
-    font-style: italic;
-    font-size: smaller;
-    text-indent: 0;
-    border: none;
-    margin: 2em;
-    padding: 2em;
-    max-width:450px;
-    min-width:350px;
-    max-height:1500px;
-    min-height:21%;
-}
-.fig_left {
-    float: left;
-    width: 30%;
-    text-align: center;
-    font-style: italic;
-    font-size: smaller;
-    text-indent: 0;
-    border: none;
-    margin: 2em;
-    padding: 2em;
-    max-width:450px;
-    min-width:350px;
-    max-height:1500px;
-    min-height:21%;
-}
-</style>
-
 # Projekte definieren
 
 ## Vorwort
-
 Nachdem die Entscheidung für ein Projekt getroffen wurde, ist es notwendig das Projekt formal darzustellen und zu beschreiben. Dafür muss vor allem der Projektinhalt in einem Projektauftrag präzisiert werden. Zudem müssen Termine festgelegt werden, auch Meilensteine genannt. Weiterhin Muss im Vorfeld der Aufwand des Projekts grob abgeschätzt werden. Das Projektumfeld klarzustellen, indem Stakeholder in die Planung eingebunden werden und zukünftige Teammitglieder ausgemacht und in das Projektthema eingeführt werden. Danach sind die einzelnen Rollen und auch Verantwortlichkeiten aufzuteilen. Hier steht also die Entwicklung eines Projektteams im Vordergrund. Im Folgenden sollen die soeben dargestellten Notwendigkeiten für die Definition eines Projekts genauer präzisiert und erläutert werden. Anschließend werden die genannten Aspekte am Beispielprojekt Segeltörn praktisch umgesetzt.
 
 ## Der Projektauftrag
-
 Als ersten Schritt gilt es einen Projektauftrag zu erstellen, um das Projekt entstehen zu lassen. Dabei ist es wichtig den Startzeitpunkt zu benennen, welcher nicht unbedingt einfach zu identifizieren ist. Deshalb soll ein interner Projektauftrag erstellt werden, in dem die Ziele, Termine, Kosten und der Nutzen des Projekts grob festgehalten werden.
 
 ### Projektcharter
-<figure class="fig_right">
-    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/moritz/Projektauftrag.jpg" width="400px" height="400px" alt="Projektauftrag.jpg" />
+<figure class="fig_right" role="group">
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/moritz/Projektauftrag.jpg" alt="Projektauftrag.jpg" />
     <figcaption>
         Abbildung 1: Beispiel eines Projektauftrags
     </figcaption>
@@ -77,8 +42,8 @@ Für beide Veranstaltungstypen hat sich ein Muster entwickelt, welches Fragen un
 
 Wie in Abbildung 2 zu sehen müssen auch die **langfristigen Ziele** genau definiert werden. Zum Beispiel: Welche Vorteile verspricht man sich von der Bearbeitung des Projekts? Die Beantwortung dieser Frage geht von den Stakeholdern aus. Klar ist, dass sowohl Auftragnehmer als auch Auftraggeber mit Hilfe der Durchführung Gewinne erzielen wollen.
 
-<figure class="fig_left">
-    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/moritz/Projektauftrag_Fragen.jpg" width="400px" height="400px" alt="Projektauftrag_Fragen.jpg" />
+<figure class="fig_left" role="group">
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/moritz/Projektauftrag_Fragen.jpg" alt="Projektauftrag_Fragen.jpg" />
     <figcaption>
         Abbildung 2: Zu beantwortende Fragen im Projektauftrag
     </figcaption>
@@ -101,23 +66,23 @@ Die **Verabschiedung des Projektauftrags** sollte am Ende der Definitionsphase e
 
 ### Der Projektauftrag für den Segeltörn
 
-<figure class="fig_right" style="width:380px;">
-    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/moritz/Projektauftrag_Fragen_Segelt%C3%B6rn.jpg" width="400px" height="400px" alt="Projektauftrag_Fragen_Segeltörn.jpg" />
+<figure class="fig_right" style="width:380px;" role="group">
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/moritz/Projektauftrag_Fragen_Segelt%C3%B6rn.jpg" width="400px" height="500px" alt="Projektauftrag_Fragen_Segeltörn.jpg" />
     <figcaption>
         Abbildung 4: Beantwortete Fragen zum Segeltörn
     </figcaption>
 </figure>
-<figure class="fig_right" style="width:380px;">
-    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/moritz/Projektauftrag_Segelt%C3%B6rn.jpg" width="400px" height="400px" alt="Projektauftrag_Segeltörn.jpg" />
+<figure class="fig_right" style="width:380px;" role="group">
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/moritz/Projektauftrag_Segelt%C3%B6rn.jpg" width="400px" height="500px" alt="Projektauftrag_Segeltörn.jpg" />
     <figcaption>
         Abbildung 3: Segeltörn Projektcharter
     </figcaption>
 </figure>
 
 
-<figure class="fig_right" style="width:420px;">
-    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/moritz/Meilensteine_Segelt%C3%B6rn.jpg" width="400px" height="400px" alt="Meilensteine_Segeltörn.jpg" />
-    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/moritz/Meilensteine_Segelt%C3%B6rn_Tabelle.jpg" width="400px" height="400px" alt="Meilensteine_Segeltörn_Tabelle.jpg" />
+<figure class="fig_right" style="width:420px;" role="group">
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/moritz/Meilensteine_Segelt%C3%B6rn.jpg" width="400px" height="200px" alt="Meilensteine_Segeltörn.jpg" />
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/moritz/Meilensteine_Segelt%C3%B6rn_Tabelle.jpg" width="400px" height="500px" alt="Meilensteine_Segeltörn_Tabelle.jpg" />
     <figcaption>
         Abbildung 5: Meilensteine im Segeltörn
     </figcaption>
