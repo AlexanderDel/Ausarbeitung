@@ -427,7 +427,7 @@ Ein Statusbericht enthält in der Regel einen grafischen und einen beschreibende
 **Wann werden Reviews durchgeführt und wer führt sie durch?**  
 Wann Reviews durchgeführt wird zu Beginn des Projekts entschieden und geplant. Verantwortlich für Reviews ist die Projektleitung
 
-### 4.4.2 Reviews und Statussitzungen im Projekt Segeltörn
+### 4.3.2 Reviews und Statussitzungen im Projekt Segeltörn
 **Vorbereitungsphase:**
 - Prüfung und Abnahme der Leistungsbeschreibung
     - Erwartungen der porentiellen Crewmitglieder werden ermittelt und aufgelistet
@@ -445,6 +445,8 @@ Das tägliche Briefing und Debriefing stellen Statussitzungen dar. Die morgendli
 - Was muss verbessert werden?
 - Wie sind wir im Zeitplan?
 - Wie sieht der weitere Verlauf des Törns aus?
+
+---
 
 ## 4.4 Steuerungsmaßnahmen
 ### 4.4.1 Projekte mit den richtigen Maßnahmen auf Kurs halten
