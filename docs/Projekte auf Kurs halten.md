@@ -2,13 +2,13 @@
 
 ## Vorwort
 Nachdem die Baseline am Ende der Planungsphase vervollständigt ist, beginnt in einem Projekt die Durchführungsphase. 
-In dieser Phase ist das **Konfigurations- und Änderungsmanagement** besonders wichtig. In der Durchführungsphase ist es möglich und durchaus auch gewöhnlich Änderungswünsche zu haben und diese Änderungen auch durchzuführen. Damit dies kein Chaos verursacht soll es in einem geordneten Prozess erfolgen. Besonders bei großen Projekten müssen Konfigurationen besonders sorgfältig überwacht werden. Aber auch bei kleinen Projekten ist Konfigurationsmanagement sehr hilfreich.  
+In dieser Phase ist das **Konfigurations- und Änderungsmanagement** besonders wichtig. In der Durchführungsphase ist es möglich und durchaus auch gewöhnlich Änderungswünsche zu haben und diese Änderungen auch durchzuführen. Damit dies kein Chaos verursacht, soll es in einem geordneten Prozess erfolgen. Besonders bei großen Projekten müssen Konfigurationen besonders sorgfältig überwacht werden. Aber auch bei kleinen Projekten ist Konfigurationsmanagement sehr hilfreich.  
 Weitere sinnvolle Themen für die Steuerung von Projekten, die auch in diesem Kapitel besprochen werden, sind die **Messung der Projektfortschritte** und die **Prognosen**, die daraus abgeleitet werden können. In diesem Bereich spielen **Reviews und Statussitzungen** eine besondere Rolle. Je nachdem was die Ergebnisse dieser Reviews und Statussitzungen ergeben, müssen Entscheidungen getroffen werden und entsprechende **Steuerungsmaßnahmen** eingeleitet werden.
 
 ---
 
 ## 4.1 Konfiguration und Änderungen im Griff
-Konfigurationen beschreiben Merkmale, Strukturen und Gestalten von dem betrachteten Objekt, z.B. bei einem PC die Komponente wie die Grafikkarte, der Prozessor oder der Arbeitsspeicher. Diese sollten zusammenpassen, sonst funktioniert das System nicht.  Nachdem man sich durch Betrachten dieser Konfigurationen genauer mit der Materie befasst, kann man feststellen ob etwas eventuell doch nicht möglich ist oder etwas nicht zusammenpasst. Daraus entstehen Änderungswünsche.  
+Konfigurationen beschreiben Merkmale, Strukturen und Gestalten von dem betrachteten Objekt, z.B. bei einem PC die Komponente wie die Grafikkarte, der Prozessor oder der Arbeitsspeicher. Diese sollten zusammenpassen, da das System evtl. sonst nicht funktioniert.  Nachdem man sich durch Betrachten dieser Konfigurationen genauer mit der Materie befasst, kann man feststellen ob etwas eventuell doch nicht möglich ist oder etwas nicht zusammenpasst. Daraus entstehen Änderungswünsche.  
 Diese **Änderungen** sollen kontrolliert durchgeführt werden. Es ist zu prüfen, welchen Einfluss diese Änderung hat auf zum Beispiel die Leistungsfähigkeit, die Termine oder das Budget. Daraus ergibt sich dann eine Annahme oder Ablehnung der Änderung.
 
 ### 4.1.1 Konfigurations- und Änderungsmanagement
@@ -60,7 +60,7 @@ Die ISO 10007 behandelt fünf Prozesse des Konfigurationsmanagements (DIN ISO 10
 
 In der **Konfigurationsmanagementplanung** wird festgelegt wie und womit Konfigurationsmanagement unterstütz wird, in welchem Umfang es ausgeführt werden soll, und wer dafür zuständig ist.
 
-In der **Konfigurationsidentifizierung** werden Konfigurationseinheiten festgelegt. Dies geschieht, wenn die Projektergebnisstruktur bzw. Produktbaum ermittelt und der Projektstrukturplan gestaltet wird. Die zu erstellenden Dokumente beziehen sich auf die Ergebnis- und Projektstruktur. Arbeitspakete der Projektstruktur können selbst auch Konfigurationseinheiten sein.  
+In der **Konfigurationsidentifizierung** werden Konfigurationseinheiten festgelegt. Dies geschieht, wenn die Projektergebnisstruktur bzw. der Produktbaum ermittelt und der Projektstrukturplan gestaltet wird. Die zu erstellenden Dokumente beziehen sich auf die Ergebnis- und Projektstruktur. Arbeitspakete der Projektstruktur können selbst auch Konfigurationseinheiten sein.  
 Mögliche Fragen für die Auswahl von **Konfigurationseinheiten** sind (Saynisch 2012, S. 1728):
 - Handelt es sich um eine eigene Liefereinheit, eine Zuliefereinheit oder einen eigenen Vertragsbestandteil?
 - Ist es sinnvoll, die Einheit besonders zu überwachen, da sie kritische Eigenschaften für die Einhaltung der Projektziele (Produktqualität, Kosten, Termine, Sicherheit) besitzt?
@@ -81,7 +81,7 @@ Das Ziel von der **Änderungslenkung**, oder auch **Änderungsmanagement**, ist 
 - Umsetzen: Änderungsmitteilung.
 
 **Änderungsantrag**   
-Der Aufwand für die Bearbeitung von Änderungsvorschlägen sollen im Verhätlnis zur Art der Änderung stehen. Dazu sollen Änderungen klassifiziert werden. Z.B. dadurch ob die Zustimmung des Kunden erforderlich ist oder ob andere Arbeitspakete betroffen sind. Jeder Projektbeteiligter kann einen Änderungsantrag (vgl. Abb 4.2) stellen. Wichtige Änderungen, die z.B. Form, Schnittstellen und Funktionen des Systems betreffen, sollen besonders auf negative Auswirkungen analysiert werden. Die Mitarbeiter der betroffenen Arbeitspakete nehmen zur Änderung Stellung, ob sie diese Änderung für sinnvoll halten.
+Der Aufwand für die Bearbeitung von Änderungsvorschlägen sollen im Verhätlnis zur Art der Änderung stehen. Dazu sollen Änderungen klassifiziert werden, z.B. dadurch ob die Zustimmung des Kunden erforderlich ist oder ob andere Arbeitspakete betroffen sind. Jeder Projektbeteiligter kann einen Änderungsantrag (vgl. Abb 4.2) stellen. Wichtige Änderungen, die z.B. Form, Schnittstellen und Funktionen des Systems betreffen, sollen besonders auf negative Auswirkungen analysiert werden. Die Mitarbeiter der betroffenen Arbeitspakete nehmen zur Änderung Stellung, ob sie diese Änderung für sinnvoll halten.
 
 <figure class="fig_left" style="width:540px;" role="group">
     <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/Ausarbeitung_Alex/include/alex/Abb%204.2%20Beispiel%20f%C3%BCr%20einen%20%C3%84nderungsantrag.jpg" alt="Änderungsantrag.jpg" />
@@ -98,7 +98,7 @@ In diesem Prozessschritt wird die Änderung bewertet. Das heißt:
 Am Ende dieses Prozessschrittes muss eine Entscheidung getroffen werden, ob die Änderung umgesetzt wird oder nicht. Die Entscheidungsinstanz, die diese Entscheidung trifft, ist zu benennen, z.B. der Projektleiter.
 
 **Umsetzen**  
-Durch die Änderung entsteht eine neue Baseline, weswegen alle Beteiligten informiert werden müssen. Außerdem ist zu welchem Zeitpunkt die Änderung einzufügen ist. Hinzu kommt noch, dass das Kennzeichnen, das Aufzeichnen, das Verfolgen, und das Berichten über die Umsetzung der Änderung auch wichtig sind. 
+Durch die Änderung entsteht eine neue Baseline, hierbei sind alle Beteiligten zu informieren. Außerdem ist festzulegen zu welchem Zeitpunkt die Änderung einzufügen ist. Hinzu kommt noch, dass das Kennzeichnen, das Aufzeichnen, das Verfolgen, und das Berichten über die Umsetzung der Änderung auch wichtig sind. 
 Versionskontrolle ist unverzichtbar, damit zu jedem Zeitpunkt im Projekt die Konfiguration zu einem früheren Stand zurückgesetzt werden kann. Deswegen muss jedes Dokument mindestens Angaben haben zu:
 - Titel
 - Version-Nr.
