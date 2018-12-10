@@ -3,6 +3,8 @@
 ## Vorwort
 Nachdem die Entscheidung für ein Projekt getroffen wurde, ist es notwendig das Projekt formal darzustellen und zu beschreiben. Dafür muss vor allem der Projektinhalt in einem Projektauftrag präzisiert werden. Zudem müssen Termine festgelegt werden, auch Meilensteine genannt. Weiterhin muss im Vorfeld der Aufwand des Projekts grob abgeschätzt werden. Das Projektumfeld ist klarzustellen, indem Stakeholder in die Planung eingebunden werden und zukünftige Teammitglieder ausgemacht und in das Projektthema eingeführt werden. Danach sind die einzelnen Rollen und auch Verantwortlichkeiten aufzuteilen. Hier steht also die Entwicklung eines Projektteams im Vordergrund. Im Folgenden sollen die soeben dargestellten Notwendigkeiten für die Definition eines Projekts genauer präzisiert und erläutert werden. Im Anschluss an die einzelnen Definitionen werden die genannten Aspekte am Beispielprojekt Segeltörn praktisch umgesetzt.
 
+---
+
 ## Der Projektauftrag
 Als ersten Schritt gilt es einen Projektauftrag zu erstellen, um das Projekt entstehen zu lassen. Dabei ist es wichtig den Startzeitpunkt zu benennen, welcher nicht unbedingt einfach zu identifizieren ist. Deshalb soll ein interner Projektauftrag erstellt werden, in dem die Ziele, Termine, Kosten und der Nutzen des Projekts grob festgehalten werden.
 
@@ -100,6 +102,8 @@ Es stellt sich also die Frage, nach dem Grund für den Segeltörn, also das Proj
 
 
 Die Beschreibung sollte Interesse wecken und gleichzeitig die Ziele und Vorteile des Projekts herausstellen. Im Falle des Segeltörns ist die Durchführung des Projekts natürlich deutlich subjektiver als es vielleicht im Falle eines Softwareprojekts ist, bei dem die Durchführung eher mit der Nennung von Zahlen und wirtschaftlichen Aspekten zu begründen ist. Die Vorgehensweise unterscheidet sich jedoch nicht. Die Nennung von Fakten spielt in beiden Fällen eine entscheidende Rolle, sowie eine gute Grundbeschreibung der Idee im Projektcharter. Nachdem dieser Schritt getan ist, gefolgt von dem Erstellen eines Projektcharters, fehlt noch die Festlegung von Meilensteinen. Hier wurde der Ablauf in einem „Grantt Diagramm“ festgehalten. Der Projektstart wurde definiert, sowie die für den Projektauftrag weiteren notwendigen Meilensteine, die im weiteren Verlauf des Projekts verfeinert werden können. Dabei müssen die Ergebnisse in einer Tabelle festgehalten werden, die an dem jeweiligen Stichtag vorzuliegen haben. Ebenfalls muss aufgeschrieben werden, wer im Laufe des Projekts über welche Dinge die Entscheidungsgewalt hat. Hier geht es, wie bereits erwähnt, erstmal darum, den groben Rahmen mit Hilfe der Meilensteine zu definieren.
+
+---
 
 ## Stakeholdermanagement
 Schon in der Definitionsphase eines Projekts ist es essentiell sich mit den sozialen Einflussfaktoren auseinanderzusetzen. Diese Faktoren werden auch Stakeholder genannt. Es sind die am Projekt interessierten Personen, umfasst also mögliche Unterstützer, vom Projekt Betroffene, aber auch mögliche Gegner. Sie alle gilt es möglichst früh in das Projekt einzubinden, damit ein Erfolg des Projekts wahrscheinlicher scheint. Denn zu fast jedem Projekt gehören _frustrierte Mitarbeiter_, _kooperationsunwillige Vorgesetze_, _schwierige Kunden_ oder auch _Anwohner_, die beispielsweise von dem Bau eines neuen Infrastrukturobjekts betroffen sind.
@@ -240,6 +244,8 @@ Mit Hilfe des Portfolios wird die Anschaulichkeit und die Übersicht deutlich ge
 
 Nach der Bewertung der Stakeholder müssen Maßnahmen geplant werden und jedem ein Verantwortlicher zugewiesen werden. Auch diese Informationen müssen im Stakeholderregister festgehalten werden (Abbildung 12). Wie zu sehen, werden die dargestellten Informationen immer mit einem Datum versehen, an dem sie erstellt wurden. Es ist wichtig das Register in regelmäßigen Abständen zu aktualisieren.
 
+---
+
 ## Rollen im Projektmanagement
 Im Projekt müssen Rollen definiert werden, um sicherzustellen, dass Aufgaben, Verantwortlichkeiten und Erwartungen geklärt sind. Somit wird auch sichergestellt, dass sie erfüllt werden. In einem Projektteam gibt es hierbei sehr verschiedene Aspekte bzw. Themenfelder, die Arbeitsteilig aufgeteilt werden müssen. Ohne eine solche Aufteilung würde der Gesamtumfang zu groß und durch Strukturlosigkeit ein effizientes Projekt nicht möglich. Aus diesem Grund werden Rollen definiert und den Teammitgliedern zugeordnet, wobei einzelne Personen Inhaber mehrerer Rollen sein können. Vor allem bei kleineren Projekten ist es üblich dem Projektleiter mehrere Rollen zuzuweisen. Je größer ein Projekt jedoch ist desto eher werden einzelne Rollen auf verschiedene Personen verteilt, um deren Bewältigung sicherzustellen.
 
@@ -305,6 +311,8 @@ Je nach Projektgröße kann es vorkommen, dass Personen ausschließlich ihre Pro
 Wie in Abbildung 14 zu sehen füllt beispielsweise Heinz Blaubart im Segeltörn zwei Rollen aus. Er hat die Projektmanagement-Rolle des Projektmanagers und die Segeltörn-Rolle als Skipper. Als Projektmanager übernimmt er zum Beispiel die Kostenabschätzung, als Skipper hat er die Aufgabe, zusammen mit der Co-Skipperin, das Schiff auszusuchen.
 
 Da von Anfang an ersichtlich sein muss, welche Rollen, Kompetenzen und Verantwortlichkeiten im Segeltörn benötigt werden, ist es sinnvoll das mit dem RASCI-Chart festzuhalten. Auch hier wurden die einzelnen Interessen der Teilnehmer berücksichtigt und die Rollen nach ihren Stärken und Schwächen vergeben.
+
+---
 
 ## Das Team
 Ohne Teamwork ist die Aussicht auf Erfolg eines Projekts deutlich geringer, als mit einem kompetenten, teamfähigen Team. Teamfähigkeit ist ein wichtiges Merkmal, das Mitarbeiter mit in ein Projekt hineinbringen sollten und heutzutage von vielen Arbeitgeber als eines der Haupteinstellungskriterien gesehen wird. Das Problem dabei ist, dass jedes Team aus Personen besteht, die sich Mühe geben und ihr Engagement in die vom Team zu bearbeitenden Aufgaben legen. Auf der anderen Seite gibt es auch Personen, die sich von der „Gutmütigkeit“ der anderen tragen lassen, ohne selbst viel Engagement zu zeigen. Im Folgenden sollen einige Aspekte für eine gute und sinnvolle Teamarbeit in Projekten dargestellt werden.
