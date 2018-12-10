@@ -75,6 +75,13 @@ Mit Meilensteine definiert, ab wann ein Ergebnis zu welchen Zeitpunkt vorliegen 
 
 Meilensteinen sind neben klaren Zielfestlegungen auch praktisch um dem Kunden oder den Stakeholder einen Zwischenstand zu präsentieren, um zu zeigen in welcher Richtung sich das Projekt entwickelt und ob es den richtigen Weg einschlägt. Somit können schon früh zeitig eventuelle Fehler bzw. Unstimmigkeiten gefunden werden. Außerdem bei großen Projekten, wenn große Organisationen parallel an einem Projekt arbeiten, können Meilensteine zur Synchronisation der Organisationen genutzt werden. 
 
+<figure class="fig_right" style="width:600px;" role="group">
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/justin/meilenstein.PNG" alt="meilensteine.png" />
+    <figcaption>
+        Abbildung 2: Zusammenspiel von Phasen und Projektlebenszyklus
+    </figcaption>
+</figure>
+
 ## Projektphasen
 Im Projektlebenszyklus durchlebt ein Projekt mehrere definierten Phasen, wobei hier unterschieden werden muss von denn :
 - Allgemeinen Phasen, die sich für jedes Projekt im jeden Genre abbilden lässt
@@ -96,7 +103,7 @@ Die allgemeinen Phasen können auf 5 Phasen runter gebrochen werden, die allgeme
 <figure class="fig_right" style="width:600px;" role="group">
     <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/justin/phasen.PNG" alt="zyklus.png" />
     <figcaption>
-        Abbildung 2: Zusammenspiel von Phasen und Meilensteine
+        Abbildung 2: Zusammenspiel von Phasen und Projektlebenszyklus
     </figcaption>
 </figure>
 
