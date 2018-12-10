@@ -75,10 +75,10 @@ Mit Meilensteine definiert, ab wann ein Ergebnis zu welchen Zeitpunkt vorliegen 
 
 Meilensteinen sind neben klaren Zielfestlegungen auch praktisch um dem Kunden oder den Stakeholder einen Zwischenstand zu präsentieren, um zu zeigen in welcher Richtung sich das Projekt entwickelt und ob es den richtigen Weg einschlägt. Somit können schon früh zeitig eventuelle Fehler bzw. Unstimmigkeiten gefunden werden. Außerdem bei großen Projekten, wenn große Organisationen parallel an einem Projekt arbeiten, können Meilensteine zur Synchronisation der Organisationen genutzt werden. 
 
-<figure class="fig_right" style="width:600px;" role="group">
-    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/justin/meilenstein.PNG" alt="meilensteine.png" />
+<figure style="width:600px;" role="group">
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/justin/meilensteine_tabelle.PNG" alt="meilensteine.png" />
     <figcaption>
-        Abbildung 2: Zusammenspiel von Phasen und Projektlebenszyklus
+        Abbildung 2: Meilensteine in einer Tabelle definiert
     </figcaption>
 </figure>
 
@@ -100,13 +100,19 @@ Die allgemeinen Phasen können auf 5 Phasen runter gebrochen werden, die allgeme
 - Abschlussphase
   - Der Projektzyklus wird evaluiert. Es wird Rückblickend geschaut, wie das Projekt verlaufen ist, eine Selbstreflexion über die eigene Arbeit. Abschlussdokumentationen werden erstellt und eventuell Würdigungen innerhalb des Projektteams vergeben.
 
-<figure class="fig_right" style="width:600px;" role="group">
-    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/justin/phasen.PNG" alt="zyklus.png" />
+<figure style="width:600px;" role="group">
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/justin/phase_meilenstein.PNG" alt="phase_meilenstein.png" />
     <figcaption>
-        Abbildung 2: Zusammenspiel von Phasen und Projektlebenszyklus
+        Abbildung 3: Meilensteine in einer Tabelle definiert
     </figcaption>
 </figure>
 
+<figure style="width:600px;" role="group">
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/justin/phasen.PNG" alt="zyklus.png" />
+    <figcaption>
+        Abbildung 4: Zusammenspiel von Phasen und Projektlebenszyklus
+    </figcaption>
+</figure>
 
 ## Projektziele
 Ziele sind wichtig innerhalb eines Projektes. Sie stellen Zustände da, die im Projektzyklus erreicht werden wollen. In der Startphase werden zunächst grob die Ziele festgelegt, die erreicht werden sollen. Ziele können sich im Projektzyklus ändern, anhand der Erkenntnisse, die eventuell erst beim Fortschritt dazu gewonnen werden. Deshalb ist es wichtig, zu schauen, ob die Ziele noch aktuell sind oder geändert werden müssen, zugunsten für das Projekt. Außerdem lassen sich mit Hilfe von Zielen folgende Funktionen erreichen.
@@ -126,9 +132,14 @@ Wie bereits bemerkt sind Projektziele wichtig, von daher sollten sie auch richti
 - R = realistisch
 - T = terminiert
 
-
 ## Das magische Zieldreieck
 Das magische Zieldreieck beschreibt drei Komponenten, die in Balance gehalten werden sollten, damit Projektziele vernünftig und zielorientiert verläuft. Folgende Aspekte sollen in Balance gehalten werden:
+<figure class="fig_right" style="width:600px;" role="group">
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/justin/zieldreieck.PNG" alt="zyklus.png" />
+    <figcaption>
+        Abbildung 5: Zieldreieck
+    </figcaption>
+</figure>
 
 - Zeit
   - Zeit ist ein wichtiger Faktor. Nahezu jeder Meilenstein besitzt eine Zeitliche Befristung und in der Projektdefinition spielt Zeit eine Rolle. Von Anfang an, müssen Zeiten mit hinein geplant werden, in Form von Meilensteine und Phasen. 
@@ -145,6 +156,12 @@ Ob ein Projekt ein Erfolgreich ist, bewertet der zunächst  Kunde subjektiv. Der
 
 **Abwicklungserfolg und Anwendungserfolg – Wo liegt der Unterschied?**
 </br>Bezüglich Erfolg, wurde bis jetzt nur die Sicht erklärt, die der Kunde hat, wenn er das Produkt erhält und alle Kriterien wie zum Beispiel Budget eingehalten wurden und er zufrieden ist. Dieser Erfolg lässt sich als Abwicklungserfolg bezeichnen. Neben den Abwicklungserfolg gibt es noch den Anwendungserfolg. Hierbei wird der Erfolg der Nutzung des Produktes bei den Kunden bewertet und ob der Erfolg auch mit der Lebenszeit erhalten bleibt. Wie bereits erwähnt beim Projekt - und Produktzyklus muss bei Planung von Anfang an die Nutzung des Produktes und die Langlebigkeit mit hinein geplant werden, damit die Kosten auch nach dem Bereitstellen des Produktes niedrig bleiben und somit der Erfolg erhalten bleibt.
+<figure style="width:430px;" role="group">
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/justin/projekt_erfolg_qualitaet.PNG" alt="zyklus.png" />
+    <figcaption>
+        Abbildung 6: Projektqualität -und Projekterfolg
+    </figcaption>
+</figure>
 
 **Konzepte um Erfolg Objektiv zu messen**</br>
 Erfolg kann neben der subjektiven Meinung auch mit Hilfe von Konzepten Objektiv gemessen werden. Hier folgen zwei Konzepte:
@@ -153,6 +170,31 @@ Erfolg kann neben der subjektiven Meinung auch mit Hilfe von Konzepten Objektiv 
   - Der Projekterfolg setzt sich aus mehreren Dimensionen zusammen, die im folgenden Bild erläutert werden.  Im Gegensatz zu dem Project Excellence Modell, werden auch zukünftige Erfolge als Messkriterium verwendet. Der Projekterfolg wird also hierbei nicht direkt nach dem Projektende gemessen sondern kann sich auch später zusammensetzen. Man muss sich bei diesem Konzept bewusst machen, ob wirklich alle Dimensionen benötigt werden. Gerade die letzte Dimension „Vorsorge für die Zukunft“ muss nicht unbedingt relevant sein, da dass Projekt eventuell diese Messkriterium nicht benötigt bzw. besitzt. 
 - Project Excellence Modell von der GPM Deutsche Gesellschaft für Projektmanagement
   - Bei diesem Konzept, werden mit Hilfe von festgelegten Kriterien Punkte errechnet. Hierbei werden die Kriterien in Themen eingebettet, die sich ähnlich zu den Dimensionen von Shenar und Dvir eingliedern. Der Vorteil bei diesem Konzept im Gegensatz zu dem von Shenhar und Dvir, kann die Bewertung direkt nach dem Projektende erfolgen.
+
+<figure style="width:430px;" role="group">
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/justin/konzept_messen.PNG" alt="zyklus.png" />
+    <figcaption>
+        Abbildung 7: Beide Konzepte zum Messen von Projekterfolg
+    </figcaption>
+</figure>
+
+##Methoden um die Übersicht zu gewährleisten (Zoom-in und Zoom-out)
+
+Bei Projekten ist es wichtig, den Überblick zu behalten. Gerade zum Anfang hin, sind Vorstellungen und Ziele nicht klar definiert und es nicht ganz einfach, den Überblick zu behalten, wenn wichtige Details noch fehlen und dennoch Wert darauf gelegt werden muss. Kosten ist der nächste Aspekt, der auch unbedingt zu beachten gilt, dass das Budget nicht überschritten wird bzw. die Ressourcenkosten nicht unnötig hoch sind. Hierbei gibt es verschiedene Konzepte, die zusammen eine gute Komponente bietet, um sich ein Überblick zu verschaffen.
+
+- Zoom-in und Zoom-out 
+  - Hierbei versucht man zu jedem Zeitpunkt das finale Ziel im Auge zu behalten mit optimaler Qualität. Von Anfang an, geht man von einer Optimalen Qualität aus und welche bei der Abgabe erreicht werden soll. Hierbei ist es wichtig, zu wissen auf welchen Stand man sich gerade befindet und wie der allgemeine Stand ist. Wenn man also das klare Ziel vor Augen hat, zoomt man rein und darauf folgend wird raus gezoomt und man betrachtet den aktuellen Projektstand. Somit können Aufwände und eventuelle Risiken abgeschätzt werden und ob der Zeitplan eingehalten werden kann.
+- Top-down und Bottom-up
+  - Es werden zunächst grobe Ziele und Details beschrieben, die dann jeweils Bottum-up verfeinert werden. Dies wird dann mit den Zielen und Lösungsansätze Top-down entgegengesetzt verglichen. Bei den groben Planungen sind die Kosten zum Beispiel eher dürftig definiert und bei Bottom-up kommt dann ein genauerer Kostenplan zustande, der oftmals den ursprünglichen Kostenplan übersteigt. Somit entstehen Abweichungen, die geklärt werden müssen, mithilfe von Alternativwahlen. 
+- Loops und Iterationen
+    - Eine Iteration ist eine Wiederholung bzw. ein Kreislauf. Loops eine Anzahl von Iterationen, also Wiederholungen des Kreislaufes. Dies kann man Anwenden bei den vorherigen zwei genannten Methoden, um einen Kreislauf zu bilden und diese Schritte zu wiederholen bis Projektprobleme gelöst sind und der Überblick zufrieden gestellt ist. 
+
+<figure style="width:600px;" role="group">
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/justin/kreislauf.PNG" alt="zyklus.png" />
+    <figcaption>
+        Abbildung 8: Zusammenspiel von Zoom-in und Zoom-out
+    </figcaption>
+</figure>
 
 ## Schnittstellen
 In einem Projekt verlaufen oftmals Aufgaben parallel ab und somit fällt es schwerer aus, Ergebnisse aufeinander zu synchronisieren und abzustimmen. Wie bereits in diesem Kapitel erfahren, können mit Hilfe von Meilensteine Ergebnisse synchronisiert werden. Um dies noch zu erweitern bzw. zu vereinfachen, können Schnittstellen innerhalb des Projektes definiert werden, damit die Orientierung von Ergebnissen zu erzielen, einfacher ausfällt.
