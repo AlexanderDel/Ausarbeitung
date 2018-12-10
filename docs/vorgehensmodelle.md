@@ -19,7 +19,7 @@ Als Grundlage nutzen klassische Vorgehensmodelle einen Top-Down-Ansatz, d. h. ma
 Das Wasserfallmodell wurde 1970 von Winston W. Royce vorgestellt und zählt zu einem der ersten Vorgehensmodelle. Es wurde im Laufe der Zeit an aktuelle Softwareanforderungen angepasst, wodurch es Abweichungen bei der Anzahl sowie der Einteilung der inhärenten Phasen zwischen den verschiedenen Spezialisierungen gibt. Abbildung 1 zeigt eine Spezialisierung, die insgesamt acht Phasen beinhaltet, wobei jede Phase mit einer Qualitätskontrolle abschließt. Ist diese Qualitätsprüfung nicht zufriedenstellend, sieht das Modell entweder ein erneutes Durchlaufen der Phase oder einen Rücksprung in eine vorherige Phase vor. Werden durch die Validierung keine erheblichen Qualitätsmängeln festgestellt, erfolgt auf Basis der Arbeitsergebnisse der Übergang in die nächste Phase.
 
 <figure style="width:600px;">
-    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/daniel/wasserfallmodel2.PNG"  />
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/daniel/wasserfallmodell2.PNG"  />
     <figcaption>
         Abbildung 1: Wasserfallmodell zur Softwareentwicklung nach Aichele
     </figcaption>
