@@ -58,6 +58,13 @@ Eigendefinition von Markgraf:
 
 Beide Definitionen unterscheiden sich nicht großartig. Der entscheidende Unterschied liegt in der Dauer der Zyklen. Projektlebenszyklus ist ein Teil von Produktlebenszyklus, dies bedeutet der Produktlebenszyklus dauert wesentlich länger an und geht auch weit über das Ende des Projektlebenszyklus hinaus und beinhaltet auch die Nutzung des Produktes, sowie die Nachhaltigkeit und die Entsorgung des Produktes. Aber wofür sind die Zyklen wichtig? Die frühen Projektphasen üben schon einen großen Einfluss auf den Produktlebenszyklus. Bei den Plänen darf nicht nur der Projektlebenszyklus beachtet werden, sondern es sollen schon vorab Entscheidungen getroffen werden für die Nachhaltigkeit des Projektes. Es sollen also Kostengünstige Optionen gefunden werden, die auch in der Zukunft weiterhin kostengünstig bleiben. Gerade in IT stellt die Entscheidung der Technologien eine wichtige Entscheidung da, da hier auch unter anderem z.B Wartungen hin eingeplant werden müssen. Es sollte also immer bewusst sein, dass gerade bei großen Projekten, die Entscheidungen bis spät hinein in den Produktlebenszyklus Auswirkungen erzielen können.
 
+<figure class="fig_right" style="width:600px;" role="group">
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/justin/zyklus.PNG" alt="zyklus.png" />
+    <figcaption>
+        Abbildung 1: Projekt - und Produktlebenszyklus
+    </figcaption>
+</figure>
+
 ## Meilensteine
 Zunächst die Bedeutung, was ein Meilenstein ist:
 
@@ -85,6 +92,14 @@ Die allgemeinen Phasen können auf 5 Phasen runter gebrochen werden, die allgeme
   - Die Pläne, die in der vorherigen Phase getroffen wurden sind, werden nun umgesetzt. Hierbei sei zu beachten, dass das Team richtig gesteuert wird. Es muss also darauf geachtet werden, dass das Projekt auf Kurs gehalten wird und man sich an die Pläne hält. Falls es zu Komplikationen bezüglich der Pläne gibt, müssen die schnell beseitigt werden. Darunter können auch die Pläne geändert werden, falls es kostengünstiger ist, oder die Effektivität steigen lässt. Am Ende dieser Phase sollte das Projektziel erreicht sein und das Projekt für den Kunden Abgabe fertig sein. 
 - Abschlussphase
   - Der Projektzyklus wird evaluiert. Es wird Rückblickend geschaut, wie das Projekt verlaufen ist, eine Selbstreflexion über die eigene Arbeit. Abschlussdokumentationen werden erstellt und eventuell Würdigungen innerhalb des Projektteams vergeben.
+
+<figure class="fig_right" style="width:600px;" role="group">
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/justin/phasen.PNG" alt="zyklus.png" />
+    <figcaption>
+        Abbildung 2: Zusammenspiel von Phasen und Meilensteine
+    </figcaption>
+</figure>
+
 
 ## Projektziele
 Ziele sind wichtig innerhalb eines Projektes. Sie stellen Zustände da, die im Projektzyklus erreicht werden wollen. In der Startphase werden zunächst grob die Ziele festgelegt, die erreicht werden sollen. Ziele können sich im Projektzyklus ändern, anhand der Erkenntnisse, die eventuell erst beim Fortschritt dazu gewonnen werden. Deshalb ist es wichtig, zu schauen, ob die Ziele noch aktuell sind oder geändert werden müssen, zugunsten für das Projekt. Außerdem lassen sich mit Hilfe von Zielen folgende Funktionen erreichen.
