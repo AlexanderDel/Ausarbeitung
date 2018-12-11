@@ -30,7 +30,7 @@ Eine **Bezugskonfiguration**, oder auch Referenzkonfiguration, beschreibt "geneh
 
 **Änderungsmanagement** ist ein Teil des Konfigurationsmanagements. Änderungswünsche und damit auch Änderungen können zu jedem Zeitpunkt in einem Projekt auftreten. Die Ursachen dafür sind veränderte Rahmenbedingungen, wie z.B. neue oder andere Wünsche des Kunden. Während eines Projekts gewinnt man erst oft erst in einem späteren Prozess an Klarheit, was auch zu Änderungen führen kann. Das endgültige Projekt hat immer eine andere Konfiguration als das ursprünglich geplante Projekt (vgl. Abb 4.1). Änderungen beziehen sich immer auf eine vorhandene, gültige Baseline. Nach einer Änderung entsteht eine neue Baseline, welche als neue gültige Baseline zählt und eingefroren wird, bis eine weitere Änderung stattfindet.
 
-<figure class="fig_left" style="width:540px;" role="group">
+<figure style="width:540px;" role="group">
     <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/Ausarbeitung_Alex/include/alex/Abb%204.1%20%C3%84nderungen%20im%20Projektablauf.jpg" alt="Änderungen im Projektablauf.jpg" />
     <figcaption>
         <b>Abb. 4.1</b> Änderungen im Projektablauf. 
@@ -82,7 +82,7 @@ Das Ziel von der **Änderungslenkung**, oder auch **Änderungsmanagement**, ist 
 **Änderungsantrag**   
 Der Aufwand für die Bearbeitung von Änderungsvorschlägen sollen im Verhältnis zur Art der Änderung stehen. Dazu sollen Änderungen klassifiziert werden, z.B. dadurch ob die Zustimmung des Kunden erforderlich ist oder ob andere Arbeitspakete betroffen sind. Jeder Projektbeteiligter kann einen Änderungsantrag (vgl. Abb 4.2) stellen. Wichtige Änderungen, die z.B. Form, Schnittstellen und Funktionen des Systems betreffen, sollen besonders auf negative Auswirkungen analysiert werden. Die Mitarbeiter der betroffenen Arbeitspakete nehmen zur Änderung Stellung, ob sie diese Änderung für sinnvoll halten.
 
-<figure ="fig_left" style="width:540px;" role="group">
+<figure style="width:540px;" role="group">
     <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/Ausarbeitung_Alex/include/alex/Abb%204.2%20Beispiel%20f%C3%BCr%20einen%20%C3%84nderungsantrag.jpg" alt="Änderungsantrag.jpg" />
     <figcaption>
         <b>Abb. 4.2</b> Beispiel für einen Änderungsantrag
@@ -188,7 +188,7 @@ Für große Projekte wurde in der Vergangenheit der **Earned Value**, auch Ferti
 
 Zusätzlich zum Earned Value existieren eine Reihe von Kennzahlen und Methoden, die zusammen das Earned Value Management darstellen. 
 
-<figure ="fig_left" style="width:580px;" role="group">
+<figure style="width:580px;" role="group">
     <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/Ausarbeitung_Alex/include/alex/Abb%204.3%20Ausgew%C3%A4hlte%20Kennzahlen%20der%20Earned%20Value%20Analyse..jpg" alt="Earned Value Kennzahlen.jpg" />
     <figcaption>
         <b>Abb. 4.3</b> Ausgewählte Kennzahlen der Earned Value Analyse.
@@ -216,14 +216,14 @@ Schätzt man den Grad der Fertigstellungsweise nur in Prozenten ein, kann dies k
 
 In der Praxis gibt es Vorhaben, die die Projektmitarbeiter parallel zum Tagesgeschäft erledigen, bei denen die aufgelaufenen Stunden nicht gesondert erfasst werden. In diesem Fall ist die Ermittlung des Earned Value nicht sinnvoll. Für die Termine können die Aufwände sehr anschaulich mit einem Balkenplan oder mit Hilfe einer Meilensteintrendanalyse gezeigt werden. Der Balkenplan repräsentiert eine statische Sicht, während das Meilenstein-Trendchart die Entwicklung der Terminsituationen für mehrere vergangene Berichtsperioden im Überblick zeigt (vgl Abb 4.4 und 4.5). Beide Darstellungsformen müssen zusätzlich erläutert werden.  
 
-<figure ="fig_left" style="width:580px;" role="group">
+<figure style="width:580px;" role="group">
     <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/Ausarbeitung_Alex/include/alex/Abb%204.4%20Soll-Ist-Vergleich%20im%20Balkenplan%20und%20Earned%20Value%20Analyse.jpg" alt="Soll-Ist-Vergleich Balkenplan und Earned Value Analyse.jpg" />
     <figcaption>
         <b>Abb. 4.4</b> Soll-Ist-Vergleich im Balkenplan und Earned Value Analyse
     </figcaption>
 </figure>
 
-<figure ="fig_left" style="width:580px;" role="group">
+<figure style="width:580px;" role="group">
     <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/Ausarbeitung_Alex/include/alex/Abb%204.5%20Meilenstein-Trendchart.jpg" alt="Meilenstein Trendchart.jpg" />
     <figcaption>
        <b>Abb. 4.5</b> Meilenstein Trend-chart
@@ -265,7 +265,7 @@ Werden die Daten über eine Software erfasst, liefert die Controllingabteilung d
 ### Projektfortschritt im Projekt Segeltörn
 Projektcontroller Herbert Bank und Projektmanager Heinz Blaubart bestimmten gemeinsam zu bestimmten Stichtagen oder in regelmäßigen Zeitabständen, z.B. monatlich, den Istzustand des Projekts, hinsichtlich Leistungen, Kosten und Terminsituationen. 
 
-<figure ="fig_left" style="width:620px;" role="group">
+<figure style="width:620px;" role="group">
     <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/Ausarbeitung_Alex/include/alex/Abb%204.6%20Ist-Situation%20zum%20Stichtag%2001.06.2015%20im%20Projekt%20Segelt%C3%B6rn.jpg" alt="Segeltörn Terminplan" />
     <figcaption>
         <b>Abb. 4.6</b> Ist-Situation zum Stichtag 01.06.2015 im Projekt Segeltörn
@@ -313,7 +313,7 @@ Weitere wichtige Aspekte von Reviews:
 **Welche Reviews gibt es**
 Reviews finden auf verschiedenen Ebenen mit unterschiedlichen Teilnehmern statt, z.B. mit dem Kunden, Experten oder auch nur im eigenen Projektteam (vgl Abb. 4.7). 
 
-<figure ="fig_left" style="width:420px;" role="group">
+<figure style="width:420px;" role="group">
     <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/Ausarbeitung_Alex/include/alex/Abb%204.7%20Reviews%20mit%20%C3%BCbergeordneten%20Stellen%20und%20innerhalb%20des%20Teams.jpg" alt="Reviews mit übergeordneten Stellen.jpg" />
     <figcaption>
         <b>Abb. 4.7</b> Reviews mit übergeordneten Stellen innerhalb des Teams
@@ -370,7 +370,7 @@ Für Reviews müssen bestimmte Informationen **vorbereitet** und verteilt werden
 - Bei externer Beteiligung ist ein Datenpaket zu liefern, damit der externe Beteiligter weiß worum es geht.
 - Die Liste der offenen Punkte (Issue List) der vorhergehenden Sitzung und die Aktivitätenliste mit den abgesprochenen Punkten (Action Item List).
 
-<figure ="fig_left" style="width:520px;" role="group">
+<figure style="width:520px;" role="group">
     <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/Ausarbeitung_Alex/include/alex/Abb%204.8%20Beispiel%20einer%20Agenda%20f%C3%BCr%20ein%20Review%20oder%20eine%20Statusbesprechung.jpg" alt="Agenda Review" />
     <figcaption>
         <b>Abb. 4.8</b> Beispiel einer Agenda für ein Review oder eine Statusbesprechung
@@ -420,7 +420,7 @@ Ein Statusbericht beinhaltet Daten zur Fortschrittskontrolle. Dazu zählt:
 
 Ein Statusbericht enthält in der Regel einen grafischen und einen beschreibenden Teil. Diese sollen so kurz und aussagekräftig wie nur möglich sein, damit nötige Entscheidungen schnell und leicht zu treffen sind. Dazu ist es üblich die **Ampelbewertung** zu benutzen (vgl. Abb. 4.9):
 
-<figure ="fig_left" style="width:520px;" role="group">
+<figure style="width:520px;" role="group">
     <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/Ausarbeitung_Alex/include/alex/Abb%204.9%20Ampelbewertung.jpg" alt="Ampelbewertung.jpg" />
     <figcaption>
         <b>Abb. 4.9</b> Grafische Symbole für den schnellen Überblick zum Projektstatus. 
