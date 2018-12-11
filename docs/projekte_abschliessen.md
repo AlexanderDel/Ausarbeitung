@@ -1,10 +1,10 @@
-# 5. Projekte abschließen
+# Projekte abschließen
 ## Vorwort
 Projekte abschließen stellt die letzte Phase eines Projekts dar. Das heißt Lieferobjekte sind fertiggestellt und gehen in die Nutzungsphase über. Die abschließende Projektauswertung bildet die Grundlade für die Projektbeurteilung. Der Abschlussbericht dokumentiert die wichtigsten Daten und Erkentnisse, unter anderem Lessons Learnt, um das Projektmanagement in Zukunft zu verbessern.
 
 ---
 
-## 5.1 Planen abschließender Aktivitäten
+## Planen abschließender Aktivitäten
 In der letzten Phase kann es durchaus vorkommen, dass die Motivation und Bereitschaft, mehr Energie in das Projekt zu stecken, bei den Beteiligten sinkt, da das Projekt schon fertig ist. Auch spielt es eine Rolle, dass zukünftige Veränderungen Unbehagen und Unsicherheit auslösen können. Neue Aufgaben, die dringend erledigt werden müssen stehen auch an. Deswegen erleichtert eine Checkliste mit den wichtigsten Aufgaben den Überblick: 
 
 <figure ="fig_left" style="width:540px;" role="group">
@@ -30,7 +30,7 @@ Abschließende Aufgaben:
 
 ---
 
-## 5.2 Projektauswertung und Abschlussbericht
+## Projektauswertung und Abschlussbericht
 Die Projektauswertung ist quasi das letzte Review. Es handelt darüber inwiefern die angestrebten Projektziele erreicht wurden. Die zu erhebenen Daten betreffen sowohl die Beziehungsebene als auch die Sachebene.  
 In der **Beziehungsebene** werden wichtige Stakeholder, mit Hilfe von Fragebögen gebeten, ihre Einschätzung zum Projekt abzugeben. Dies beinhaltet Informationen über Kunden- und Mitarbeiterzufriedenheit.  
 In der **Sachebene** wird die Realisierung der operativen Projektziele hinsichtlich Kosten, Zeit, Leistungsumfang und Qualität ermittelt.  
@@ -64,7 +64,7 @@ Damit die Umsetzung der Verbesserungsvorschläge erfolgreich sind, muss es im Un
 
 ---
 
-## 5.3 Den Segeltörn erfolgreich abschließen
+## Den Segeltörn erfolgreich abschließen
 Folgende Punkte wurden von einzelnen Crewmitgliedern (Arbeitspaketverantwortliche) analysiert und vorbereitet:
 - Formaler Abschluss (Kostenabrechnung)
 - Projektbewertung (Erfüllung der Ziele und Erwartung der Crewmitglieder)
