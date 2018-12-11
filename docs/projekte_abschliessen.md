@@ -7,7 +7,7 @@ Projekte abschließen stellt die letzte Phase eines Projekts dar. Das heißt Lie
 ## 5.1 Planen abschließender Aktivitäten
 In der letzten Phase kann es durchaus vorkommen, dass die Motivation und Bereitschaft, mehr Energie in das Projekt zu stecken, bei den Beteiligten sinkt, da das Projekt schon fertig ist. Auch spielt es eine Rolle dass zukünftige Veränderungen Unbehagen und Unsicherheit auslösen können. Neue Aufgaben, die dringend erledigt werden müssen stehen auch an. Deswegen erleichtert eine Checkliste mit den wichtigsten Aufgaben den Überblick: 
 
-
+<figure ="fig_left" style="width:540px;" role="group">
     <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/Ausarbeitung_Alex/include/alex/Abb%205.1%20Checkliste%20mit%20abschlie%C3%9Fenden%20Aufgaben.%20(Larson%20und%20Gray%202014%2C%20S.%20514).jpg" alt="Checkliste abschließender Aufgaben.jpg" />
     <figcaption>
         <u>Abb. 5.1</u> Checkliste mit abschließenden Aufgaben. (Larson und Gray 2014, S. 514)
