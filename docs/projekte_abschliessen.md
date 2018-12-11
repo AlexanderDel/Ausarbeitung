@@ -1,11 +1,11 @@
 # 5. Projekte abschließen
 ## Vorwort
-Projekte abschließen stellt die letzte Phase eines Projekts dar. Das heißt Lieferobjekte sind fertiggestellt und gehen in die Nutzungsphase über. Die abschließende Projektauswertung bildet die Grundlade für die Projektbeurteilung. Der Abschlussbericht dokumentiert die wichtigsten Daten und Erkentnisse, unter anderem Lessons Learnt, um die Verbesserung des Projektmanagements in Zukunft zu verbessern.
+Projekte abschließen stellt die letzte Phase eines Projekts dar. Das heißt Lieferobjekte sind fertiggestellt und gehen in die Nutzungsphase über. Die abschließende Projektauswertung bildet die Grundlade für die Projektbeurteilung. Der Abschlussbericht dokumentiert die wichtigsten Daten und Erkentnisse, unter anderem Lessons Learnt, um das Projektmanagement in Zukunft zu verbessern.
 
 ---
 
 ## 5.1 Planen abschließender Aktivitäten
-In der letzten Phase kann es durchaus vorkommen, dass die Motivation und Bereitschaft, mehr Energie in das Projekt zu stecken, bei den Beteiligten sinkt, da das Projekt schon fertig ist. Auch spielt es eine Rolle dass zukünftige Veränderungen Unbehagen und Unsicherheit auslösen können. Neue Aufgaben, die dringend erledigt werden müssen stehen auch an. Deswegen erleichtert eine Checkliste mit den wichtigsten Aufgaben den Überblick: 
+In der letzten Phase kann es durchaus vorkommen, dass die Motivation und Bereitschaft, mehr Energie in das Projekt zu stecken, bei den Beteiligten sinkt, da das Projekt schon fertig ist. Auch spielt es eine Rolle, dass zukünftige Veränderungen Unbehagen und Unsicherheit auslösen können. Neue Aufgaben, die dringend erledigt werden müssen stehen auch an. Deswegen erleichtert eine Checkliste mit den wichtigsten Aufgaben den Überblick: 
 
 <figure ="fig_left" style="width:540px;" role="group">
     <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/Ausarbeitung_Alex/include/alex/Abb%205.1%20Checkliste%20mit%20abschlie%C3%9Fenden%20Aufgaben.%20(Larson%20und%20Gray%202014%2C%20S.%20514).jpg" alt="Checkliste abschließender Aufgaben.jpg" />
@@ -25,14 +25,14 @@ Abschließende Aufgaben:
 - Bewertung des Projekts und ggf. auch der Projektmitarbeiter
 - Formale Auflösung der Projektorganisation
 - Auflösung des Projektbüros. Darunter zählt das Abbauen der Betriebsmittel und das Schließen der Kostenstelle.
-- Informationen des Projektabschlusses müssen an den Kunden, den internen Auftraggeber und an das Team übergeben werden. Dazu zählt auch die Information darüber, dass die Kostenstelle geschlossen werde, und keine Buchungen mehr an das Projekt gemacht werden können.
+- Informationen des Projektabschlusses müssen an den Kunden, den internen Auftraggeber und an das Team übergeben werden. Dazu zählt auch die Information darüber, dass die Kostenstelle geschlossen werde, und damit keine Buchungen mehr an das Projekt gemacht werden können.
 - Dank an alle Projektbeteiligten aussprechen
 
 ---
 
 ## 5.2 Projektauswertung und Abschlussbericht
 Die Projektauswertung ist quasi das letzte Review. Es handelt darüber inwiefern die angestrebten Projektziele erreicht wurden. Die zu erhebenen Daten betreffen sowohl die Beziehungsebene als auch die Sachebene.  
-In der **Beziehungsebene** werden wichtige Stakeholder, mit Hilfe von Fragebögen gebete, ihre Einschätzung zum Projekt abzugeben. Dies beinhaltet Informationen über Kunden- und Mitarbeiterzufriedenheit.  
+In der **Beziehungsebene** werden wichtige Stakeholder, mit Hilfe von Fragebögen gebeten, ihre Einschätzung zum Projekt abzugeben. Dies beinhaltet Informationen über Kunden- und Mitarbeiterzufriedenheit.  
 In der **Sachebene** wird die Realisierung der operativen Projektziele hinsichtlich Kosten, Zeit, Leistungsumfang und Qualität ermittelt.  
 
 Die **Projektnachkalkulation** ist der letzte Soll-Ist-Vergleich des Projekts und dient der genaueren Kostenabschätzung für zukünftige Projekte. Die Istkosten werden wie schon zuvor auf Arbeitspaketebene erfasst. Pro Arbeitspaket sind folgende Informationen interessant:
@@ -60,12 +60,12 @@ Mögliche Ergebnisse für zukünftige Projekte sind:
 - Vorschläge für den Einsatz verbesserter Methoden zur Aufwands- und Kostenschätzung von Arbeitspaketen.
 - Vorschläge für Qualitätsziele hinsichtlich des Projektablaufs, z.B. die neue Vorgabe, dass die Rollenverteilung im Projekt vom internen Auftraggeber bestätigt sein muss, bevor fünf Prozent des Budgets verbraucht sind.
 
-Damit die Umsetzung der Verbesserungsvorschläge erfolgreich sind, muss es im Unternehmen ein Prozess und einen Verantwortlichen für die kontinuirliche Verbesserung des Projektmanagements geben.
+Damit die Umsetzung der Verbesserungsvorschläge erfolgreich sind, muss es im Unternehmen ein Prozess und einen Verantwortlichen für die kontinuierliche Verbesserung des Projektmanagements geben.
 
 ---
 
 ## 5.3 Den Segeltörn erfolgreich abschließen
-Folgende Punkte vwurden von einzelnen Crewmitgliedern (Arbeitspaketverantwortliche) analysiert und vorbereitet:
+Folgende Punkte wurden von einzelnen Crewmitgliedern (Arbeitspaketverantwortliche) analysiert und vorbereitet:
 - Formaler Abschluss (Kostenabrechnung)
 - Projektbewertung (Erfüllung der Ziele und Erwartung der Crewmitglieder)
 - Crewtreffen mit einer Abschlussfeier
