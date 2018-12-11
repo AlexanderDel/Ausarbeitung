@@ -1,4 +1,4 @@
-# 4. Projekte auf Kurs halten
+# Projekte auf Kurs halten
 
 ## Vorwort
 Nachdem die Baseline am Ende der Planungsphase vervollständigt ist, beginnt in einem Projekt die Durchführungsphase. 
@@ -7,11 +7,11 @@ Weitere sinnvolle Themen für die Steuerung von Projekten, die auch in diesem Ka
 
 ---
 
-## 4.1 Konfiguration und Änderungen im Griff
+## Konfiguration und Änderungen im Griff
 Konfigurationen beschreiben Merkmale, Strukturen und Gestalten von dem betrachteten Objekt, bei einem PC z.B. die Komponenten wie die Grafikkarte, den Prozessor und den Arbeitsspeicher. Diese sollten zusammenpassen, da das System evtl. sonst nicht funktioniert.  Nachdem man sich durch Betrachten dieser Konfigurationen genauer mit der Materie befasst, kann man feststellen ob etwas eventuell doch nicht möglich ist oder etwas nicht zusammenpasst. Daraus entstehen Änderungswünsche.  
 Diese **Änderungen** sollen kontrolliert durchgeführt werden. Es ist zu prüfen, welchen Einfluss diese Änderung hat auf, zum Beispiel, die Leistungsfähigkeit, die Termine oder das Budget. Daraus ergibt sich dann eine Annahme oder Ablehnung der Änderung.
 
-### 4.1.1 Konfigurations- und Änderungsmanagement
+### Konfigurations- und Änderungsmanagement
 Konfigurationsmanagement betrachtet ein Projekt aus der Sicht der Produktqualität und erleichtert, den Prozess der Leistungserstellung zu steuern. Der Prozess der Leistungserstellung ist in diesem Fall eine Abfolge von Änderungen gegenüber den ursprünglichen Vorgaben, Planwerten und Zwischenergebnissen. Um dies zu verwirklichen sind allerdings Konfigurationsdokumente, die die Produkte und Liefergegenstände beschreiben, notwendig. Durch diese Dokumente muss es möglich sein, diese Produkte zu steuern, zu prüfen und nachzuweisen. Konfigurationsdokumente werden im Verlauf von Änderungen verändert.
 
 Beispiele für Konfigurationsdokumente:
@@ -125,7 +125,7 @@ Das Projektteam soll sich spätestens in der Planungsphase verständigen, wie da
 **Wer ist beteiligt und zuständig?**
 Im Projektteam muss es für Konfigurations- und Änderungsmanagements mindestens einen Verantwortlichen geben. Diese Rolle wird oft kombiniert mit der Rolle des Qualitätsmanagers. Bei kleinen Projekten übernimmt oft der Projektleiter diese Tätigkeiten. In größeren Unternehmen ist es möglich, dass es ganze Abteilungen für Konfiguration und Dokumentation gibt. Diese bearbeiten in der Regel auch mehrere, gleichzeitige Projekte.
 
-### 4.1.2 Konfigurations- und Änderungsmanagement im Projekt Segeltörn
+### Konfigurations- und Änderungsmanagement im Projekt Segeltörn
 Welche **Konfigurationseinheiten** zählen zu Segeltörn?
 - Crew (Mitglieder mit gegebenen Kompetenzen, definierten Rollen und Erwartungen)
 - Schiffstyp
@@ -157,10 +157,10 @@ In unserem Projekt sind diese Regelungen für ein effizientes und effektives Kon
 
 ---
 
-## 4.2 Projektfortschritt messen und Prognosen errechnen
+## Projektfortschritt messen und Prognosen errechnen
 In der Regel verläuft ein Projekt immer anders, als geplant. Deswegen muss der Projektfortschritt gemessen werden und mit dem Geplanten verglichen werden. Dazu gibt es den Soll-Ist- und Soll-Wird-Vergleich.
 
-### 4.2.1 Soll-Ist und Soll-Wird vergleichen
+### Soll-Ist und Soll-Wird vergleichen
 Um den Projektfortschritt zu messen, müssen folgende Eck-Daten, zu einem festgelegten Stichtag, in Bezug auf das Projektzieldreieck erhoben werden:
 
 **Termine** Plantermine und Isttermine
@@ -262,7 +262,7 @@ Ist der CPI kleiner als eins, liegt eine Kostenüberschreitung vor. Ist der CPI 
 **Wann wird gemessen und wer misst?**  
 Werden die Daten über eine Software erfasst, liefert die Controllingabteilung die Daten an den Projektleiter und sein Team. Der Projektcontroller analysiert die Daten und den Fortschrittsgrad aus den verschiedenen betroffenen Bereichen zusammen mit den Arbeitspaketmanagern. Die Auswertung und Analyse erfolgt in regelmäßigen Intervallen und zu bestimmten Reviews. Diese gesammelten Daten werden anschließend im Team gemeinsam mit dem Projektleiter geprüft und für eine Präsentation für das Review aufbereitet. 
 
-### 4.2.2 Projektfortschritt im Projekt Segeltörn
+### Projektfortschritt im Projekt Segeltörn
 Projektcontroller Herbert Bank und Projektmanager Heinz Blaubart bestimmten gemeinsam zu bestimmten Stichtagen oder in regelmäßigen Zeitabständen, z.B. monatlich, den Istzustand des Projekts, hinsichtlich Leistungen, Kosten und Terminsituationen. 
 
 <figure ="fig_left" style="width:620px;" role="group">
@@ -297,10 +297,10 @@ Das heißt, die Crew hat keinen Fehler gemacht. Beim Annähern zeigt sich, dass 
 
 ---
 
-## 4.3 Reviews
+## Reviews
 In Reviews werden errechnete Daten und Prognosen besprochen, bewertet und dokumentiert, damit notwendige Entscheidungen getroffen werden können, um das Projekt erfolgreich zum Abschluss zu bringen. 
 
-### 4.3.1 Reviews und Statussitzungen durchführen
+### Reviews und Statussitzungen durchführen
 
 **Was ist ein Review und wozu werden sie im Projekt durchgeführt?**  
 **Reviews** finden immer zu besonderen geplanten Zeitpunkten im Projekt statt und dienen zur Überprüfung verrichteter Arbeiten. Dazu werden für diese Überprüfung spezielle Methoden, Verfahren und Dokumentationen beschrieben. Sie beinhalten sowohl einen Blick in die Vergangenheit als auch in die Zukunft und enthalten am Ende des Reviews immer eine Entscheidung, die den weiteren Verlauf des Projekts bestimmt. Mögliche Zeitpunkte für Reviews wären z.B. als regelmäßige Statussitzungen, Steuerungssitzungen, zu besonderen Situationen, zu festgelegten Meilensteinen oder zu Problemsituationen. Zusätzlich zu den Projektbeteiligten können auch unabhängige Experten an Reviews teilnehmen, damit diese unabhängige Einschätzung zum Projekt abgeben können.  
@@ -430,7 +430,7 @@ Ein Statusbericht enthält in der Regel einen grafischen und einen beschreibende
 **Wann werden Reviews durchgeführt und wer führt sie durch?**  
 Wann Reviews durchgeführt wird zu Beginn des Projekts entschieden und geplant. Verantwortlich für Reviews ist die Projektleitung.
 
-### 4.3.2 Reviews und Statussitzungen im Projekt Segeltörn
+### Reviews und Statussitzungen im Projekt Segeltörn
 **Vorbereitungsphase:**
 - Prüfung und Abnahme der Leistungsbeschreibung
     - Erwartungen der porentiellen Crewmitglieder werden ermittelt und aufgelistet.
@@ -451,8 +451,8 @@ Das tägliche Briefing und Debriefing stellen Statussitzungen dar. Die morgendli
 
 ---
 
-## 4.4 Steuerungsmaßnahmen
-### 4.4.1 Projekte mit den richtigen Maßnahmen auf Kurs halten
+## Steuerungsmaßnahmen
+### Projekte mit den richtigen Maßnahmen auf Kurs halten
 Falls Umfang und Qualität der zu liefernden Leistung vom Plan abweicht, werden Abweichungen in einem Fehlerbericht festgehalten und an die Projektleitung gemeldet. Von dieser werden Entscheidungen getroffen Änderungen durchgeführt.  
 Abweichungen können klassifiziert werden:
 
@@ -483,7 +483,7 @@ Reduzierung der Qualität:
 
 Der Kunde muss bei allen dieser Maßnahmen hinzugezogen werden
 
-### 4.4.2 Maßnahmen beim Segeltörn
+### Maßnahmen beim Segeltörn
 Die Crew segelt gegen den Wind. Direkt gegen den Wind zu segeln ist jedoch nicht möglich. Deswegen existieren drei Optionen:
 - Das Segel wird eingeholt und die Crew fährt unter Motor den vorgesehenen Kurs.
 - Die Crew kreuzt "hoch am Wind" und nimmt dadurch längere Wege und Zeiten in Kauf.
