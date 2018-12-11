@@ -30,7 +30,7 @@ Eine **Bezugskonfiguration**, oder auch Referenzkonfiguration, beschreibt "geneh
 
 **Änderungsmanagement** ist ein Teil des Konfigurationsmanagements. Änderungswünsche und damit auch Änderungen können zu jedem Zeitpunkt in einem Projekt auftreten. Die Ursachen dafür sind veränderte Rahmenbedingungen, wie z.B. neue oder andere Wünsche des Kunden. Während eines Projekts gewinnt man erst oft erst in einem späteren Prozess an Klarheit, was auch zu Änderungen führen kann. Das endgültige Projekt hat immer eine andere Konfiguration als das ursprünglich geplante Projekt (vgl. Abb 4.1). Änderungen beziehen sich immer auf eine vorhandene, gültige Baseline. Nach einer Änderung entsteht eine neue Baseline, welche als neue gültige Baseline zählt und eingefroren wird, bis eine weitere Änderung stattfindet.
 
-<figure class="fig_left" style="width:520px;" role="group">
+<figure class="fig_left" style="width:540px;" role="group">
     <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/Ausarbeitung_Alex/include/alex/Abb%204.1%20%C3%84nderungen%20im%20Projektablauf.jpg" alt="Änderungen im Projektablauf.jpg" />
     <figcaption>
         <b>Abb. 4.1</b> Änderungen im Projektablauf. 
