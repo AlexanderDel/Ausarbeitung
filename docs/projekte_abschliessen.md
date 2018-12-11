@@ -10,7 +10,7 @@ In der letzten Phase kann es durchaus vorkommen, dass die Motivation und Bereits
 <figure ="fig_left" style="width:540px;" role="group">
     <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/Ausarbeitung_Alex/include/alex/Abb%205.1%20Checkliste%20mit%20abschlie%C3%9Fenden%20Aufgaben.%20(Larson%20und%20Gray%202014%2C%20S.%20514).jpg" alt="Checkliste abschließender Aufgaben.jpg" />
     <figcaption>
-        <u>Abb. 5.1</u> Checkliste mit abschließenden Aufgaben. (Larson und Gray 2014, S. 514)
+        <u>Abb. 5.1</u> Checkliste mit abschließenden Aufgaben. 
     </figcaption>
 </figure>
 
@@ -44,7 +44,7 @@ Die **Projektnachkalkulation** ist der letzte Soll-Ist-Vergleich des Projekts un
 - Abweichung
     - Begründung
 
-Für die Auswertung werden unterschiedliche Kennzahlen benutzt, wie z.B. Termintreue, Einhalten von Meilensteinen, Fehlerquoten, Änderungshäufigkeit, Erfüllung der Zahlungsziele durch den Auftraggeber und realisierter Wertbeitrag (Demleitner 2009, S. 232; Fiedler 2014, S. 241, 242). Abhängig von der Projektart gibt es noch weitere Kennzahlen, wie z.B. Baufläche bei Bauunternehmen.  
+Für die Auswertung werden unterschiedliche Kennzahlen benutzt, wie z.B. Termintreue, Einhalten von Meilensteinen, Fehlerquoten, Änderungshäufigkeit, Erfüllung der Zahlungsziele durch den Auftraggeber und realisierter Wertbeitrag. Abhängig von der Projektart gibt es noch weitere Kennzahlen, wie z.B. Baufläche bei Bauunternehmen.  
 
 Der **Abschlussbericht** gehört zur Projektdokumentation. Diese gehört zum Auftragnehmer und dient dazu, die Erfahrungen für Folgeprojekte zu sichern. Man kann den Abschlussbericht in folgende Punkte unterteilen:
 1. Ausgangssituation des Projekts: Leistungsumfang und Projektziele einschließlich der Änderungen.
