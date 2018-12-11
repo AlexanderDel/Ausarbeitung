@@ -184,7 +184,7 @@ Um den Projektfortschritt zu messen, müssen folgende Eck-Daten, zu einem festge
 Ausschlaggebend für den Erfolg eines Ist-Soll Vergleiches ist die Ermittlung der Istleistung. Vertrauensvolle Zusammenarbeit aller Beteiligten, gute Projekt- und Fachkentnisse und viel Erfahrung beim Einschätzten der tatsächlich erbrachten Leistung erleichtern dies enorm.  
 Für große Projekte wurde in der Vergangenheit der **Earned Value**, auch Fertigstellungswert genannt, als Kennzahl entwickelt. Vergleicht man lediglich nur die Istkosten mit den Sollkosten, ist dies allein nicht aussagekräftig. Hat man z.B. mehr Istkosten als geplant, so kann dies jedoch auch heißen, dass einige Arbeiten bereits früher abgeschlossen wurden. Andersherum ist es allerdings auch möglich, dass die Istkosten im Vergleich zu den Sollkosten niedriger sind, das Projekt also dem Anschein nach gut läuft, aber im Gesamtblick jedoch schlecht. Deswegen verknüpft der Earned Value Kosten mit der Leistung. Vergleicht man nun die Istkosten mit dem Earned Value, wird klar ob zum Stichtag eine Kostenüberschreitung vorliegt, da man die Istkosten mit den Sollkosten zu den erbrachten Leistungen vergleicht.
 
-> **Fertgstellungsgrad** "Verhältnis der zu einem Stichtag erbrachten Leistung zur Gesamtleistung, z.B. eines Arbeitspaketes oder eines Projekts" (DIN 69901-5:2009-01, S. 8).
+> **Fertgstellungsgrad** Verhältnis der zu einem Stichtag erbrachten Leistung zur Gesamtleistung, z.B. eines Arbeitspaketes oder eines Projekts.
 
 Zusätzlich zum Earned Value existieren eine Reihe von Kennzahlen und Methoden, die zusammen das Earned Value Management darstellen. 
 
