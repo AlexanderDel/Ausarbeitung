@@ -5,7 +5,7 @@
 - Michael Dering
 - Alexander Del
 - Justin Droegemeier
-- Daniel 
+- Daniel Sprick
 - Moritz Withöft
 
 [GitHub](https://github.com/ProjektManagementGruppe3/Ausarbeitung)
