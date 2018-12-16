@@ -34,7 +34,7 @@ Zur Überwachung, ob die Ergebnisse den Anforderungen entsprechen, existiert das
 Die Gesamtheit der Lieferungen können als Produktbaum dargestellt werden.
 
 <figure class="fig_left" style="width:430px;" role="group">
-    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/michael/113_Produktbaum.PNG" alt="113_Produktbaum.PNG" />
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/Ausarbeitung_Michael/include/michael/113_Produktbaum.PNG" alt="113_Produktbaum.PNG" />
     <figcaption>
         (Seite 113)
     </figcaption>
@@ -107,7 +107,7 @@ Bereits bei der Anforderungsdefinition muss geplant werden wie Anforderungen ver
 Hilfestellung bietet das V-Modell, welches eine iterative Vorgehensweise vorgibt und eine Qualitätssicherung in die Planung einfügt.  
 
 <figure class="fig_left" style="width:430px;" role="group">
-    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/michael/121_V-Modell.PNG" alt="121_V-Modell.PNG" />
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/Ausarbeitung_Michael/include/michael/121_V-Modell.PNG" alt="121_V-Modell.PNG" />
     <figcaption>
         (Seite 121)
     </figcaption>
@@ -122,7 +122,7 @@ Am Ende der Verifikation, muss feststehen, dass das System die Dienste, die es a
 Bei der Validierung wird nachgewiesen, dass das System so funktioniert, wie die Stakeholder es erwarten. Dabei werden die Stakeholder mit eingebunden und immer das Gesamtsystem betrachtet. Die dabei entstandenen Ergebnisse ziehen die Nutzererwartungen ins Kalkül. Am Ende der Validierung muss bewiesen worden sein, dass das System, die Leistung erbringt, die die Stakeholder erwartet haben.  
 
 <figure class="fig_left" style="width:430px;" role="group">
-    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/michael/122_Verifizieren_und_Validieren.PNG" alt="122_Verifizieren_und_Validieren.PNG" />
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/Ausarbeitung_Michael/include/michael/122_Verifizieren_und_Validieren.PNG" alt="122_Verifizieren_und_Validieren.PNG" />
     <figcaption>
         (Seite 122)
     </figcaption>
@@ -138,7 +138,7 @@ Bei der Validierung wird nachgewiesen, dass das System so funktioniert, wie die 
 An vorderster Stelle steht bei dem Segeltörn die Kundenzufriedenheit. Die Kunden, dessen Erwartungen dabei erfüllt werden sollen, sind in diesem Falle die Crew. Die ersten Anforderungen bilden die Erwartungen der Crew an den Segeltörn und der Inhalt des Projektauftrages. 
 
 <figure class="fig_left" style="width:430px;" role="group">
-    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/michael/125_Auszug_Segeltoern.PNG" alt="125_Auszug_Segeltoern.PNG" />
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/Ausarbeitung_Michael/include/michael/125_Auszug_Segeltoern.PNG" alt="125_Auszug_Segeltoern.PNG" />
     <figcaption>
         (Seite 125)
     </figcaption>
@@ -168,7 +168,7 @@ und eine Liste der Designtreiber:
 Da die Anforderungen und Designtreiber komplett sind, kann die Crew nach und nach die Projektergebnisstruktur erstellen. Das fertige Dokument sieht wie folgt aus:
 
 <figure class="fig_left" style="width:430px;" role="group">
-    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/michael/127_Projektergebnisstruktur_Segeltoern.PNG" alt="127_Projektergebnisstruktur_Segeltoern.PNG" />
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/Ausarbeitung_Michael/include/michael/127_Projektergebnisstruktur_Segeltoern.PNG" alt="127_Projektergebnisstruktur_Segeltoern.PNG" />
     <figcaption>
         (Seite 127)
     </figcaption>
@@ -215,7 +215,7 @@ Auch bietet er Hilfestellung für:
 Es erfolgen einige Schritte ehe der PSP erstellt wird. Zuerst werden alle Aufgaben, die im Projekt erledigt werden müssen gesammelt. Die Aufgaben werden zu Arbeitspaketen definiert und erhalten eine vollständige Beschreibung. Im PSP werden diese APs schließlich strukturiert und hierarchisch angeordnet. Am Ende ist der PSP nicht einfach fertig, sondern wird auch noch während der Durchführung oft geprüft und überarbeitet.  
 
 <figure class="fig_left" style="width:430px;" role="group">
-    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/michael/138_Muster_AP-Beschreibung.PNG" alt="138_Muster_AP-Beschreibung.PNG" />
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/Ausarbeitung_Michael/include/michael/138_Muster_AP-Beschreibung.PNG" alt="138_Muster_AP-Beschreibung.PNG" />
     <figcaption>
         (Seite 138)
     </figcaption>
@@ -287,14 +287,14 @@ Schließlich erhält die Crew die fertigen Dokumente: der Projektstrukturplan un
 
 
 <figure class="fig_left" style="width:430px;" role="group">
-    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/michael/142_PSP_Segeltoern.PNG" alt="142_PSP_Segeltoern.PNG" />
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/Ausarbeitung_Michael/include/michael/142_PSP_Segeltoern.PNG" alt="142_PSP_Segeltoern.PNG" />
     <figcaption>
         (Seite 142)
     </figcaption>
 </figure>
 
 <figure class="fig_left" style="width:430px;" role="group">
-    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/michael/144_Verantwortlichkeitsmatrix_Segeltoern.PNG" alt="144_Verantwortlichkeitsmatrix_Segeltoern.PNG" />
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/Ausarbeitung_Michael/include/michael/144_Verantwortlichkeitsmatrix_Segeltoern.PNG" alt="144_Verantwortlichkeitsmatrix_Segeltoern.PNG" />
     <figcaption>
         (Seite 144)
     </figcaption>
@@ -302,7 +302,7 @@ Schließlich erhält die Crew die fertigen Dokumente: der Projektstrukturplan un
 
 Und hier eine Arbeitsbeschreibung, bevor sich die Crew dagegen entschieden hat.
 <figure class="fig_left" style="width:430px;" role="group">
-    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/michael/143_AP_Crewtraining.PNG" alt="143_AP_Crewtraining.PNG" />
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/Ausarbeitung_Michael/include/michael/143_AP_Crewtraining.PNG" alt="143_AP_Crewtraining.PNG" />
     <figcaption>
         (Seite 143)
     </figcaption>
@@ -350,7 +350,7 @@ Sollte sich im Verlauf des Projektes für ein risikobehaftetes Vorhaben entschie
 Das Risikomanagement versucht Vorsorgen zu treffen, sodass Risiken erst gar nicht zu Problemen werden. Des weiteren existiert das Gesetz zur Kontrolle und Transparenz im Unternehmensbereich. Zudem wurde die Haftung von Vorstand, Aufsichtsrat und Wirtschaftsprüfern erweitert, was eine Pflicht zur Risikofrüherkennung mit sich bringt. Außerdem müssen Risiken im Lagebericht veröffentlicht werden.  
 
 <figure class="fig_left" style="width:430px;" role="group">
-    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/michael/148_Risikomanagementaufgaben.PNG" alt="148_Risikomanagementaufgaben.PNG" />
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/Ausarbeitung_Michael/include/michael/148_Risikomanagementaufgaben.PNG" alt="148_Risikomanagementaufgaben.PNG" />
     <figcaption>
         (Seite 148)
     </figcaption>
@@ -385,7 +385,7 @@ Top priorisierte Risiken müssen mit Maßnahmen versorgt werden. Gegen milde Ris
 Während der Risikobewertung stehen zwei Aspekte im Vordergrund: Eintrittswahrscheinlichkeit und Auswirkung. Die Priorität erschließt sich aus der Summe.  
 
 <figure class="fig_left" style="width:430px;" role="group">
-    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/michael/151_Risikoeintritt.PNG" alt="151_Risikoeintritt.PNG" />
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/Ausarbeitung_Michael/include/michael/151_Risikoeintritt.PNG" alt="151_Risikoeintritt.PNG" />
     <figcaption>
         (Seite 151)
     </figcaption>
@@ -402,7 +402,7 @@ Man soll sich bei den Maßnahmen an die vier Strategien halten:
 4. Risiko akzeptieren
 
 <figure class="fig_left" style="width:430px;" role="group">
-    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/michael/152_Risikoumgangstrategien.PNG" alt="152_Risikoumgangstrategien.PNG" />
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/Ausarbeitung_Michael/include/michael/152_Risikoumgangstrategien.PNG" alt="152_Risikoumgangstrategien.PNG" />
     <figcaption>
         (Seite 152)
     </figcaption>
@@ -441,11 +441,11 @@ Die Crew muss die Risiken bewerten und für entsprechende Maßnahmen vorsorgen. 
 Das Risikoregister ist subjektiv von der Crew entworfen und es besteht keinen Zwang perfekt zu sein.  
 
 <figure class="fig_left" style="width:430px;" role="group">
-    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/michael/158_Risikoregister_Segeltoern.PNG" alt="158_Risikoregister_Segeltoern.PNG" />
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/Ausarbeitung_Michael/include/michael/158_Risikoregister_Segeltoern.PNG" alt="158_Risikoregister_Segeltoern.PNG" />
 </figure>
 
 <figure class="fig_left" style="width:430px;" role="group">
-    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/michael/159_Risikoregister_Segeltoern2.PNG" alt="159_Risikoregister_Segeltoern2.PNG" />
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/Ausarbeitung_Michael/include/michael/159_Risikoregister_Segeltoern2.PNG" alt="159_Risikoregister_Segeltoern2.PNG" />
     <figcaption>
         (Seite 158/159)
     </figcaption>
@@ -510,7 +510,7 @@ Das Qualitätsmanagement befolgt 8 Grundsätze:
    - Lieferanten und Organisationen sind voneinander abhängig
 
 <figure class="fig_left" style="width:430px;" role="group">
-    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/michael/164_Qualitätsziele.PNG" alt="164_Qualitätsziele.PNG" />
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/Ausarbeitung_Michael/include/michael/164_Qualitätsziele.PNG" alt="164_Qualitätsziele.PNG" />
     <figcaption>
         (Seite 164)
     </figcaption>
@@ -546,7 +546,7 @@ Der Qualitätsplan muss die Erwartungen aller Mitglieder berücksichtigen und an
 2. Jeder weiß, was zu tun ist, um die Qualität einzuhalten
 
 <figure class="fig_left" style="width:430px;" role="group">
-    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/michael/170_Qualitaetsplan_Segeltoern.PNG" alt="170_Qualitaetsplan_Segeltoern.PNG" />
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/Ausarbeitung_Michael/include/michael/170_Qualitaetsplan_Segeltoern.PNG" alt="170_Qualitaetsplan_Segeltoern.PNG" />
     <figcaption>
         (Seite 170)
     </figcaption>
@@ -681,7 +681,7 @@ Netzplantechniken werden für komplexe Vorhaben verwendet.
 Es sind Softwaretools zur Unterstützung für Termin- und Ablaufplanung vorhanden.
 
 <figure class="fig_left" style="width:430px;" role="group">
-    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/michael/180_Netzplan.PNG" alt="180_Netzplan.PNG" />
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/Ausarbeitung_Michael/include/michael/180_Netzplan.PNG" alt="180_Netzplan.PNG" />
     <figcaption>
         (Seite 180)
     </figcaption>
@@ -704,7 +704,7 @@ Der Projektcontroller ist verantwortlich mit der Crew den Masterterminplan zu er
 Sollten weitere Daten vorkommen, werden sie erst in den Masterterminplan aufgenommen, sobald diese auch vorliegen.  
 
 <figure class="fig_left" style="width:430px;" role="group">
-    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/michael/182_Masterterminplan_Segeltoern.PNG" alt="182_Masterterminplan_Segeltoern.PNG" />
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/Ausarbeitung_Michael/include/michael/182_Masterterminplan_Segeltoern.PNG" alt="182_Masterterminplan_Segeltoern.PNG" />
     <figcaption>
         (Seite 182)
     </figcaption>
@@ -713,7 +713,7 @@ Sollten weitere Daten vorkommen, werden sie erst in den Masterterminplan aufgeno
 Zusätzlich kann auch eine Terminliste erstellt werden. Sie eignet sich gut für Soll-Ist-Vergleiche und der Verfolgung der Ergebnisse.
 
 <figure class="fig_left" style="width:430px;" role="group">
-    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/michael/183_Terminliste_Segeltoern.PNG" alt="183_Terminliste_Segeltoern.PNG" />
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/Ausarbeitung_Michael/include/michael/183_Terminliste_Segeltoern.PNG" alt="183_Terminliste_Segeltoern.PNG" />
     <figcaption>
         (Seite 183)
     </figcaption>
@@ -834,7 +834,7 @@ Der geschätzte Materialverbrauch muss mit Geld bewertet werden. Doch da ohne Re
 - Risikozuschläge
 
 <figure class="fig_left" style="width:430px;" role="group">
-    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/michael/192_Kalkulation_AP.PNG" alt="192_Kalkulation_AP.PNG" />
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/Ausarbeitung_Michael/include/michael/192_Kalkulation_AP.PNG" alt="192_Kalkulation_AP.PNG" />
     <figcaption>
         (Seite 192)
     </figcaption>
@@ -896,7 +896,7 @@ Schätzungen der Top-Down-Analyse sind naturgemäß ungenau. Nach Fertigstellung
 Einsicht auf die Kosten kann erhoben werden, wenn die Kostenschätzung mit dem Terminplan vereint wurden. Im Fall Segeltörn wird somit ersichtlich, dass die Zahlung für Schiffs- und Flugbuchung bis zum 30. April erfolgen müssen.  
 
 <figure class="fig_left" style="width:430px;" role="group">
-    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/michael/196_Kosten_Arbeitsaufwand_Segeltoern.PNG" alt="196_Kosten_Arbeitsaufwand_Segeltoern.PNG" />
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/Ausarbeitung_Michael/include/michael/196_Kosten_Arbeitsaufwand_Segeltoern.PNG" alt="196_Kosten_Arbeitsaufwand_Segeltoern.PNG" />
     <figcaption>
         (Seite 196)
     </figcaption>
@@ -905,7 +905,7 @@ Einsicht auf die Kosten kann erhoben werden, wenn die Kostenschätzung mit dem T
 Den Verlauf der Kosten zeigt die Kostensummenlinie:
 
 <figure class="fig_left" style="width:430px;" role="group">
-    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/michael/197_Kostensummenlinie_Segeltoern.PNG" alt="197_Kostensummenlinie_Segeltoern.PNG" />
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/Ausarbeitung_Michael/include/michael/197_Kostensummenlinie_Segeltoern.PNG" alt="197_Kostensummenlinie_Segeltoern.PNG" />
     <figcaption>
         (Seite 197)
     </figcaption>
@@ -947,7 +947,7 @@ Es ist wichtig, dass auch Alternativen besprochen werden. Eine Hilfe dabei biete
 5. Dokumentation
 
 <figure class="fig_left" style="width:430px;" role="group">
-    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/michael/200_Nutzwertanalyse.PNG" alt="200_Nutzwertanalyse.PNG" />
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/Ausarbeitung_Michael/include/michael/200_Nutzwertanalyse.PNG" alt="200_Nutzwertanalyse.PNG" />
     <figcaption>
         (Seite 200)
     </figcaption>
