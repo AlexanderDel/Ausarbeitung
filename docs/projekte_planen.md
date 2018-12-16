@@ -1,15 +1,6 @@
 ﻿
 # Projekte planen
 
-**Inhaltsverzeichnis**  
-- Anforderungen
-- Projektstruktur
-- Risiken
-- Qualität
-- Projektablauf und Termine
-- Aufwand und Kosten
-- Baseline
-
 ---
 
 # Anforderungen
