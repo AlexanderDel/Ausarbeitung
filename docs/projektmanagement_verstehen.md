@@ -10,7 +10,7 @@ Bevor wir uns um „Projektmanagement“ kümmern beziehungsweise „Projekte“
 </br>Nach der DIN 69901 sind Projekte Vorhaben, „die im Wesentlichen durch Einmaligkeit der Bedingungen in ihrer Gesamtheit gekennzeichnet sind, wie z. B. Zielvorgabe, zeitliche, personelle oder andere Begrenzungen, Abgrenzung gegenüber anderen Vorhaben und eine projektspezifische Organisation“ (DIN 2009, S. 155).
 
 ## Was ist ein Projekt? Ab wann definiert man es?
-Aus dem obigen Standard geht es eben hervor, dass ein Projekt etwas besonderes beziehungsweise keine Routinen mäßige Aufgabe ist, sondern etwas einmaliges, dass sich von den anderen Aufgaben oder Abläufen unterscheidet. Die Unterscheidung ob es eine Routinenaufgabe ist oder gar ein Projekt, lässt sich in der Regel daran erkennen, dass zusätzliche Ressourcen benötigt werden sowie eine gesonderte Planung, da die Aufgabe mit den Standartmitteln nicht zielgerecht bewältigt werden kann.  Diese Aufgabe bzw. Aufgaben sollen in einen vorgelegten Zeitraum absolviert werden und dies mit Hilfe eines auserwählten Teams und einer Projektorganisation. Falls Unklarheit besteht, ob die vorliegende Aufgabe ein Projekt entspricht, ist es eventuell Sinnvoll im Unternehmen nochmals eigene Kriterien festzulegen und somit weitere Anhaltspunkte zu erschaffen, für die Bestimmung, ob es ein Projekt sei. (vgl. C.Aichelle IT-Projektmanagement S.4 & H.Meyer, H.Reher Projektmanagement S.2-3)
+Aus dem obigen Standard geht es eben hervor, dass ein Projekt etwas besonderes beziehungsweise keine Routinenmäßige Aufgabe ist, sondern etwas einmaliges, dass sich von den anderen Aufgaben oder Abläufen unterscheidet. Die Unterscheidung ob es eine Routinenaufgabe ist oder gar ein Projekt, lässt sich in der Regel daran erkennen, dass zusätzliche Ressourcen benötigt werden sowie eine gesonderte Planung, da die Aufgabe mit den Standartmitteln nicht zielgerecht bewältigt werden kann.  Diese Aufgabe bzw. Aufgaben sollen in einen vorgelegten Zeitraum absolviert werden und dies mit Hilfe eines auserwählten Teams und einer Projektorganisation. Falls Unklarheit besteht, ob die vorliegende Aufgabe ein Projekt entspricht, ist es eventuell Sinnvoll im Unternehmen nochmals eigene Kriterien festzulegen und somit weitere Anhaltspunkte zu erschaffen, für die Bestimmung, ob es ein Projekt sei. (vgl. C.Aichelle IT-Projektmanagement S.4 & H.Meyer, H.Reher Projektmanagement S.2-3)
 
 ## IT-Projekt
 „IT-Projekte weisen immer wiederkehrende gleichförmige Phasen auf, die eine
@@ -18,7 +18,7 @@ standardisierte Abwicklung dieser Projekte ermöglichen. Daher bietet sich zur e
 Umsetzung von IT-Projekten der Einsatz von standardisierten Verfahren,
 bspw. Vorgehensmodellen, an“ - ( C.Aichelle IT-Projektmangament S.5)
 
-Aus dem vorherigen Zitat geht es hervor, dass IT-Projekte mit standardisierte Verfahren und Methoden erfolgreich umgesetzt werden können. Bei IT-Projekten wird in der Regel eine Software entweder komplett neu entwickelt bzw.  ist eine Neuentwicklung oder es wird an einer Software was geändert, was genug Komplexität bietet, um es in einen Projekt zu verwalten. Hierbei kann man die Projekte differenzieren (vgl. C.Aichelle IT-Projektmanagement S.5):
+Aus dem vorherigen Zitat geht es hervor, dass IT-Projekte mit standardisierte Verfahren und Methoden erfolgreich umgesetzt werden können. Bei IT-Projekten wird in der Regel eine Software entweder komplett neu entwickelt bzw. ist eine Neuentwicklung oder es wird an einer Software was geändert, was genug Komplexität bietet, um es in einen Projekt zu verwalten. Hierbei kann man die Projekte differenzieren (vgl. C.Aichelle IT-Projektmanagement S.5):
 
 - Entwicklungsprojekte, Beispiel: Eigenentwicklungen
 - Wartungsprojekte
@@ -34,7 +34,7 @@ Für IT-Projekte speziell bedeutet es auch die richtige Wahl von Hardware- und S
 
 Projektmanagement ist enorm wichtig, um das Risiko eines Fehlschlages zu minimieren und das Projektziel unter den gesetzten Voraussetzungen erfolgreich abzuschließen und dies Termin genau. Aber was bedeutet es ein Projekt zu managen?
 
-- Eindeutige Ziele definieren (Meilensteine)
+- Eindeutige Ziele definieren (Meilensteine, Projektziele)
 - Ressourcenplanung (Was wird benötigt? Kosten?)
 - Kostenplanung
 - Risiken einschätzen
@@ -56,7 +56,7 @@ Eigendefinition von Markgraf:
 
 **Produktlebenszyklus – Product Life Cycle** (in der Wirkungsforschung) Gegenstand der Betrachtung ist der gesamte Lebenslauf (Werdegang) eines Produktes, die Produktbiographie von der Geburtsstunde bis zur Außerdienststellung. Mit anderen Worten von der Idee über die Entwicklung, Produktion, Nutzung bis zum Recycling und zur Entsorgung (Markgraf, in Gabler 2014). 
 
-Beide Definitionen unterscheiden sich nicht großartig. Der entscheidende Unterschied liegt in der Dauer der Zyklen. Projektlebenszyklus ist ein Teil von Produktlebenszyklus, dies bedeutet der Produktlebenszyklus dauert wesentlich länger an und geht auch weit über das Ende des Projektlebenszyklus hinaus und beinhaltet auch die Nutzung des Produktes, sowie die Nachhaltigkeit und die Entsorgung des Produktes. Aber wofür sind die Zyklen wichtig? Die frühen Projektphasen üben schon einen großen Einfluss auf den Produktlebenszyklus. Bei den Plänen darf nicht nur der Projektlebenszyklus beachtet werden, sondern es sollen schon vorab Entscheidungen getroffen werden für die Nachhaltigkeit des Projektes. Es sollen also Kostengünstige Optionen gefunden werden, die auch in der Zukunft weiterhin kostengünstig bleiben. Gerade in IT stellt die Entscheidung der Technologien eine wichtige Entscheidung da, da hier auch unter anderem z.B Wartungen hin eingeplant werden müssen. Es sollte also immer bewusst sein, dass gerade bei großen Projekten, die Entscheidungen bis spät hinein in den Produktlebenszyklus Auswirkungen erzielen können.
+Beide Definitionen unterscheiden sich nicht großartig. Der entscheidende Unterschied liegt in der Dauer der Zyklen. Projektlebenszyklus ist ein Teil von dem Produktlebenszyklus. Dies bedeutet der Produktlebenszyklus dauert wesentlich länger an und geht auch weit über das Ende des Projektlebenszyklus hinaus und beinhaltet auch die Nutzung des Produktes, sowie die Nachhaltigkeit und die Entsorgung des Produktes. Aber wofür sind die Zyklen wichtig? Die frühen Projektphasen üben schon einen großen Einfluss auf den Produktlebenszyklus. Bei den Plänen darf nicht nur der Projektlebenszyklus beachtet werden, sondern es sollen schon vorab Entscheidungen getroffen werden für die Nachhaltigkeit des Projektes. Es sollen also Kostengünstige Optionen gefunden werden, die auch in der Zukunft weiterhin kostengünstig bleiben. Gerade in IT stellt die Entscheidung der Technologien eine wichtige Entscheidung da, da hier auch unter anderem z.B Wartungen hineingeplant werden müssen. Es sollte also immer bewusst sein, dass gerade bei großen Projekten, die Entscheidungen bis spät hinein in den Produktlebenszyklus Auswirkungen erzielen können.
 
 <figure class="fig_right" style="width:600px;" role="group">
     <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/justin/zyklus.PNG" alt="zyklus.png" />
@@ -71,7 +71,7 @@ Zunächst die Bedeutung, was ein Meilenstein ist:
 „**Meilenstein – Milestone**</br> 
 Ein Meilenstein ist ein Ereignis von besonderer Bedeutung. Zur Definition von Meilensteinen gehören (in Anlehnung an Motzel 2006, S. 124): • Nummer oder eine andere eindeutige Kennung. • Bezeichnung oder Kurztext. • Beschreibung mess- und überprüfbarer Ergebnisse, die vorliegen müssen. • Beschreibung der zu treffenden Entscheidung „ (Zitat aus C.Aichelle S.16)
 
-Mit Meilensteine definiert, ab wann ein Ergebnis zu welchen Zeitpunkt vorliegen muss. Man beginnt mit der Meilenstein Planung, wenn die sogenannte „Projekt Baseline“ vorliegt und die Ziele und etc. schon durchplant sind. Dann werden die Meilensteine definiert und hier bei sei zu beachten, dass der Inhalt genau definiert werden sollte. Mit Meilensteine präsentiert man Phasen, denn ein Meilenstein kann als Phasenende angesehen werden, beziehungsweise als Phasenziel. 
+Mit Meilensteine definiert man, ab wann ein Ergebnis zu welchen Zeitpunkt vorliegen muss. Man beginnt mit der Meilenstein Planung, wenn die sogenannte „Projekt Baseline“ vorliegt und die Ziele und etc. schon durchplant sind. Dann werden die Meilensteine definiert und hier bei sei zu beachten, dass der Inhalt genau definiert werden sollte. Mit Meilensteine präsentiert man Phasen, denn ein Meilenstein kann als Phasenende angesehen werden, beziehungsweise als Phasenziel. 
 
 Meilensteinen sind neben klaren Zielfestlegungen auch praktisch um dem Kunden oder den Stakeholder einen Zwischenstand zu präsentieren, um zu zeigen in welcher Richtung sich das Projekt entwickelt und ob es den richtigen Weg einschlägt. Somit können schon früh zeitig eventuelle Fehler bzw. Unstimmigkeiten gefunden werden. Außerdem bei großen Projekten, wenn große Organisationen parallel an einem Projekt arbeiten, können Meilensteine zur Synchronisation der Organisationen genutzt werden. 
 
@@ -85,18 +85,17 @@ Meilensteinen sind neben klaren Zielfestlegungen auch praktisch um dem Kunden od
 ## Projektphasen
 Im Projektlebenszyklus durchlebt ein Projekt mehrere definierten Phasen, wobei hier unterschieden werden muss von denn :
 - Allgemeinen Phasen, die sich für jedes Projekt im jeden Genre abbilden lässt
-- Projektspezifische Phasen, die nur fürs Projekt relevant sind
+- Projektspezifische Phasen, die durch das Projekt spezifisch definiert werden
 
-Als projektspezifische Phasen kann man verstehen, die einzelnen Phasen von einem Meilenstein zu einem anderen. Da Meilensteine in der Regel projektspezifisch sind, sind dementsprechend die Phasen auch Projektspezifisch.
-Die allgemeinen Phasen können auf 5 Phasen runter gebrochen werden, die allgemein für jedes Projekt ungefähr in der Art entsprechen sollten.
+Projektspefische Phasen werden durch die Meilensteine eines Projektes abbgebildet. Demenstsprechend sind sie projektspezifisch, da die Meilestein Planung für jedes Projekt individuell geplant werden muss. Die allgemeinen Phasen können auf 5 Phasen runter gebrochen werden, die allgemein für jedes Projekt ungefähr in der Art entsprechen sollten.
 - Initiierungsphase
   - Hier werden die Ideen primär gesammelt und zusammen gefügt. Hierbei muss nicht unbedingt das Projektteam oder der Projektleiter involviert sein, sondern es kann von Außenstehende definiert werden. In der Phase wird auch erst entschieden, ob überhaupt aus den Ideen, ein Projekt entstehen soll
 - Definitionsphase
-  - Wenn die Entscheidung für ein Projekt gefallen ist, muss nun das Projektteam und der Projektleiter die nächsten Schritte weiterleiten. Es ein (interner) Projektauftrag erarbeitet, die vom Arbeitgeber genehmigt werden muss. Stakeholdermanagement ist auch ein Teil der Phase, sowie Team Organisation, unter anderem die Rollenverteilung.
+  - Wenn die Entscheidung für ein Projekt gefallen ist, muss nun das Projektteam und der Projektleiter die nächsten Schritte weiterleiten. Es wird ein (interner) Projektauftrag erarbeitet, der vom Arbeitgeber genehmigt werden muss. Stakeholdermanagement ist auch ein Teil der Phase, sowie Team Organisation, unter anderem die Rollenverteilung.
 - Planungsphase
   - Hier werden vorab Entscheidungen getroffen, wie das Projekt in der Zukunft ausgearbeitet werden soll. Hierbei entsteht dann der Projektplan sowie eventuell ein Projektmanagementplan. Was unter anderem beachtet werden sollte, je weiter man das Projekt vorab plant, desto riskanter ist es, da unerwartet Ereignisse eintreten können.
 - Umsetzungsphase
-  - Die Pläne, die in der vorherigen Phase getroffen wurden sind, werden nun umgesetzt. Hierbei sei zu beachten, dass das Team richtig gesteuert wird. Es muss also darauf geachtet werden, dass das Projekt auf Kurs gehalten wird und man sich an die Pläne hält. Falls es zu Komplikationen bezüglich der Pläne gibt, müssen die schnell beseitigt werden. Darunter können auch die Pläne geändert werden, falls es kostengünstiger ist, oder die Effektivität steigen lässt. Am Ende dieser Phase sollte das Projektziel erreicht sein und das Projekt für den Kunden Abgabe fertig sein. 
+  - Die Pläne, die in der vorherigen Phase getroffen wurden sind, werden nun umgesetzt. Hierbei sei zu beachten, dass das Team richtig gesteuert wird. Es muss also darauf geachtet werden, dass das Projekt auf Kurs gehalten wird und man sich an die Pläne hält. Falls es zu Komplikationen bezüglich der Pläne gibt, müssen die schnell beseitigt werden. Darunter können auch die Pläne geändert werden, falls es kostengünstiger ist, oder die Effektivität steigen lässt. Am Ende dieser Phase sollte das Projektziel erreicht sein und das Projekt für den Kunden zur Abgabe bereit sein. 
 - Abschlussphase
   - Der Projektzyklus wird evaluiert. Es wird Rückblickend geschaut, wie das Projekt verlaufen ist, eine Selbstreflexion über die eigene Arbeit. Abschlussdokumentationen werden erstellt und eventuell Würdigungen innerhalb des Projektteams vergeben.
 
@@ -120,11 +119,11 @@ Ziele sind wichtig innerhalb eines Projektes. Sie stellen Zustände da, die im P
 - Die Koordinationsfunktion
   - Ziele bieten eine Koordination der Arbeitspakete. Es ist festgelegt, worauf man hinaus möchte
 - Die Auswahlfunktion
-  - In Projekten kann es immer wieder zu Alternativen kommen. Ziele bieten daher Kriterien bei der Auswahl an, woran man sich bei den Alternativen richten kann.
+  - In Projekten kann es immer wieder zu Alternativen kommen. Ziele bieten daher Kriterien bei der Auswahl an.
 - Die Kontrollfunktion
   - Es kann mithilfe der Ziele, der aktuelle Projektstand ermittelt werden und ob die Entwicklung noch auf den richtigen Weg ist, indem man den aktuellen Zustand zu dem Ziel entgegenstellt und vergleicht. 
 
-Wie bereits bemerkt sind Projektziele wichtig, von daher sollten sie auch richtig definiert werden. Hierfür kann die SMART Regel verwendet werden
+Wie man bereits bemerkt, sind Projektziele enorm wichtig. Von daher sollten sie auch richtig definiert werden. Hierfür kann die SMART Regel verwendet werden:
 
 - S = spezifisch
 - M = messbar
@@ -133,7 +132,7 @@ Wie bereits bemerkt sind Projektziele wichtig, von daher sollten sie auch richti
 - T = terminiert
 
 ## Das magische Zieldreieck
-Das magische Zieldreieck beschreibt drei Komponenten, die in Balance gehalten werden sollten, damit Projektziele vernünftig und zielorientiert verläuft. Folgende Aspekte sollen in Balance gehalten werden:
+Das magische Zieldreieck beschreibt drei Komponenten, die in Balance gehalten werden sollten, damit Projektziele vernünftig und zielorientiert bearbeitet werden können. Folgende Aspekte sollen in Balance gehalten werden:
 <figure class="fig_right" style="width:600px;" role="group">
     <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/justin/zieldreieck.PNG" alt="zyklus.png" />
     <figcaption>
@@ -152,10 +151,10 @@ Das magische Zieldreieck beschreibt drei Komponenten, die in Balance gehalten we
 
 Wie bereits erklärt, erklärt das Zieldreieck, wie Projektziele erfolgreich abgeschlossen werden können und somit auch das Projekt. Aber wie misst man Erfolg bzw. die Qualität des Projektes?
 
-Ob ein Projekt ein Erfolgreich ist, bewertet der zunächst  Kunde subjektiv. Der Kunde muss zufrieden gestellt werden und seine Anforderungen sollten erfüllt sein. Wenn dies der Fall ist, entsteht für den Kunden, die Wahrnehmung, dass das Projekt ein Erfolg sei. Je mehr zufrieden der Kunde ist, umso erfolgreicher ist das Projekt für ihn. Die Stakeholder sollten nicht vergessen werden, die helfen auch zur subjektiven Bestimmung bei, ob das Projekt erfolgreich ist. Dennoch fällt die Meinung vom Kunden mehr ins Gewicht.  Das gleiche gilt für die Projektqualität, die vom Kunden und den Stakeholder subjektiv wahr genommen wird. Generell ist es Schwierig Qualität zu messen, da es projektspezifisch ist. Es sollte also von Anfang geplant werden, in welcher Qualität das Projekt geliefert werden soll und gegebenen falls Kriterien, um die Qualität Subjektiv zu messen.
+Ob ein Projekt erfolgreich ist, bewertet der Kunde zunächst subjektiv. Der Kunde muss zufrieden gestellt werden und seine Anforderungen sollten erfüllt sein. Wenn dies der Fall ist, entsteht für den Kunden, die Wahrnehmung, dass das Projekt ein Erfolg sei. Je mehr zufrieden der Kunde ist, umso erfolgreicher ist das Projekt für ihn. Die Stakeholder sollten nicht vergessen werden, die helfen auch zur subjektiven Bestimmung bei, ob das Projekt erfolgreich ist. Dennoch fällt die Meinung vom Kunden mehr ins Gewicht.  Das gleiche gilt für die Projektqualität, die vom Kunden und den Stakeholder subjektiv wahr genommen wird. Generell ist es schwierig Qualität zu messen, da es projektspezifisch ist. Es sollte also von Anfang an geplant werden, in welcher Qualität das Projekt geliefert werden soll und gegebenen falls Kriterien, um die Qualität Subjektiv zu messen.
 
 **Abwicklungserfolg und Anwendungserfolg – Wo liegt der Unterschied?**
-</br>Bezüglich Erfolg, wurde bis jetzt nur die Sicht erklärt, die der Kunde hat, wenn er das Produkt erhält und alle Kriterien wie zum Beispiel Budget eingehalten wurden und er zufrieden ist. Dieser Erfolg lässt sich als Abwicklungserfolg bezeichnen. Neben den Abwicklungserfolg gibt es noch den Anwendungserfolg. Hierbei wird der Erfolg der Nutzung des Produktes bei den Kunden bewertet und ob der Erfolg auch mit der Lebenszeit erhalten bleibt. Wie bereits erwähnt beim Projekt - und Produktzyklus muss bei Planung von Anfang an die Nutzung des Produktes und die Langlebigkeit mit hinein geplant werden, damit die Kosten auch nach dem Bereitstellen des Produktes niedrig bleiben und somit der Erfolg erhalten bleibt.
+</br>Bezüglich Erfolg, wurde bis jetzt nur die Sicht erklärt, die der Kunde hat, wenn er das Produkt erhält und alle Kriterien wie zum Beispiel Budget eingehalten wurden sind und er zufrieden ist. Dieser Erfolg lässt sich als Abwicklungserfolg bezeichnen. Neben den Abwicklungserfolg gibt es noch den Anwendungserfolg. Hierbei wird der Erfolg der Nutzung des Produktes bei den Kunden bewertet und ob der Erfolg auch mit der Lebenszeit erhalten bleibt. Wie bereits erwähnt beim Projekt - und Produktzyklus muss bei der Planung von Anfang an die Nutzung des Produktes und die Langlebigkeit mit hinein geplant werden, damit die Kosten auch nach dem Bereitstellen des Produktes niedrig bleiben und somit der Erfolg erhalten bleibt.
 <figure style="width:430px;" role="group">
     <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/justin/projekt_erfolg_qualitaet.PNG" alt="zyklus.png" />
     <figcaption>
@@ -180,7 +179,7 @@ Erfolg kann neben der subjektiven Meinung auch mit Hilfe von Konzepten Objektiv 
 
 ##Methoden um die Übersicht zu gewährleisten (Zoom-in und Zoom-out)
 
-Bei Projekten ist es wichtig, den Überblick zu behalten. Gerade zum Anfang hin, sind Vorstellungen und Ziele nicht klar definiert und es nicht ganz einfach, den Überblick zu behalten, wenn wichtige Details noch fehlen und dennoch Wert darauf gelegt werden muss. Kosten ist der nächste Aspekt, der auch unbedingt zu beachten gilt, dass das Budget nicht überschritten wird bzw. die Ressourcenkosten nicht unnötig hoch sind. Hierbei gibt es verschiedene Konzepte, die zusammen eine gute Komponente bietet, um sich ein Überblick zu verschaffen.
+Bei Projekten ist es wichtig, den Überblick zu behalten. Gerade zum Anfang hin, sind Vorstellungen und Ziele nicht klar definiert und es nicht ganz einfach, den Überblick zu behalten, wenn wichtige Details noch fehlen und dennoch Wert darauf gelegt werden muss. Kosten ist der nächste Aspekt, der auch unbedingt zu beachten gilt, dass das Budget nicht überschritten wird bzw. die Ressourcenkosten nicht unnötig hoch sind. Hierbei gibt es verschiedene Konzepte, die zusammen eine gute Komponente bieten, um sich ein Überblick zu verschaffen.
 
 - Zoom-in und Zoom-out 
   - Hierbei versucht man zu jedem Zeitpunkt das finale Ziel im Auge zu behalten mit optimaler Qualität. Von Anfang an, geht man von einer Optimalen Qualität aus und welche bei der Abgabe erreicht werden soll. Hierbei ist es wichtig, zu wissen auf welchen Stand man sich gerade befindet und wie der allgemeine Stand ist. Wenn man also das klare Ziel vor Augen hat, zoomt man rein und darauf folgend wird raus gezoomt und man betrachtet den aktuellen Projektstand. Somit können Aufwände und eventuelle Risiken abgeschätzt werden und ob der Zeitplan eingehalten werden kann.
