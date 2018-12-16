@@ -1,5 +1,3 @@
-name: ausarbeitung
-class middle, center
 
 # Kapitel 3
 
@@ -33,6 +31,14 @@ Bevor man Anforderungen eindeutig festlegt, muss man durch den Prozess der Anfor
 Anforderungen entstehen aus den Zielen der Kunden. Besonders im Fokus stehen da die Nutzer, die nach Abgabe mit dem System arbeiten müssen. Diese Personen sollten bei der Anforderungsdefinition teilhaben.  
 Am Ende der Anforderungsdefinition kann ein Lasten- und Pflichtenheft angefertigt werden. Das Lastenheft beinhaltet lediglich eine vollständige Sammlung aller Anforderungen des Auftraggebers. Das Lastenheft ist "arbeitsneutral": es trägt keinesfalls zur Lösung bei. Diese Aufgabe übernimmt das Pflichtenheft. Das Pflichtenheft beschreibt die Aufgaben zur erfüllung der Anforderungen, basierend auf dem Lastenheft. 
 Zur Überwachung, ob die Ergebnisse den Anforderungen entsprechen, existiert das Anforderungsmanagement. Es ist ein begleitender Prozess, der stehts ein Auge auf die Anforderungen wirft. Er ist ebenfalls für die Anforderungen während der Planung und Organisation zuständig. Sollten Änderungen vorgenommen werden, so kümmert sich ebenfalls dieser Sektor dafür. Sowie die Dokumentation der Anforderungen.  
+Die Gesamtheit der Lieferungen können als Produktbaum dargestellt werden.
+
+<figure class="fig_left" style="width:430px;" role="group">
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/Ausarbeitung_Michael/include/michael/113_Produktbaum.PNG" alt="113_Produktbaum.PNG" />
+    <figcaption>
+        (Seite 113)
+    </figcaption>
+</figure>
 
 ---
 **Weshalb Anforderungen definieren?**
@@ -99,7 +105,13 @@ Bereits bei der Anforderungsdefinition muss geplant werden wie Anforderungen ver
     - richtige Dinge tun
 
 Hilfestellung bietet das V-Modell, welches eine iterative Vorgehensweise vorgibt und eine Qualitätssicherung in die Planung einfügt.  
-`V-Modell einfügen`  
+
+<figure class="fig_left" style="width:430px;" role="group">
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/Ausarbeitung_Michael/include/michael/121_V-Modell.PNG" alt="121_V-Modell.PNG" />
+    <figcaption>
+        (Seite 121)
+    </figcaption>
+</figure>
 
 **Verifikation**  
 Verifikation bietet zwei Arten von Methoden zur Kontrolle. Die Methoden mit geringerem Aufwand sind die theoretischen. Diese analysieren die Pläne und Beschreibungen der Anforderungen mit der Intention theoretische Übereinstimmungen nachzuweisen.  
@@ -108,6 +120,13 @@ Am Ende der Verifikation, muss feststehen, dass das System die Dienste, die es a
 
 **Validierung**  
 Bei der Validierung wird nachgewiesen, dass das System so funktioniert, wie die Stakeholder es erwarten. Dabei werden die Stakeholder miteingebunden und immer das Gesamtsystem betrachtet. Die dabei entstandenen Ergebnisse ziehen die Nutzererwartungen ins Kalkül. Am Ende der Validierung muss bewiesen worden sein, dass das System, die Leistung erbringt, die die Stakeholder erwartet haben.  
+
+<figure class="fig_left" style="width:430px;" role="group">
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/Ausarbeitung_Michael/include/michael/122_Verifizieren_und_Validieren.PNG" alt="122_Verifizieren_und_Validieren.PNG" />
+    <figcaption>
+        (Seite 122)
+    </figcaption>
+</figure>
 
 ---
 **Wer und Wann?**
@@ -194,6 +213,13 @@ Auch bietet er Hilfestellung für:
 **Wie wird PSP erstellt?**
 
 Es erfolgen einige Schritte ehe der PSP erstellt wird. Zuerst werden alle Aufgaben, die im Projekt erledigt werden müssen gesammelt. Die Aufgaben werden zu Arbeitspaketen definiert und erhalten eine vollständige Beschreibung. Im PSP werden diese APs schließlich strukturiert und hierarchisch angeordnet. Am Ende ist der PSP nicht einfach fertig, sondern wird auch noch während der Durchführung oft geprüft und überarbeitet.  
+
+<figure class="fig_left" style="width:430px;" role="group">
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/Ausarbeitung_Michael/include/michael/138_Muster_AP-Beschreibung.PNG" alt="138_Muster_AP-Beschreibung.PNG" />
+    <figcaption>
+        (Seite 138)
+    </figcaption>
+</figure>
 
 Zum Sammeln der Aufgaben existieren zwei Methoden:  
 - Bottum-Up: Die Aufgaben werden von hinten nach vorne aufgelistet. Dies geschieht durch Brainstorming des Teams.  
@@ -292,6 +318,7 @@ Und hier eine Arbeitsbeschreibung, bevor sich die Crew dagegen entschieden hat.
 - bewerten
 - Risikomaßnahmen
 - Wer und Wann?
+- Risiken im Segeltörn
 
 ---
 **Risikomanagement**
@@ -322,6 +349,13 @@ Sollte sich im Verlauf des Projektes für ein risikohaftes Vorhaben entschieden 
 
 Das Risikomanagement versucht Vorsorgen zu treffen, sodass Risiken erst gar nicht zu Problemen werden. Des weiteren existiert das Gesetz zur Kontrolle und Transparenz im Unternehmensbereich. Zudem wurde die Haftung von Vorstand, Aufsichtsrat und Wirtschaftsprüfern erweitert, was eine Pflicht zur Risikofrüherkennung mit sich bringt. Außerdem müssen Risiken im Lagebericht veröffentlicht werden.  
 
+<figure class="fig_left" style="width:430px;" role="group">
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/Ausarbeitung_Michael/include/michael/148_Risikomanagementaufgaben.PNG" alt="148_Risikomanagementaufgaben.PNG" />
+    <figcaption>
+        (Seite 148)
+    </figcaption>
+</figure>
+
 ---
 **Risiken identifizieren**
 
@@ -350,6 +384,13 @@ Zu festgelegten Zeitpunkten soll sich das Projektteam während der Durchführung
 Top priorisierte Risiken müssen mit Maßnahmen versorgt werden. Gegen milde Risiken werden Vorsorgen getroffen und geringe Risiken werden akzeptiert und beobachtet.  
 Während der Risikobewertung stehen zwei Aspekte im Vordergrund: Eintrittswahrscheinlichkeit und Auswirkung. Die Priorität erschließt sich aus der Summe.  
 
+<figure class="fig_left" style="width:430px;" role="group">
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/Ausarbeitung_Michael/include/michael/151_Risikoeintritt.PNG" alt="151_Risikoeintritt.PNG" />
+    <figcaption>
+        (Seite 151)
+    </figcaption>
+</figure>
+
 ---
 **Risikomaßnahmen**
 
@@ -359,6 +400,13 @@ Man soll sich bei den Maßnahmen an die vier Strategien halten:
 2. Risiko auf andere verlagern
 3. Risiko vermindern
 4. Risiko akzeptieren
+
+<figure class="fig_left" style="width:430px;" role="group">
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/Ausarbeitung_Michael/include/michael/152_Risikoumgangstrategien.PNG" alt="152_Risikoumgangstrategien.PNG" />
+    <figcaption>
+        (Seite 152)
+    </figcaption>
+</figure>
 
 Sollte eine Maßnahme ergriffen werden müssen, so soll der Aufwand für die Maßnahmen geschätzt werden. Es wird selbstverständlich die Maßnamhe mit dem geringsten Aufwand gewählt. Sobald geeignete Maßnahmen ergriffen wurden, sollen diese unter Beobachtung stehen.  
 Der Projektstrukturplan muss um die Maßnahme erweitert und die Kosten-, Aufwands- und Terminplanung angepasst werden. Für akzeptierte Risiken müssen Reserven eingeplant werden.  
@@ -378,6 +426,32 @@ Dieses Dokument wird kontinuierlich auf dem neuesten Stand gehalten.
 Projektteam und Stakeholder sollten so früh wie möglich mit der Risikobewertung beginnen. Das Risikoregister sollte spätestens in der Planungsphase erzeugt werden. Das Risikomanagement sollte hingegen kontinuierlich fortgeführt werden.  
 
 ---
+**Risiken im Segeltörn**
+
+Gemäß des Sportversicherers ARAG passieren 129 Unfälle mit Sportbooten pro Jahr. Bei 11 - 18 davon handelt es sich um schwere Unfälle wie beispielsweise der Tod.  
+Die Themengebiete beim Segeltörn lauten:  
+- Crewmitglieder (Kompetenz, Unerfahren)
+- Gefahrensituationen (Mann-Über-Bord-Manöver)
+- Leben an Bord (soziales Klima)
+- Reiseplanung (Wetter, Gebiet)
+- Schiff (Ausrüstung)
+
+Die am häufigsten verletzten Körperteile sind die Hände (35,1%) und der Kopf (21,3%). Statistisch gesehen können 80% der Unfälle auf menschliches Versagen zurückgeführt werden.  
+Die Crew muss die Risiken bewerten und für entsprechende Maßnahmen vorsorgen. Die Bewertung erfolt subjektiv. Die Crew ist unerfahren und bewertet Risiken strenger als eine professionelle Segelmanschaft. Die Risiken kommen ins Risikoregister, welches fortlaufend während der Durchführung überprüft wird. Denn einige Risiken können verschwinden oder neue auftauchen. Verschwundene oder gering bewertete Risiken, die eingetroffen sind, kommen auf die Watchlist.  
+Das Risikoregister ist subjektiv von der Crew entworfen und es besteht keinen Zwang perfekt zu sein.  
+
+<figure class="fig_left" style="width:430px;" role="group">
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/Ausarbeitung_Michael/include/michael/158_Risikoregister_Segeltoern.PNG" alt="158_Risikoregister_Segeltoern.PNG" />
+</figure>
+
+<figure class="fig_left" style="width:430px;" role="group">
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/Ausarbeitung_Michael/include/michael/159_Risikoregister_Segeltoern2.PNG" alt="159_Risikoregister_Segeltoern2.PNG" />
+    <figcaption>
+        (Seite 158/159)
+    </figcaption>
+</figure>
+
+---
 
 # Qualität
 
@@ -385,6 +459,7 @@ Projektteam und Stakeholder sollten so früh wie möglich mit der Risikobewertun
 - Weshalb?
 - Ziele
 - Wer und Wann?
+- Qualität am Segeltörn
 
 ---
 **Qualität erzeugen**
@@ -434,6 +509,13 @@ Das Qualitätsmanagement befolgt 8 Grundsätze:
 8. Lieferantenbeziehungen zum gegenseitigen Nutzen
    - Lieferanten und ORganisationen sind voneinander abhängig
 
+<figure class="fig_left" style="width:430px;" role="group">
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/Ausarbeitung_Michael/include/michael/164_Qualitätsziele.PNG" alt="164_Qualitätsziele.PNG" />
+    <figcaption>
+        (Seite 164)
+    </figcaption>
+</figure>
+
 Ziele, welche den Ablauf betreffen, sollen sicherstellen, dass Qualität im Produkt durch einen qualitativen Prozess erreicht wird. Es gibt 10 Ziele, die als wichtig erachtet werden:  
 1. die zu liefernden Ressourcen sollen eindeutig beschrieben sein
 2. eindeutige Anforderungen von Kunden belegen lassen
@@ -454,6 +536,23 @@ Geprüft wird bei Meilensteinen, wobei die Produktqualität nach Verifikations- 
 Die Verantwortung liegt bei zwei Funktionsträgern: der Qualitätsbeauftragte und der Qualitätsmanager.  
 
 ---
+**Qualität am Segeltörn**
+
+Um die Qualität eines erfolgreichen Segeltörns bestimmen zu können, sollte man sich einen misslungenen anschauen.  
+Bereits am ersten Tag breitete sich eine negative Stimmung aus, da ein Crewmitglied andere Erwartungen mitsichbrachte, als die anderen. Desweiteren hat ein Starkwind das Segelbeschädigt, weswegen man mittels Motors zwei Tage bis zum Heimathafen zurück scheppern musste.  
+Am Ende beschloss sich die Crew den Törn abzubrechen. Somit brachte der Törn nur Unzufriedenheit. Ob ein Qualitätsplan, samt Erfolgs- und Abbruchskriterien, den Ausflug gerettet hätte bleibt ungewiss. Nichts alledem wird empfohlen einen Qualitätsplan zu erstellen und Qualitätsziele festzulegen.  
+Der Qualitätsplan muss die Erwartungen aller Mitglieder berücksichtigen und an die Crew gelten zwei Vorraussetzungen:  
+1. Jeder weiß, wie die Qualität sein wird
+2. Jeder weiß, was zu tun ist, um die Qualität einzuhalten
+
+<figure class="fig_left" style="width:430px;" role="group">
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/Ausarbeitung_Michael/include/michael/170_Qualitaetsplan_Segeltoern.PNG" alt="170_Qualitaetsplan_Segeltoern.PNG" />
+    <figcaption>
+        (Seite 170)
+    </figcaption>
+</figure>
+
+---
 
 # Projektablauf und Termine
 
@@ -463,6 +562,7 @@ Die Verantwortung liegt bei zwei Funktionsträgern: der Qualitätsbeauftragte un
 - Dauer schätzen
 - Wie?
 - Wer und Wann?
+- Termin- und Ablaufplan im Segeltörn
 
 ---
 **Termine realistisch planen**
@@ -580,12 +680,44 @@ Bei der Erstellung der Ablaufreihenfolge nennt man den Weg mit den wichtigsten A
 Netzplantechniken werden für komplexe Vorhaben verwendet.  
 Es sind Softwaretools zur unterstützung für Termin- und Ablaufplanung vorhanden.
 
+<figure class="fig_left" style="width:430px;" role="group">
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/Ausarbeitung_Michael/include/michael/180_Netzplan.PNG" alt="180_Netzplan.PNG" />
+    <figcaption>
+        (Seite 180)
+    </figcaption>
+</figure>
+
 ---
 **Wer und Wann?**
 
 Die Hauptaufgabe besitzt der Projektcontroller. Er beginnt dabei bei den Terminen aus dem Vertrag mit dem Kunden.  
 Der Masterterminplan, sowie alle anderen Pläne werden vom Projektcontrollen zusammen mit dem Team unter mehrern Iterationsabläufen erarbeitet.  
 Untergeordnete Pläne werden von den AP-Verantwortlichen erarbeitet.
+
+---
+**Termin- und Ablaufplan im Segeltörn**
+
+Der Start des Projektes beginnt am 01.02.2015 mit der Buchung des Schiffes und den Flugtickets. Enden soll das Projekt am 30.11.2015. Der Törn selbst soll von Mitte September bis Ende September abgewickelt werden.  
+NAch Abschluss der Buchungen liegt der Durchführungszeitplan fest und kann nur noch unter Kostenaufwand geändert werden. Die Buchungen sind somit verbindlich. Das Risikomanagement könnte Maßnahmen für eine mögliche Rückabwicklung vornehmen.  
+Sobald die Baseline abgeschlossen wurde, blaibt der Crew noch Zeit für weitere Feinplanung, für zum Beispiel den Proviantplan.  
+Der Projektcontroller ist verantwortlich mit der Crew den Masterterminplan zu erstellen. Zurückgegriffen wird dabei auf den Meilensteinplan, dem Projektstrukturplan und den Arbeitspaketbeschreibungen. Wie viele andere Pläne wird auch dieser iterativ überprüft und überarbeitet.  
+Sollten weitere Daten vorkommen, werden sie erst in den Masterterminplan aufgenommen, sobald diese auch vorliegen.  
+
+<figure class="fig_left" style="width:430px;" role="group">
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/Ausarbeitung_Michael/include/michael/182_Masterterminplan_Segeltoern.PNG" alt="182_Masterterminplan_Segeltoern.PNG" />
+    <figcaption>
+        (Seite 182)
+    </figcaption>
+</figure>
+
+Zusätzlich kann auch eine Terminliste erstellt werden. Sie eignet sich gut für Soll-Ist-Vergleiche und der Vorfolgung der Ergebnisse.
+
+<figure class="fig_left" style="width:430px;" role="group">
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/Ausarbeitung_Michael/include/michael/183_Terminliste_Segeltoern.PNG" alt="183_Terminliste_Segeltoern.PNG" />
+    <figcaption>
+        (Seite 183)
+    </figcaption>
+</figure>
 
 ---
 
@@ -598,6 +730,7 @@ Untergeordnete Pläne werden von den AP-Verantwortlichen erarbeitet.
 - Kosten kalkulieren
 - Zusammenhang
 - Wer und Wann?
+- Aufwands- und Kostenplanung im Segeltörn
 
 ---
 **Projektkalkulation**
@@ -700,6 +833,13 @@ Der geschätzte Materialverbrauch muss mit Geld bewertet werden. Doch da ohne Re
 - Plankosten 
 - Risikozuschläge
 
+<figure class="fig_left" style="width:430px;" role="group">
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/Ausarbeitung_Michael/include/michael/192_Kalkulation_AP.PNG" alt="192_Kalkulation_AP.PNG" />
+    <figcaption>
+        (Seite 192)
+    </figcaption>
+</figure>
+
 Folgende Punkte liegen im Rahmen der Projektkalkulation zur Verfügung:
 - kostenwirksame Leistungen werden mit Geld belegt
 - die Zusammenarbeit erfolgt mit dem Rechnungswesen
@@ -730,6 +870,46 @@ Kombiniert mit dem Terminplan wird das Projektbudget erstellt. Aufgrund der APs 
 **Wer und Wann?**
 
 Der Projektleiter und -controller erstellen dies in der Planungsphase. Die Verrechnungssätze werden vom Rechnungswesen übernommen. AP-Verantwortliche nehmen an der SChätzung teil. Das Resultat wird besprochen zwischen Kunden und dem Management. Endgültige Entscheidnug erst nach Iterationen.
+
+---
+**Aufwands- und Kostenplan im Segeltörn**
+
+Zum Gesamtaufwand des Segeltörns gehören:  
+- Arbeitsuafwand (in Stunden)
+- Sachkosten:
+  - Kosten der Schiffscharter
+  - Reisekosten (Hin- und Heimflug, Taxi/Bus)
+  - Proviant
+  - Kosten während Durchführung (Diesel, Wasser, Strom)
+  - Versicherungsbeiträge
+  - Kosten für Crewausflüge
+  - Kosten für Medienkommunikation
+  - Sonstiges
+
+Die Gesamtkosten können in Phasen, Teilaufgaben und Arbeitspakete geordnet werden. Mittles Top-Down-Perspektive ergibt sich folgendes:  
+- Sachkosten für 6-8 Personen ca. 15.000€ (1.800 pro Person + Risikozuschlag)
+- Arbeitsaufwand min. 1.000h (100h Projektmanagement, 300h Vorbereitung, 600h Durchführung)
+
+Die Informationen stamen aus der Erfahrung des Skippers und vergleichbarer Törns. Das Kernteam sammelt weitere Daten. Folgend ermittelt das Team die Gesamtkosten und verteilt es prozentual auf die Aufgaben der zweiten Ebene des Projektstrukturplans.  
+
+Schätzungen der Top-Down-Analyse sind naturgemäß ungenau. Nach Fertigstellung des Projektstrukturplans können Aufwand und Sachkosten der Arbeitspakete geschätzt werden. Dies wird mittels Buttom-Up-Analyse unter Aufsicht vom Projektcontroller durchgeführt.  
+Einsicht auf die Kosten kann erhoben werden, wenn die Kostenschätzung mit dem Terminplan vereint wurden. Im Fall Segeltörn wird somit ersichtlich, dass die Zahlung für Schiffs- und Flugbuchung bis zum 30. April erfolgen müssen.  
+
+<figure class="fig_left" style="width:430px;" role="group">
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/Ausarbeitung_Michael/include/michael/196_Kosten_Arbeitsaufwand_Segeltoern.PNG" alt="196_Kosten_Arbeitsaufwand_Segeltoern.PNG" />
+    <figcaption>
+        (Seite 196)
+    </figcaption>
+</figure>
+
+Den Verlauf der Kosten zeigt die Kostensummenlinie:
+
+<figure class="fig_left" style="width:430px;" role="group">
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/Ausarbeitung_Michael/include/michael/197_Kostensummenlinie_Segeltoern.PNG" alt="197_Kostensummenlinie_Segeltoern.PNG" />
+    <figcaption>
+        (Seite 197)
+    </figcaption>
+</figure>
 
 ---
 # Baseline
@@ -765,5 +945,12 @@ Es ist wichtig, dass auch ALternativen besprochen werden. Eine Hilfe dabei biete
    - mittels Punktzahl, errechnet durch Gewichtung
 4. beste Lösung bestimmen
 5. Dokumentation
+
+<figure class="fig_left" style="width:430px;" role="group">
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/Ausarbeitung_Michael/include/michael/200_Nutzwertanalyse.PNG" alt="200_Nutzwertanalyse.PNG" />
+    <figcaption>
+        (Seite 200)
+    </figcaption>
+</figure>
 
 ---
