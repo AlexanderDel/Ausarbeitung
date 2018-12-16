@@ -1,4 +1,4 @@
-
+﻿
 # Kapitel 3
 
 **Inhaltsverzeichnis**  
@@ -29,8 +29,8 @@ Mit den Anforderungen steht und fällt das Projekt. Nach einer Studie des Projec
 Eine Anforderung ist eine Eigenschaft, die das fertige System erbringen oder besitzen muss, um einer festgelegten Bedingung entsprechen zu können.  
 Bevor man Anforderungen eindeutig festlegt, muss man durch den Prozess der Anforderungsdefinition. Bei der Anforderungsdefinition werden die Anforderungen für alle Parteien verbindlich und vollständig beschrieben. Dabei werden die Anforderungen ermittelt, analysiert und spezifiziert.  Das sind nicht einfach drei Schritte, die nacheinander abgearbeitet, sondern so oft durchlaufen werden, bis ein akzeptierendes Endergebnis gefunden wurde. Anforderungen sind erst dann erfolgreich definiert, wenn jeder die Anforderungen gleich versteht und interpretiert. Ebenfalls sollten Anforderungen messbar definiert werden, damit man bei der Anforderungskontrolle brauchbare Werte ermitteln kann, um den Projektstand besser beurteilen zu können.  
 Anforderungen entstehen aus den Zielen der Kunden. Besonders im Fokus stehen da die Nutzer, die nach Abgabe mit dem System arbeiten müssen. Diese Personen sollten bei der Anforderungsdefinition teilhaben.  
-Am Ende der Anforderungsdefinition kann ein Lasten- und Pflichtenheft angefertigt werden. Das Lastenheft beinhaltet lediglich eine vollständige Sammlung aller Anforderungen des Auftraggebers. Das Lastenheft ist "arbeitsneutral": es trägt keinesfalls zur Lösung bei. Diese Aufgabe übernimmt das Pflichtenheft. Das Pflichtenheft beschreibt die Aufgaben zur erfüllung der Anforderungen, basierend auf dem Lastenheft. 
-Zur Überwachung, ob die Ergebnisse den Anforderungen entsprechen, existiert das Anforderungsmanagement. Es ist ein begleitender Prozess, der stehts ein Auge auf die Anforderungen wirft. Er ist ebenfalls für die Anforderungen während der Planung und Organisation zuständig. Sollten Änderungen vorgenommen werden, so kümmert sich ebenfalls dieser Sektor dafür. Sowie die Dokumentation der Anforderungen.  
+Am Ende der Anforderungsdefinition kann ein Lasten- und Pflichtenheft angefertigt werden. Das Lastenheft beinhaltet lediglich eine vollständige Sammlung aller Anforderungen des Auftraggebers. Das Lastenheft ist "arbeitsneutral": es trägt keinesfalls zur Lösung bei. Diese Aufgabe übernimmt das Pflichtenheft. Das Pflichtenheft beschreibt die Aufgaben zur Erfüllung der Anforderungen, basierend auf dem Lastenheft. 
+Zur Überwachung, ob die Ergebnisse den Anforderungen entsprechen, existiert das Anforderungsmanagement. Es ist ein begleitender Prozess, der stets ein Auge auf die Anforderungen wirft. Er ist ebenfalls für die Anforderungen während der Planung und Organisation zuständig. Sollten Änderungen vorgenommen werden, so kümmert sich ebenfalls dieser Sektor dafür. Sowie die Dokumentation der Anforderungen.  
 Die Gesamtheit der Lieferungen können als Produktbaum dargestellt werden.
 
 <figure class="fig_left" style="width:430px;" role="group">
@@ -44,7 +44,7 @@ Die Gesamtheit der Lieferungen können als Produktbaum dargestellt werden.
 **Weshalb Anforderungen definieren?**
 
 Während der Definition der Anforderungen muss das Management mit den Fachmitarbeitern und bestenfalls mit den Stakeholdern zusammenarbeiten. Dies garantiert eine Verschmelzung der Sektoren, die normalerweise getrennt arbeitet.  
-Mithilfe der Anforderungen können die Ziele klarer festgelegt werden, was eine potenzielle Steigerung der Qualität mitsich bringt.  
+Mithilfe der Anforderungen können die Ziele klarer festgelegt werden, was eine potenzielle Steigerung der Qualität mit sich bringt.  
 Während der Definition der Anforderungen kommt man nicht drumherum sich das Projekt von mehreren Perspektiven zu betrachten, was dazu beiträgt, die ganze Beschaffenheit besser zu verstehen.  
 
 Aus der Gegenansicht: Was passiert, wenn man die Anforderungsdefinition vernachlässigt? Zum Einen existiert keine Basis auf der die Ziele erstellt werden können. Das zwingt das Projektteam die Ziele Pi-Mal-Daumen zu erstellen, sodass die Ziele im Endeffekt schwammig werden.  
@@ -84,13 +84,13 @@ Bei der Analyse sind drei Aspekte zu beachten:
     - Leistungen, die dem Kunden unbekannt sind, die aber den Kunden begeistern und dessen Zufriedenheit steigern.
 Die Kundenzufriedenheit ist nicht abhängig von der Leistung des Ergebnisses, sondern einzig vom Kunden.  
 
-Bei der Ordnung nehmen die Anforderungen eine Hierarchie an, die einsicht gewährt, welche Anforderung aus welcher übergeordneten Anforderung entspringt. Anforderungen, aus denen weitere Anforderungen entspringen, nennt man `Designtreiber`.  
+Bei der Ordnung nehmen die Anforderungen eine Hierarchie an, die Einsicht gewährt, welche Anforderung aus welcher übergeordneten Anforderung entspringt. Anforderungen, aus denen weitere Anforderungen entspringen, nennt man `Designtreiber`.  
 Sollte eine Anforderung geändert werden, so darf sich diese Änderung nicht negativ auf das Gesamtprojekt auswirken. Die Anforderungen werden nach `SMART` dokumentiert:  
 - Specific (Eindeutig): Die Formulierung erlaubt nur eine gültige Interpretation
 - Measurable (Prüfbar): Jede Anforderung ist mittels Kriterien überprüfbar
 - Accepted (Akzeptiert): Die Anforderungen sind seitens Auftragnehmer/ -geber akzeptiert
 - Reasonable (Gültig): Die Anforderungen erfüllen die Erwartungen der Stakeholder
-- Traceable (Nachvollziehbar): Der Ursprung, sowie die Entwicklung jeder Anforderung sind mittles Dokumentation nachvollziehbar  
+- Traceable (Nachvollziehbar): Der Ursprung, sowie die Entwicklung jeder Anforderung sind mittels Dokumentation nachvollziehbar  
 
 ---
 **Verifizieren und Validieren**
@@ -116,10 +116,10 @@ Hilfestellung bietet das V-Modell, welches eine iterative Vorgehensweise vorgibt
 **Verifikation**  
 Verifikation bietet zwei Arten von Methoden zur Kontrolle. Die Methoden mit geringerem Aufwand sind die theoretischen. Diese analysieren die Pläne und Beschreibungen der Anforderungen mit der Intention theoretische Übereinstimmungen nachzuweisen.  
 Die praktischen Methoden sind in einer Hinsicht aufwändiger, bieten allerdings bessere Ergebnisse. Sie prüfen existierende Objekte mittels Inspektionen und Tests.  
-Am Ende der Verifikation, muss feststehen, dass das System die Dienste, die es anbietet auch erwartungsgerecht erfüllen kann.
+Am Ende der Verifikation, muss feststehen, dass das System die Dienste, die es anbietet auch erwartungsgemäß erfüllen kann.
 
 **Validierung**  
-Bei der Validierung wird nachgewiesen, dass das System so funktioniert, wie die Stakeholder es erwarten. Dabei werden die Stakeholder miteingebunden und immer das Gesamtsystem betrachtet. Die dabei entstandenen Ergebnisse ziehen die Nutzererwartungen ins Kalkül. Am Ende der Validierung muss bewiesen worden sein, dass das System, die Leistung erbringt, die die Stakeholder erwartet haben.  
+Bei der Validierung wird nachgewiesen, dass das System so funktioniert, wie die Stakeholder es erwarten. Dabei werden die Stakeholder mit eingebunden und immer das Gesamtsystem betrachtet. Die dabei entstandenen Ergebnisse ziehen die Nutzererwartungen ins Kalkül. Am Ende der Validierung muss bewiesen worden sein, dass das System, die Leistung erbringt, die die Stakeholder erwartet haben.  
 
 <figure class="fig_left" style="width:430px;" role="group">
     <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/Ausarbeitung_Michael/include/michael/122_Verifizieren_und_Validieren.PNG" alt="122_Verifizieren_und_Validieren.PNG" />
@@ -165,7 +165,7 @@ und eine Liste der Designtreiber:
 - frische vor Ort Ernährung
 - Entdeckung des Landes
 
-Da die Anforderungen und Designtreiber komplett sind, kann die Crew nach und nach die Projektergebnisstruktur erstellen. Das fertige Dokument sieht wiefolgt aus:
+Da die Anforderungen und Designtreiber komplett sind, kann die Crew nach und nach die Projektergebnisstruktur erstellen. Das fertige Dokument sieht wie folgt aus:
 
 <figure class="fig_left" style="width:430px;" role="group">
     <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/Ausarbeitung_Michael/include/michael/127_Projektergebnisstruktur_Segeltoern.PNG" alt="127_Projektergebnisstruktur_Segeltoern.PNG" />
@@ -190,7 +190,7 @@ Da die Anforderungen und Designtreiber komplett sind, kann die Crew nach und nac
 Der Projektstrukturplan (PSP) ist der Plan der Pläne. In ihm werden Festlegungen getroffen, die das weitere Fortfahren erleichtern. Doch dazu müssen alle Teammitglieder den Plan akzeptieren.  
 Der PSP umfasst die Gesamtheit der zu erledigenden Aufgaben. Er zerlegt das Projekt systematisch in Teilaufgaben und Arbeitspakete. Die Termin-, Ablauf-, Kosten- und Zahlungsmittelflussplanung bauen auf den PSP auf.  
 
-Der Projektstrukturplan teilt die Vollständigkeit aller Arbeiten auf eine hierarchische Struktur auf. Es bietet Einsicht auf unter- und übergeordnete Elemente, wobei die übergeordneten durch die untergeordneten Elemente in vollem Umfang beschrieben werden. Das kleinste Element stellt das Arbeitspaket dar. Der PSP bietet unterstützung bei der Projektplanung und -steuerung. er kann entweder grafisch oder als Liste dargestellt werden.  
+Der Projektstrukturplan teilt die Vollständigkeit aller Arbeiten auf eine hierarchische Struktur auf. Es bietet Einsicht auf unter- und übergeordnete Elemente, wobei die übergeordneten durch die untergeordneten Elemente in vollem Umfang beschrieben werden. Das kleinste Element stellt das Arbeitspaket dar. Der PSP bietet Unterstützung bei der Projektplanung und -steuerung. er kann entweder grafisch oder als Liste dargestellt werden.  
 
 >*Arbeitspaket* (AP): Das kleinste Element im PSP. Es ist eine in sich geschlossene Aufgabenstellung mit festgelegten Zeitpunkten und definiertem Ergebnis und Aufwand.  
 (Seite 129)
@@ -198,7 +198,7 @@ Der Projektstrukturplan teilt die Vollständigkeit aller Arbeiten auf eine hiera
 ---
 **Warum PSP?**
 
-Der Projektstrukturplan ist geordnet und bietet einsicht, was zu erledigen ist, um das Projekt erfolgreich zu bewältigen. Er hilft die Ordnung im Projekt einzuhalten.  
+Der Projektstrukturplan ist geordnet und bietet Einsicht, was zu erledigen ist, um das Projekt erfolgreich zu bewältigen. Er hilft die Ordnung im Projekt einzuhalten.  
 Auch bietet er Hilfestellung für:  
 1. ein vollständiges Abbild der zu erledigen Aufgaben
 2. Verantwortlichkeiten den jeweiligen APs zuzuordnen
@@ -227,7 +227,7 @@ Zum Sammeln der Aufgaben existieren zwei Methoden:
 
 Zum Gliedern der Aufgaben gibt es ebenfalls mehrere Methoden:  
 - Verrichtungsorientierung (auch Funktionale Organisation): Einliniensystem
-- Objektorientierung: welche Ergebinsse werden erbracht
+- Objektorientierung: welche Ergebnisse werden erbracht
 - Phasenorientierung: orientiert am Phasenmodell
 
 In der Praxis wird meist eine Gemischtorientierte Form benutzt.
@@ -237,7 +237,7 @@ Für jedes AP im PSP muss es mindestens einen Verantwortlichen aus dem Team gebe
 
 Eine weitere Frage die sich das Team stellen muss ist, wo sie Eigen- und wo sie Fremdressourcen verwenden. Dabei gilt zu beachten welche Ressourcen dem Unternehmen zur Verfügung stehen und welche Kompetenz die Arbeiter mitbringen. Im Schnitt ist es immer billiger seine eigenen Ressourcen zu verwenden, doch darunter könnte die Qualität leiden.  
 
-Wenn dann der PSP erstellt wird, gilt es auf einige Kriterien zu achten. Der PSP muss alle Aufgaben abbilden, die im Laufe der Druchführung notwendig sind. Zukünftige APs sollen nur grob beschrieben werden, damit Platz für Handlungsspielraum gelassen werden kann. Das übergeordnete Element muss zu 100% aus den drunter liegenden Elementen bestehen. Außerdem müssen alle APs überschneidungsfrei sein, damit doppelte Arbeit vermieden wird.  
+Wenn dann der PSP erstellt wird, gilt es auf einige Kriterien zu achten. Der PSP muss alle Aufgaben abbilden, die im Laufe der Durchführung notwendig sind. Zukünftige APs sollen nur grob beschrieben werden, damit Platz für Handlungsspielraum gelassen werden kann. Das übergeordnete Element muss zu 100% aus den drunter liegenden Elementen bestehen. Außerdem müssen alle APs überschneidungsfrei sein, damit doppelte Arbeit vermieden wird.  
 
 Mehr zu den APs:  
 - Die APs sollen nicht mehr als in maximal 5 Ebenen unterteilt werden.
@@ -256,7 +256,7 @@ Mehr zu den APs:
     - Start- und Endtermin sind definiert
     - geschätzter Aufwand
 
-Ein Projekt ist natürlich auch mit Kosten verbunden und auch dem versucht der PSP Einsicht zu verleiten. Da im PSP alle APs des Projektes aufgelistet sind und die APs vorzugsweise eine Aufwandsschätzung beinhalten sammt Lieferobjekten, kann man bereits erste Kostenkalkulationen erlauben. Die anfallenden Kosten sollen in Kostenarten definiert werden (Personalkosten, Lieferkosten, ...). Es soll auch Rücksicht auf Fehlerbearbeitung genommen werden und noch etwas Spielraum für die Zukunft gelassen werden. Wenn das Projektbudget zu mager ausfällt und es in der späteren Durchführung zu unvorhergesehenen Vorkommnissen kommt, kann es für das Projekt zu teuren Umtrieben führen.  
+Ein Projekt ist natürlich auch mit Kosten verbunden und auch dem versucht der PSP Einsicht zu verleiten. Da im PSP alle APs des Projektes aufgelistet sind und die APs vorzugsweise eine Aufwandsschätzung beinhalten samt Lieferobjekten, kann man bereits erste Kostenkalkulationen erlauben. Die anfallenden Kosten sollen in Kostenarten definiert werden (Personalkosten, Lieferkosten, ...). Es soll auch Rücksicht auf Fehlerbearbeitung genommen werden und noch etwas Spielraum für die Zukunft gelassen werden. Wenn das Projektbudget zu mager ausfällt und es in der späteren Durchführung zu unvorhergesehenen Vorkommnissen kommt, kann es für das Projekt zu teuren Umtrieben führen.  
 
 ---
 **Wer und Wann?**
@@ -266,7 +266,7 @@ Der PSP wird bereits in der Projektplanung erzeugt. Darin einbezogen sind der Au
 ---
 **Projektstruktur für den Segeltörn**
 
-Für eine erfolgreiche Durchführung des Segeltörns sollte die Crew wohin sie segeln, aber auch wie sie es tun sollen. Damit die Erstellung des Projektstrukturplans gelint, müssen die `Lieferobjekte`, sowie die `unterstützenden Aufgaben` erfasst werden.  
+Für eine erfolgreiche Durchführung des Segeltörns sollte die Crew wohin sie segeln, aber auch wie sie es tun sollen. Damit die Erstellung des Projektstrukturplans gelingt, müssen die `Lieferobjekte`, sowie die `unterstützenden Aufgaben` erfasst werden.  
 Die Crew entscheidet sich für folgendes Vorgehen:  
 1. Gesamtheit der Aufgaben erfassen
    - Die Crew führt ein Brainstorming durch und notiert sich die zu erledigenden Aufgaben. Dabei greifen sie auf die Projektergebnisstruktur, der Erfahrung und externe Segelliteratur zurück.  
@@ -326,15 +326,15 @@ Und hier eine Arbeitsbeschreibung, bevor sich die Crew dagegen entschieden hat.
 >*Risiko*: Die Auswirkung von Unsicherheit auf Ziele.  
 (Seite 145)
 
-Das Risikomanagement versucht die potenziellen Gefahren im Projekt möglichst klein zu halten. Es kalkuliert aus risikohaften Vorhaben diejenigen, dessen positive Ereignisse am wahrscheinlichsten sind.  
-Der Risikoverantwortliche ist zuständig für die Überwachung und Umsatzung des Risikos, sowie die mögliche Maßnahme.  
+Das Risikomanagement versucht die potenziellen Gefahren im Projekt möglichst klein zu halten. Es kalkuliert aus risikobehafteten Vorhaben diejenigen, dessen positive Ereignisse am wahrscheinlichsten sind.  
+Der Risikoverantwortliche ist zuständig für die Überwachung und Umsetzung des Risikos, sowie die mögliche Maßnahme.  
 Risiken bringen gewisse Merkmale mit sich:  
 - Die Gefahr, dass das Projektziel nicht erreicht wird.
 - Ihre Auswirkungen liegen in Zukunft.
 - Es ist unsicher, ob ihre Auswirkung überhaupt eintrifft.
 - Auch wenn die Auswirkung eintrifft, ist dessen Wirkung unsicher.
 
-Sollte sich im Verlauf des Projektes für ein risikohaftes Vorhaben entschieden werden, so ist dies noch kein Problem, es kann sich aber zu einem entwickeln. Es ist die Aufgabe des Risikomanagements, dass das Risiko nicht zu einem Problem wird. Das Risikomanagement unterscheidet zwischen verschiedenen Risiken:  
+Sollte sich im Verlauf des Projektes für ein risikobehaftetes Vorhaben entschieden werden, so ist dies noch kein Problem, es kann sich aber zu einem entwickeln. Es ist die Aufgabe des Risikomanagements, dass das Risiko nicht zu einem Problem wird. Das Risikomanagement unterscheidet zwischen verschiedenen Risiken:  
 - Geschäftsrisiken:
     - beeinflussen Projektnutzen oder -wert
     - ist das Projekt überhaupt richtig
@@ -375,7 +375,7 @@ Projektrisiken entwickeln sich entweder beim Projektumfeld oder bereits bei den 
     - Themenfeld Projektmanagement (unerfahrene Projektleitung)
 - Kreativitätstechniken
 
-Hierbei ist die Leistung des Teams gefragt und nicht nur von einzelnen Experten. Es ist auch gern gesehen wenn man wichtige Stakeholde miteinbezieht.
+Hierbei ist die Leistung des Teams gefragt und nicht nur von einzelnen Experten. Es ist auch gern gesehen wenn man wichtige Stakeholder miteinbezieht.
 
 ---
 **Risiken bewerten**
@@ -408,7 +408,7 @@ Man soll sich bei den Maßnahmen an die vier Strategien halten:
     </figcaption>
 </figure>
 
-Sollte eine Maßnahme ergriffen werden müssen, so soll der Aufwand für die Maßnahmen geschätzt werden. Es wird selbstverständlich die Maßnamhe mit dem geringsten Aufwand gewählt. Sobald geeignete Maßnahmen ergriffen wurden, sollen diese unter Beobachtung stehen.  
+Sollte eine Maßnahme ergriffen werden müssen, so soll der Aufwand für die Maßnahmen geschätzt werden. Es wird selbstverständlich die Maßnahme mit dem geringsten Aufwand gewählt. Sobald geeignete Maßnahmen ergriffen wurden, sollen diese unter Beobachtung stehen.  
 Der Projektstrukturplan muss um die Maßnahme erweitert und die Kosten-, Aufwands- und Terminplanung angepasst werden. Für akzeptierte Risiken müssen Reserven eingeplant werden.  
 
 Das Risikomanagement erstellt als Ergebnis ihrer Arbeit ein Risikoregister. Dafür empfiehlt sich folgender Inhalt:  
@@ -437,7 +437,7 @@ Die Themengebiete beim Segeltörn lauten:
 - Schiff (Ausrüstung)
 
 Die am häufigsten verletzten Körperteile sind die Hände (35,1%) und der Kopf (21,3%). Statistisch gesehen können 80% der Unfälle auf menschliches Versagen zurückgeführt werden.  
-Die Crew muss die Risiken bewerten und für entsprechende Maßnahmen vorsorgen. Die Bewertung erfolt subjektiv. Die Crew ist unerfahren und bewertet Risiken strenger als eine professionelle Segelmanschaft. Die Risiken kommen ins Risikoregister, welches fortlaufend während der Durchführung überprüft wird. Denn einige Risiken können verschwinden oder neue auftauchen. Verschwundene oder gering bewertete Risiken, die eingetroffen sind, kommen auf die Watchlist.  
+Die Crew muss die Risiken bewerten und für entsprechende Maßnahmen vorsorgen. Die Bewertung erfolgt subjektiv. Die Crew ist unerfahren und bewertet Risiken strenger als eine professionelle Segelmannschaft. Die Risiken kommen ins Risikoregister, welches fortlaufend während der Durchführung überprüft wird. Denn einige Risiken können verschwinden oder neue auftauchen. Verschwundene oder gering bewertete Risiken, die eingetroffen sind, kommen auf die Watchlist.  
 Das Risikoregister ist subjektiv von der Crew entworfen und es besteht keinen Zwang perfekt zu sein.  
 
 <figure class="fig_left" style="width:430px;" role="group">
@@ -481,7 +481,7 @@ Qualitative Prozesse führen zu qualitativen Produkten; sprich, Pfusch am Bau so
 **Weshalb Qualität**
 
  Qualität sollte eingehalten werden, da es die Kundenzufriedenheit sicherstellt. Eine gelungene Kundenzufriedenheit baut vertrauen zum Kunden auf und stellt sicher, dass der Kunde wiederkommt und das Unternehmen weiterempfiehlt. Wenn die Kundenzufriedenheit nicht erreicht werden sollte, dann appellieren diese an die Kulanz des Unternehmens und man ist gezwungen umsonst seine Ressourcen aufzuwenden um seinen Fehler zu beheben.  
- Desweiteren gewinnen die Beteiligten an Erfahrung und werden in diesem Berich kompetenter. 
+ Des weiteren gewinnen die Beteiligten an Erfahrung und werden in diesem Bereich kompetenter. 
 
 ---
 **Qualitätsziele**
@@ -501,13 +501,13 @@ Das Qualitätsmanagement befolgt 8 Grundsätze:
 4. Prozessorientierter Ansatz
    - Lösung erreicht, wenn Prozesse auf Kurs halten
 5. Systemorientierter Managementansatz
-   - kompetentes Leiten von Prozessen wirk sich positiv auf Zielerfüllung aus
+   - kompetentes Leiten von Prozessen wirkt sich positiv auf Zielerfüllung aus
 6. Ständige Verbesserung
    - Perfektion kann nur angestrebt, aber nie erreicht werden
 7. Sachbezogener Ansatz zur Entscheidungsfindung
    - Entscheidungen abgeleitet durch Fakten
 8. Lieferantenbeziehungen zum gegenseitigen Nutzen
-   - Lieferanten und ORganisationen sind voneinander abhängig
+   - Lieferanten und Organisationen sind voneinander abhängig
 
 <figure class="fig_left" style="width:430px;" role="group">
     <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/Ausarbeitung_Michael/include/michael/164_Qualitätsziele.PNG" alt="164_Qualitätsziele.PNG" />
@@ -539,9 +539,9 @@ Die Verantwortung liegt bei zwei Funktionsträgern: der Qualitätsbeauftragte un
 **Qualität am Segeltörn**
 
 Um die Qualität eines erfolgreichen Segeltörns bestimmen zu können, sollte man sich einen misslungenen anschauen.  
-Bereits am ersten Tag breitete sich eine negative Stimmung aus, da ein Crewmitglied andere Erwartungen mitsichbrachte, als die anderen. Desweiteren hat ein Starkwind das Segelbeschädigt, weswegen man mittels Motors zwei Tage bis zum Heimathafen zurück scheppern musste.  
-Am Ende beschloss sich die Crew den Törn abzubrechen. Somit brachte der Törn nur Unzufriedenheit. Ob ein Qualitätsplan, samt Erfolgs- und Abbruchskriterien, den Ausflug gerettet hätte bleibt ungewiss. Nichts alledem wird empfohlen einen Qualitätsplan zu erstellen und Qualitätsziele festzulegen.  
-Der Qualitätsplan muss die Erwartungen aller Mitglieder berücksichtigen und an die Crew gelten zwei Vorraussetzungen:  
+Bereits am ersten Tag breitete sich eine negative Stimmung aus, da ein Crewmitglied andere Erwartungen mit sich brachte, als die anderen. Des weiteren hat ein Starkwind das Segel beschädigt, weswegen man mittels Motors zwei Tage bis zum Heimathafen zurück scheppern musste.  
+Am Ende beschloss sich die Crew den Törn abzubrechen. Somit brachte der Törn nur Unzufriedenheit. Ob ein Qualitätsplan, samt Erfolgs- und Abbruchkriterien, den Ausflug gerettet hätte bleibt ungewiss. Nichts alledem wird empfohlen einen Qualitätsplan zu erstellen und Qualitätsziele festzulegen.  
+Der Qualitätsplan muss die Erwartungen aller Mitglieder berücksichtigen und an die Crew gelten zwei Voraussetzungen:  
 1. Jeder weiß, wie die Qualität sein wird
 2. Jeder weiß, was zu tun ist, um die Qualität einzuhalten
 
@@ -606,11 +606,11 @@ Die Einhaltung von Terminen hat meistens die höchste Priorität und ist ein Qua
 Verspätete Abgaben sorgen für Imageschäden.  
 Termin- und Ablaufplanung erfüllen wichtige Funktionen:  
 - Koordinationsfunktion:
-    - Vorraussetzung für zukünftige Planung
+    - Voraussetzung für zukünftige Planung
     - Hauptgrund der Kommunikation
     - unabdingbar für die Einweisung der Arbeiter, Personaleinsatzplanung, Statussitzungen und Verhandlungen mit Entscheidungsträgern
 - Prognose- und Steuerungsfunktion
-    - Termine sollen realistisch gestalltet werden
+    - Termine sollen realistisch gestaltet werden
     - unrealistische Termine gar nicht erst vereinbaren
     - man kann nur Einfluss auf Ungeschehenes nehmen
     - Bezugspunkt für Projektmessung
@@ -648,13 +648,13 @@ Es wird unterschieden zwischen vier Ressourcenarten:
 3. Material (Rohstoffe, ...)
 4. Finanzmittel (Geld)
 
-Personal und Finanzmittel gelten als kritische Ressourcen, die mit dem Terminplan optimiert werden. Einen gültigen Terminplan erhält man jedoch erst nach mehreren Schleifendurchläufen. Eine realitätsnahe Terminplanung nach absprache der Personaleinsatzplanung. Hierbei entsteht das Dilemma der Ablaufplanung: zwei konkurrierende Ziele zu optimieren.  
+Personal und Finanzmittel gelten als kritische Ressourcen, die mit dem Terminplan optimiert werden. Einen gültigen Terminplan erhält man jedoch erst nach mehreren Schleifendurchläufen. Eine realitätsnahe Terminplanung nach Absprache der Personaleinsatzplanung. Hierbei entsteht das Dilemma der Ablaufplanung: zwei konkurrierende Ziele zu optimieren.  
 - optimale Personalauslastung
 - kurze Auftragsdurchlaufzeit  
 
-Um Abwechslung zu erzeugen existiert die Multiprojektumgebung. Dabei versucht man unproduktive Zeiten zu minimieren unf gleichzeitig Nutzen aus dem Erfahrungsaustausch zwischen den Projekten zu erlangen. Jedoch sorgt dies zu hohen Belastungen der Mitarbeiter in Form von Stress, was gesundheitliche Folgen mitsichträgt. Abhilfe schaffen Spielräume in Projekten, welches aber wieder den Termindruck erhöht.
+Um Abwechslung zu erzeugen existiert die Multiprojektumgebung. Dabei versucht man unproduktive Zeiten zu minimieren und gleichzeitig Nutzen aus dem Erfahrungsaustausch zwischen den Projekten zu erlangen. Jedoch sorgt dies zu hohen Belastungen der Mitarbeiter in Form von Stress, was gesundheitliche Folgen mit sich trägt. Abhilfe schaffen Spielräume in Projekten, welches aber wieder den Termindruck erhöht.
 
-In der Ablaufplanung sollten Zeitreserven verplant werden, jedoch mit bedacht. Bei der Schätzung der APs soll erstmal ohne Zeitreserven erfolgen. Es wird vorgeschlagen, dass das von AP-Verantwortlichen übernommen werden und diese dabei realistisch bleiben sollen. Projektmitarbeiter sollten während sie an ihrem AP arbeiten von anderweitigen Arbeiten befreit werden.  
+In der Ablaufplanung sollten Zeitreserven verplant werden, jedoch mit bedacht. Bei der Schätzung der APs soll erstmals ohne Zeitreserven erfolgen. Es wird vorgeschlagen, dass das von AP-Verantwortlichen übernommen werden und diese dabei realistisch bleiben sollen. Projektmitarbeiter sollten während sie an ihrem AP arbeiten von anderweitigen Arbeiten befreit werden.  
 Der Umgang mit Puffer soll bewusst gehandhabt und bereits während der Terminplanung bedacht werden.
 
 ---
@@ -678,7 +678,7 @@ Bei der Erstellung der Ablaufreihenfolge nennt man den Weg mit den wichtigsten A
 - Metra-Potenzial-Methode
 
 Netzplantechniken werden für komplexe Vorhaben verwendet.  
-Es sind Softwaretools zur unterstützung für Termin- und Ablaufplanung vorhanden.
+Es sind Softwaretools zur Unterstützung für Termin- und Ablaufplanung vorhanden.
 
 <figure class="fig_left" style="width:430px;" role="group">
     <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/Ausarbeitung_Michael/include/michael/180_Netzplan.PNG" alt="180_Netzplan.PNG" />
@@ -691,15 +691,15 @@ Es sind Softwaretools zur unterstützung für Termin- und Ablaufplanung vorhande
 **Wer und Wann?**
 
 Die Hauptaufgabe besitzt der Projektcontroller. Er beginnt dabei bei den Terminen aus dem Vertrag mit dem Kunden.  
-Der Masterterminplan, sowie alle anderen Pläne werden vom Projektcontrollen zusammen mit dem Team unter mehrern Iterationsabläufen erarbeitet.  
+Der Masterterminplan, sowie alle anderen Pläne werden vom Projektcontroller zusammen mit dem Team unter mehreren Iterationsabläufen erarbeitet.  
 Untergeordnete Pläne werden von den AP-Verantwortlichen erarbeitet.
 
 ---
 **Termin- und Ablaufplan im Segeltörn**
 
 Der Start des Projektes beginnt am 01.02.2015 mit der Buchung des Schiffes und den Flugtickets. Enden soll das Projekt am 30.11.2015. Der Törn selbst soll von Mitte September bis Ende September abgewickelt werden.  
-NAch Abschluss der Buchungen liegt der Durchführungszeitplan fest und kann nur noch unter Kostenaufwand geändert werden. Die Buchungen sind somit verbindlich. Das Risikomanagement könnte Maßnahmen für eine mögliche Rückabwicklung vornehmen.  
-Sobald die Baseline abgeschlossen wurde, blaibt der Crew noch Zeit für weitere Feinplanung, für zum Beispiel den Proviantplan.  
+Nach Abschluss der Buchungen liegt der Durchführungszeitplan fest und kann nur noch unter Kostenaufwand geändert werden. Die Buchungen sind somit verbindlich. Das Risikomanagement könnte Maßnahmen für eine mögliche Rückabwicklung vornehmen.  
+Sobald die Baseline abgeschlossen wurde, bleibt der Crew noch Zeit für weitere Feinplanung, für zum Beispiel den Proviantplan.  
 Der Projektcontroller ist verantwortlich mit der Crew den Masterterminplan zu erstellen. Zurückgegriffen wird dabei auf den Meilensteinplan, dem Projektstrukturplan und den Arbeitspaketbeschreibungen. Wie viele andere Pläne wird auch dieser iterativ überprüft und überarbeitet.  
 Sollten weitere Daten vorkommen, werden sie erst in den Masterterminplan aufgenommen, sobald diese auch vorliegen.  
 
@@ -710,7 +710,7 @@ Sollten weitere Daten vorkommen, werden sie erst in den Masterterminplan aufgeno
     </figcaption>
 </figure>
 
-Zusätzlich kann auch eine Terminliste erstellt werden. Sie eignet sich gut für Soll-Ist-Vergleiche und der Vorfolgung der Ergebnisse.
+Zusätzlich kann auch eine Terminliste erstellt werden. Sie eignet sich gut für Soll-Ist-Vergleiche und der Verfolgung der Ergebnisse.
 
 <figure class="fig_left" style="width:430px;" role="group">
     <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/Ausarbeitung_Michael/include/michael/183_Terminliste_Segeltoern.PNG" alt="183_Terminliste_Segeltoern.PNG" />
@@ -739,13 +739,13 @@ Bei der Aufwands- und Kostenplanung spielen eine menge Begriffe eine Rolle:
 - Aufwand
     - Nutzung von Ressourcen
 - Projektkalkulation
-    - errechnung kostenwirksamer Leistungen und Bewertung
+    - Errechnung kostenwirksamer Leistungen und Bewertung
 - Kostenplan
     - Darstellung der wahrscheinlichen Kosten
 - Projektbudget
     - Summe der kalkulierten, zum Projekt zur Verfügung stehenden, Kosten
 - Risikozuschlag/ Vorsorgebudget
-    - zu Projektkosten addierte Finanzmittel, die unvorhergehene Ausgaben vorsorgen
+    - zu Projektkosten addierte Finanzmittel, die unvorhergesehene Ausgaben vorsorgen
 
 ---
 **Weshalb Aufwands- und Kostenplan**
@@ -755,16 +755,16 @@ Die Pläne dienen den Zwecken der:
 - Sicherstellung der Projekteffizienz
 - Projekteffektivität
 
-Damit soll der Preis ermittelt werden, den das Unternehmen für das Projekt verlangen darf. Doch die heutige Konkurrenz ist gewaltig und der MArkt ist transparent genug, sodass der Kunde bereits eine Preisvorstellung hat. Durch die Kosten- und Aufwandsplanung bekommt man Informationen, ab wo die Preisuntergrenze liegt. Die oft verlangte Offenlegung der Kostenplanung erschwert Risikozuschläge.  
+Damit soll der Preis ermittelt werden, den das Unternehmen für das Projekt verlangen darf. Doch die heutige Konkurrenz ist gewaltig und der Markt ist transparent genug, sodass der Kunde bereits eine Preisvorstellung hat. Durch die Kosten- und Aufwandsplanung bekommt man Informationen, ab wo die Preisuntergrenze liegt. Die oft verlangte Offenlegung der Kostenplanung erschwert Risikozuschläge.  
 Die Projekteffizienz wird anhand seiner tatsächlichen Kosteneinhaltung gewertet. Dabei sollen regelmäßige Soll-Ist-Vergleiche unternommen werden.  
 Beim Life Cycle Costing wird geschätzt wie hoch die Kosten beim weiteren Lebenszyklus anfallen.  
-Das Target Costen andererseits befasst sich damit, wie viel der Kunde bereit ist zu bezahlen.
+Das Target Costing andererseits befasst sich damit, wie viel der Kunde bereit ist zu bezahlen.
 
 ---
 **Wie wird geschätzt?**
 
 Geschätzt wird indirekt, wobei die Arbeitsmenge mit Geld bewertet wird. Doch eine vertrauensvolle Schätzung der tatsächlichen Arbeitsstunden ist kaum möglich. Wichtige Informationen erhält man aus:  
-- Definition der Liefergegnstände
+- Definition der Liefergegenstände
 - Stakeholder- und Risikomanagement
 - Anforderungsdefinition
 
@@ -799,7 +799,7 @@ Dabei wird das Wissen von ausgesuchten Personen verwendet. Einer könnte schon g
     - Atmosphäre
     - Pausenversorgung
     - Moderator
-    - Protokollist
+    - Protokollant
 - Durchführung:
     - Begrüßung
     - Einleitung
@@ -812,7 +812,7 @@ Dabei wird das Wissen von ausgesuchten Personen verwendet. Einer könnte schon g
 
 **Mathematische Gleichungen**
 Zu den Methoden mit mathematischen Gleichungen gehören:
-1. multiplikator Methode
+1. Multiplikator Methode
    - Die Leistung wird in Produktgrößen gemessen (Kubik, ...)
    - Größen belegen Aufwand
    - Beispiele:
@@ -821,7 +821,7 @@ Zu den Methoden mit mathematischen Gleichungen gehören:
         - Gewicht bei Material
         - Geschwindigkeit bei Transport
 2. parametrische Methoden
-   - verbinden manigfaltige Zusammenhänge
+   - verbinden mannigfaltige Zusammenhänge
    - fertig Projekte mit Regressionsanalysen untersucht, um Algorithmen zu erstellen, die Prognosen für Projektaufwand erzeugen
    - können unfassbar kompliziert werden
    - funktionieren lediglich bei umfassenden Kostendatenbanken
@@ -869,13 +869,13 @@ Kombiniert mit dem Terminplan wird das Projektbudget erstellt. Aufgrund der APs 
 ---
 **Wer und Wann?**
 
-Der Projektleiter und -controller erstellen dies in der Planungsphase. Die Verrechnungssätze werden vom Rechnungswesen übernommen. AP-Verantwortliche nehmen an der SChätzung teil. Das Resultat wird besprochen zwischen Kunden und dem Management. Endgültige Entscheidnug erst nach Iterationen.
+Der Projektleiter und -controller erstellen dies in der Planungsphase. Die Verrechnungssätze werden vom Rechnungswesen übernommen. AP-Verantwortliche nehmen an der Schätzung teil. Das Resultat wird besprochen zwischen Kunden und dem Management. Endgültige Entscheidung erst nach Iterationen.
 
 ---
 **Aufwands- und Kostenplan im Segeltörn**
 
 Zum Gesamtaufwand des Segeltörns gehören:  
-- Arbeitsuafwand (in Stunden)
+- Arbeitsaufwand (in Stunden)
 - Sachkosten:
   - Kosten der Schiffscharter
   - Reisekosten (Hin- und Heimflug, Taxi/Bus)
@@ -886,11 +886,11 @@ Zum Gesamtaufwand des Segeltörns gehören:
   - Kosten für Medienkommunikation
   - Sonstiges
 
-Die Gesamtkosten können in Phasen, Teilaufgaben und Arbeitspakete geordnet werden. Mittles Top-Down-Perspektive ergibt sich folgendes:  
+Die Gesamtkosten können in Phasen, Teilaufgaben und Arbeitspakete geordnet werden. Mittels Top-Down-Perspektive ergibt sich folgendes:  
 - Sachkosten für 6-8 Personen ca. 15.000€ (1.800 pro Person + Risikozuschlag)
 - Arbeitsaufwand min. 1.000h (100h Projektmanagement, 300h Vorbereitung, 600h Durchführung)
 
-Die Informationen stamen aus der Erfahrung des Skippers und vergleichbarer Törns. Das Kernteam sammelt weitere Daten. Folgend ermittelt das Team die Gesamtkosten und verteilt es prozentual auf die Aufgaben der zweiten Ebene des Projektstrukturplans.  
+Die Informationen stammen aus der Erfahrung des Skippers und vergleichbarer Törns. Das Kernteam sammelt weitere Daten. Folgend ermittelt das Team die Gesamtkosten und verteilt es prozentual auf die Aufgaben der zweiten Ebene des Projektstrukturplans.  
 
 Schätzungen der Top-Down-Analyse sind naturgemäß ungenau. Nach Fertigstellung des Projektstrukturplans können Aufwand und Sachkosten der Arbeitspakete geschätzt werden. Dies wird mittels Buttom-Up-Analyse unter Aufsicht vom Projektcontroller durchgeführt.  
 Einsicht auf die Kosten kann erhoben werden, wenn die Kostenschätzung mit dem Terminplan vereint wurden. Im Fall Segeltörn wird somit ersichtlich, dass die Zahlung für Schiffs- und Flugbuchung bis zum 30. April erfolgen müssen.  
@@ -914,7 +914,7 @@ Den Verlauf der Kosten zeigt die Kostensummenlinie:
 ---
 # Baseline
 
-Die Baseline dokumentiert den Stand der Arbeiten und dient als Vergleichs und Bezugsrahmen. Alle relavanten Informationen zum momentanen Zeitpunkt sind darin enthalten und wird von der Projektleitung als Arbeitsgrundlage verwendet. Es verwaltet die Informationen vom Konfigurationsmanager. Lediglich die Leitung hat die Befugnis Änderungen an der Baseline vorzunehmen. Der Rest besitzt nur eine Lesebefugnis. Die Baseline wird kontinuierlich fortgeschrieben. Zusätzlich beinhaltet die Basleine den Projektplan samt:
+Die Baseline dokumentiert den Stand der Arbeiten und dient als Vergleichs und Bezugsrahmen. Alle relevanten Informationen zum momentanen Zeitpunkt sind darin enthalten und wird von der Projektleitung als Arbeitsgrundlage verwendet. Es verwaltet die Informationen vom Konfigurationsmanager. Lediglich die Leitung hat die Befugnis Änderungen an der Baseline vorzunehmen. Der Rest besitzt nur eine Lesebefugnis. Die Baseline wird kontinuierlich fortgeschrieben. Zusätzlich beinhaltet die Baseline den Projektplan samt:
 - Verantwortlichkeitsmatrix
 - Projektcharter
 - Qualitätsplan
@@ -933,11 +933,11 @@ Zur Projektleistung fallen auch folgende Arbeitsergebnisse an:
 - Analysen und Berechnungen
 - Zeichnungen und Pläne
 - Ergebnisse von Qualifikations- und Entwicklungstests
-- Abnhamevorschriften und Akzeptanzkriterien
+- Abnahmevorschriften und Akzeptanzkriterien
 
-Es ist wichtig, dass auch ALternativen besprochen werden. Eine Hilfe dabei bietet die Nutzwertanalyse. Dabei handelt es sich um eine Methode zur Entscheidungsfindung. Es lässt Alternativen vergleichen und wählen. Die Entscheidungen werden gewählt auf Basis der Analyse von Daten und Infos. Die Ergebnisse entstehen aus der Sicht der Beteiligten und sind subjektiv. Nutzwertanalyse umfasst fünf Schritte:
+Es ist wichtig, dass auch Alternativen besprochen werden. Eine Hilfe dabei bietet die Nutzwertanalyse. Dabei handelt es sich um eine Methode zur Entscheidungsfindung. Es lässt Alternativen vergleichen und wählen. Die Entscheidungen werden gewählt auf Basis der Analyse von Daten und Infos. Die Ergebnisse entstehen aus der Sicht der Beteiligten und sind subjektiv. Nutzwertanalyse umfasst fünf Schritte:
 1. inhaltlich vergleichbare Lösungen identifizieren
-2. Bewetungskriterien definieren
+2. Bewertungskriterien definieren
    - Güte von Alternativen bewerten
    - erschlossen von den Projektzielen
    - Kriterien gewichten
