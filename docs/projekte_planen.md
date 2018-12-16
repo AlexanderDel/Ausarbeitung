@@ -22,6 +22,7 @@ class middle, center
 - analysieren
 - Verifizieren und Validieren
 - wer und wann?
+- Beispiel Segeltörn
 
 ---
 **Anforderungen definieren**  
@@ -77,7 +78,7 @@ Bei der Analyse sind drei Aspekte zu beachten:
     - Leistungen, die dem Kunden unbekannt sind, die aber den Kunden begeistern und dessen Zufriedenheit steigern.
 Die Kundenzufriedenheit ist nicht abhängig von der Leistung des Ergebnisses, sondern einzig vom Kunden.  
 
-Bei der Ordnung nehmen die Anforderungen eine Hierarchie an, die einsicht gewährt, welche Anforderung aus welcher übergeordneten Anforderung entspringt.  
+Bei der Ordnung nehmen die Anforderungen eine Hierarchie an, die einsicht gewährt, welche Anforderung aus welcher übergeordneten Anforderung entspringt. Anforderungen, aus denen weitere Anforderungen entspringen, nennt man `Designtreiber`.  
 Sollte eine Anforderung geändert werden, so darf sich diese Änderung nicht negativ auf das Gesamtprojekt auswirken. Die Anforderungen werden nach `SMART` dokumentiert:  
 - Specific (Eindeutig): Die Formulierung erlaubt nur eine gültige Interpretation
 - Measurable (Prüfbar): Jede Anforderung ist mittels Kriterien überprüfbar
@@ -113,6 +114,48 @@ Bei der Validierung wird nachgewiesen, dass das System so funktioniert, wie die 
 - Die Anforderungsdefinition, sowie die Planung der Verifikation und Validierung, hat ihren Schwerpunkt in der Planungsphase und wird von dem Systemarchitekt verantwortet. Unterstützung erhält er durch die Projektleitung, dem Qualitätsmanager und den Facharbeitern
 
 ---
+**Anforderungen an den Segeltörn**
+
+An vorderster Stelle steht bei dem Segeltörn die Kundenzufriedenheit. Die Kunden, dessen Erwartungen dabei erfüllt werden sollen, sind in diesem Falle die Crew. Die ersten Anforderungen bilden die Erwartungen der Crew an den Segeltörn und der Inhalt des Projektauftrages. 
+
+<figure class="fig_left" style="width:430px;" role="group">
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/Ausarbeitung_Michael/include/michael/125_Auszug_Segeltoern.PNG" alt="125_Auszug_Segeltoern.PNG" />
+    <figcaption>
+        (Seite 125)
+    </figcaption>
+</figure>
+
+Die Crew muss miteinander absprechen welche Absicht hinter einzelnen Aussagen wie "Gute Erholung und Stärkung der Gesundheit" steckt und die Anforderungen, sowie Designtreiber festlegen.  
+Nach Absprache erhält die Crew eine Liste der `Top-Level-Anforderungen`:  
+- Törndauer: zwei Wochen
+- Zeitraum: Herbst
+- Törngebiet: Mittelmeer
+- Komfort: vier Kabinen/ acht Kojen
+- Segeln:
+  - Sicherheit oberste Priorität
+  - Zufriedenheit an zweiter Stelle
+  - Segeldauer nicht mehr als sechs Stunden pro Tag
+- Catering: Gekochtes an Bord
+- Landgänge: verschiedene Inseln
+
+und eine Liste der Designtreiber:  
+- Sicherheit
+- Erholung
+- Komfort
+- Segeln
+- frische vor Ort Ernährung
+- Entdeckung des Landes
+
+Da die Anforderungen und Designtreiber komplett sind, kann die Crew nach und nach die Projektergebnisstruktur erstellen. Das fertige Dokument sieht wiefolgt aus:
+
+<figure class="fig_left" style="width:430px;" role="group">
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/Ausarbeitung_Michael/include/michael/127_Projektergebnisstruktur_Segeltoern.PNG" alt="127_Projektergebnisstruktur_Segeltoern.PNG" />
+    <figcaption>
+        (Seite 127)
+    </figcaption>
+</figure>
+
+---
 
 # Projektstruktur
 
@@ -120,6 +163,7 @@ Bei der Validierung wird nachgewiesen, dass das System so funktioniert, wie die 
 - warum?
 - wie?
 - wer und wann?
+- Beispiel Segeltörn
 
 ---
 **Projektstrukturplan**
@@ -192,6 +236,51 @@ Ein Projekt ist natürlich auch mit Kosten verbunden und auch dem versucht der P
 **Wer und Wann?**
 
 Der PSP wird bereits in der Projektplanung erzeugt. Darin einbezogen sind der Auftraggeber, die Projektsponsoren und wichtige Stakeholder. Am Ende muss die Projektleitung sicherstellen, dass ein vom Projektteam und Auftraggeber akzeptierter PSP vorliegt.  
+
+---
+**Projektstruktur für den Segeltörn**
+
+Für eine erfolgreiche Durchführung des Segeltörns sollte die Crew wohin sie segeln, aber auch wie sie es tun sollen. Damit die Erstellung des Projektstrukturplans gelint, müssen die `Lieferobjekte`, sowie die `unterstützenden Aufgaben` erfasst werden.  
+Die Crew entscheidet sich für folgendes Vorgehen:  
+1. Gesamtheit der Aufgaben erfassen
+   - Die Crew führt ein Brainstorming durch und notiert sich die zu erledigenden Aufgaben. Dabei greifen sie auf die Projektergebnisstruktur, der Erfahrung und externe Segelliteratur zurück.  
+2. Arbeitspakete strukturieren und definieren
+   - Die Crew entscheidet sich für ein Phasenmodell und nehmen Vorbereitung, Durchführung und Abschluss als Teilaufgaben der zweiten Ebene
+3. Einbindung des Projektmanagements und Systems Engineering in den PSP
+   - Obwohl das Projektmanagement und Systems Engineering für den Segeltörn überschaubar ist, wählt die Crew Projektmanagement als Unterpunkt mit vier APs, um sich zukünftige Planung zu überschaubarer zu gestalten.  
+4. Den PSP mehrmals korrigieren
+   - Der erste Entwurf des PSP's ist ziemlich genau, also fasst die Crew einige Arbeitspakete zusammen und sortiert diese neu. 
+5. Festlegen, was zum Abschluss und was zur Durchführung gehört
+   - Die Crew wählt die Arbeitspakete **Auschecken** und **Heimreise** unter `Abschlussphase` unterzuordnen. Sie begründen die Entscheidung mit dem sinkenden Energielevel der sich ausbreitet, sobald man im Zielhafen einläuft.
+6. Dokumentation
+   - Während der Planung werden haufenweise Dokumente angefertigt. Um sich zu vergewissern, dass die Dokumente entworfen und sicher verwahrt werden, wurde das Arbeitspaket **Dokumentation** unter `Projektmanagement` erstellt.
+7. Arbeitspaketbeschreibungen
+   - Der Projektstrukturplan der Crew umfasst 23 Arbeitspakete. Damit für jedes Arbeitspaket eine angemessene Beschreibung bereit liegt, wird jedem AP ein Verantwortlicher aus der Crew zugeordnet. Doch die Crew ist der Meinung, das Projekt sei sehr übersichtlich und entwirft die Beschreibungen in Form einer erweiterten Verantwortlichkeitsmatrix, mit den Spalten **Input**, **Aufgaben**, **Output** und **Verantwortlicher**
+
+Schließlich erhält die Crew die fertigen Dokumente: der Projektstrukturplan und die Arbeitspaketbeschreibungen in Form einer erweiterten Verantwortlichkeitsmatrix.
+
+
+<figure class="fig_left" style="width:430px;" role="group">
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/Ausarbeitung_Michael/include/michael/142_PSP_Segeltoern.PNG" alt="142_PSP_Segeltoern.PNG" />
+    <figcaption>
+        (Seite 142)
+    </figcaption>
+</figure>
+
+<figure class="fig_left" style="width:430px;" role="group">
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/Ausarbeitung_Michael/include/michael/144_Verantwortlichkeitsmatrix_Segeltoern.PNG" alt="144_Verantwortlichkeitsmatrix_Segeltoern.PNG" />
+    <figcaption>
+        (Seite 144)
+    </figcaption>
+</figure>
+
+Und hier eine Arbeitsbeschreibung, bevor sich die Crew dagegen entschieden hat.
+<figure class="fig_left" style="width:430px;" role="group">
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/Ausarbeitung_Michael/include/michael/143_AP_Crewtraining.PNG" alt="143_AP_Crewtraining.PNG" />
+    <figcaption>
+        (Seite 143)
+    </figcaption>
+</figure>
 
 ---
 
