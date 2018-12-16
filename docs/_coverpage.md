@@ -9,4 +9,4 @@
 - Moritz Withöft
 
 [GitHub](https://github.com/ProjektManagementGruppe3/Ausarbeitung)
-[Get Started](home.md)
+[Zum Start](home.md)
