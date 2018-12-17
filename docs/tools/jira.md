@@ -45,7 +45,7 @@ Nachdem man unter der Projektauswahl die Schaltfläche „Projekt erstellen“  
 
 > Da wir „Scrum“ als Vorgehensmodell besitzen, werden wir auf die Seite „Backlog“ weiter geleitet.
 
-## Backlog
+## Backlog und Aufgaben
 Unter Backlog lassen sich die Meilensteine bzw. Aufgaben anlegen indem man unter dem Textfeld **„Was muss gemacht werden?“** die gewünschte Tätigkeit definiert oder unter **„+ Vorgänge erstellen“**. 
 
 Wenn man nun eine erstellte Tätigkeit klickt, lässt sich die Tätigkeit nun spezifischer einstellen.
@@ -67,6 +67,19 @@ Wenn man nun eine erstellte Tätigkeit klickt, lässt sich die Tätigkeit nun sp
 <figure role="group">
     <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/justin/backlog_erstellen.PNG" alt="backlog_erstellen.png" />
     <figcaption>
-        Abbildung 5: Blacklog Page
+        Abbildung 5: Blacklog Page - Aufgabe Beschreibung rechte Seite
     </figcaption>
 </figure>
+
+## Sprint erstellen
+Wenn  man nun ein Sprint erstellen möchte, muss man unter der Seite „Backlog“ auf die Schaltfläche „Sprint erstellen“ drücken. Nun erscheint eine Fläche, wo sich die Tätigkeiten hineinziehen lassen, um die gewünschten Tätigkeiten zu einem Sprint zu verfassen. 
+<figure role="group">
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/justin/sprint_namen.PNG" alt="backlog_erstellen.png" />
+    <figcaption>
+        Abbildung 5: Blacklog Page - Aufgabe Beschreibung rechte Seite
+    </figcaption>
+</figure>
+Wenn man nun über dem eben erstellten Sprint auf die Schaltfläche „...“ klickt, lässt sich der Sprint löschen oder aber auch bearbeiten. Unter „Sprint bearbeiten“ lässt sich dann der Sprintname einstellen und das  Sprint-Ziel kann erläutert werden.
+
+Wenn nun der Sprint aktiv werden soll, muss die Schaltfläche „Sprint starten“ betätigt werden.
+Hier lässt sich dann die Dauer des Sprintes einstellen und das Startdatum. Das Enddatum wird anhand der Dauer ermittelt. Falls noch nicht angeben, lässt sich hier nochmals das Sprint-Ziel einzustellen bzw. zu erläutern.
