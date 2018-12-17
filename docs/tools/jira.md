@@ -98,3 +98,15 @@ Wenn man nun aktive Sprints sehen möchte, muss links in der Navigationsleiste d
         Abbildung 8: Aktive Sprints
     </figcaption>
 </figure>
+
+## Diagramme bzw. Berichte erstellen lassen
+Jira bietet auch die Option, Diagramme erstellen zu lassen, auf Grund der vorliegende Information. Wenn man sich ein Diagramm erstellen lassen möchte, muss man in der Navigationsleiste "Berichte" auswählen. Hier bekommt nun eine Übersicht, der möglichen Diagramma und passend zum Vorgehensmodell.
+<figure role="group">
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/justin/berichte.PNG" alt="berichte.png" />
+    <figcaption>
+        Abbildung 9: Übersicht, der möglichen Diagramme oder Berichte
+    </figcaption>
+</figure>
+
+## Fazit
+Jira ist gute Lösung, wenn das Projekt eine gewisse Komplexität bzw. Größe hat. Gerade die Option ein Vorgehensmodell auszuwählen und die Features dementsprechend dynamisch sind, macht es zu einen vielseitigen Tool. Wenn es ein kleines Projekt ist, wie in unserem Fall, lohnt es sich eher weniger, da man wahrscheinlich nur ein Teil der Features benutzt und diese dann teils auch umständlicher zu benutzen sind als in anderen Tools, zum Beispiel: Github Projects.
