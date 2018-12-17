@@ -1,7 +1,7 @@
 # Projekt Management verstehen
 
 ## Einstieg Projektmanagement
-Bevor wir uns um „Projektmanagement“ kümmern beziehungsweise „Projekte“, sollten erst mal grundlegende Begriffe erklärt werden:
+Projektmanagement kommt immer mehr in Mode und gewinnt an Relevanz dazu. Es bietet durch seine verschiedene Vorgehensmodelle und Konzepte, dynamische Lösungsansätze um ein Problem zu lösen, in Form eines Projektes. 
 
 „**Projekt**“
 </br>Das Deutsche Institut für Normungen hat einen passenden Standard nach meiner Meinung, der folgend lautet:
@@ -10,7 +10,7 @@ Bevor wir uns um „Projektmanagement“ kümmern beziehungsweise „Projekte“
 </br>Nach der DIN 69901 sind Projekte Vorhaben, „die im Wesentlichen durch Einmaligkeit der Bedingungen in ihrer Gesamtheit gekennzeichnet sind, wie z. B. Zielvorgabe, zeitliche, personelle oder andere Begrenzungen, Abgrenzung gegenüber anderen Vorhaben und eine projektspezifische Organisation“ (DIN 2009, S. 155).
 
 ## Was ist ein Projekt? Ab wann definiert man es?
-Aus dem obigen Standard geht es eben hervor, dass ein Projekt etwas besonderes beziehungsweise keine Routinenmäßige Aufgabe ist, sondern etwas einmaliges, dass sich von den anderen Aufgaben oder Abläufen unterscheidet. Die Unterscheidung ob es eine Routinenaufgabe ist oder gar ein Projekt, lässt sich in der Regel daran erkennen, dass zusätzliche Ressourcen benötigt werden sowie eine gesonderte Planung, da die Aufgabe mit den Standartmitteln nicht zielgerecht bewältigt werden kann.  Diese Aufgabe bzw. Aufgaben sollen in einen vorgelegten Zeitraum absolviert werden und dies mit Hilfe eines auserwählten Teams und einer Projektorganisation. Falls Unklarheit besteht, ob die vorliegende Aufgabe ein Projekt entspricht, ist es eventuell Sinnvoll im Unternehmen nochmals eigene Kriterien festzulegen und somit weitere Anhaltspunkte zu erschaffen, für die Bestimmung, ob es ein Projekt sei. (vgl. C.Aichelle IT-Projektmanagement S.4 & H.Meyer, H.Reher Projektmanagement S.2-3)
+Aus dem obigen Standard geht es eben hervor, dass ein Projekt etwas besonderes beziehungsweise keine Routinenmäßige Aufgabe ist, sondern etwas einmaliges, dass sich von den anderen Aufgaben oder Abläufen unterscheidet. Die Unterscheidung ob es eine Routinenaufgabe ist oder gar ein Projekt, lässt sich in der Regel daran erkennen, dass zusätzliche Ressourcen benötigt werden sowie eine gesonderte Planung, da die Aufgabe mit den Standartmitteln nicht zielgerecht bewältigt werden kann.  Diese Aufgabe bzw. Aufgaben sollen in einen vorgelegten Zeitraum absolviert werden und dies mit Hilfe eines auserwählten Teams und einer Projektorganisation. Falls Unklarheit besteht, ob die vorliegende Aufgabe ein Projekt entspricht, ist es eventuell Sinnvoll im Unternehmen nochmals eigene Kriterien festzulegen und somit weitere Anhaltspunkte zu erschaffen, für die Bestimmung, ob es ein Projekt sei. 
 
 ## IT-Projekt
 „IT-Projekte weisen immer wiederkehrende gleichförmige Phasen auf, die eine
@@ -18,7 +18,7 @@ standardisierte Abwicklung dieser Projekte ermöglichen. Daher bietet sich zur e
 Umsetzung von IT-Projekten der Einsatz von standardisierten Verfahren,
 bspw. Vorgehensmodellen, an“ - ( C.Aichelle IT-Projektmangament S.5)
 
-Aus dem vorherigen Zitat geht es hervor, dass IT-Projekte mit standardisierte Verfahren und Methoden erfolgreich umgesetzt werden können. Bei IT-Projekten wird in der Regel eine Software entweder komplett neu entwickelt bzw. ist eine Neuentwicklung oder es wird an einer Software was geändert, was genug Komplexität bietet, um es in einen Projekt zu verwalten. Hierbei kann man die Projekte differenzieren (vgl. C.Aichelle IT-Projektmanagement S.5):
+Aus dem vorherigen Zitat geht es hervor, dass IT-Projekte mit standardisierte Verfahren und Methoden erfolgreich umgesetzt werden können. Bei IT-Projekten wird in der Regel eine Software entweder komplett neu entwickelt bzw. ist eine Neuentwicklung oder es wird an einer Software was geändert, was genug Komplexität bietet, um es in einen Projekt zu verwalten. Hierbei kann man die Projekte differenzieren:
 
 - Entwicklungsprojekte, Beispiel: Eigenentwicklungen
 - Wartungsprojekte
