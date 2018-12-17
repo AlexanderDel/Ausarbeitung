@@ -73,13 +73,28 @@ Wenn man nun eine erstellte Tätigkeit klickt, lässt sich die Tätigkeit nun sp
 
 ## Sprint erstellen
 Wenn  man nun ein Sprint erstellen möchte, muss man unter der Seite „Backlog“ auf die Schaltfläche „Sprint erstellen“ drücken. Nun erscheint eine Fläche, wo sich die Tätigkeiten hineinziehen lassen, um die gewünschten Tätigkeiten zu einem Sprint zu verfassen. 
+
+Wenn man nun über dem eben erstellten Sprint auf die Schaltfläche „...“ klickt, lässt sich der Sprint löschen oder aber auch bearbeiten. Unter „Sprint bearbeiten“ lässt sich dann der Sprintname einstellen und das  Sprint-Ziel kann erläutert werden.
 <figure role="group">
     <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/justin/sprint_namen.PNG" alt="backlog_erstellen.png" />
     <figcaption>
-        Abbildung 5: Blacklog Page - Aufgabe Beschreibung rechte Seite
+        Abbildung 6: Sprint bearbeiten
     </figcaption>
 </figure>
-Wenn man nun über dem eben erstellten Sprint auf die Schaltfläche „...“ klickt, lässt sich der Sprint löschen oder aber auch bearbeiten. Unter „Sprint bearbeiten“ lässt sich dann der Sprintname einstellen und das  Sprint-Ziel kann erläutert werden.
-
 Wenn nun der Sprint aktiv werden soll, muss die Schaltfläche „Sprint starten“ betätigt werden.
 Hier lässt sich dann die Dauer des Sprintes einstellen und das Startdatum. Das Enddatum wird anhand der Dauer ermittelt. Falls noch nicht angeben, lässt sich hier nochmals das Sprint-Ziel einzustellen bzw. zu erläutern.
+<figure role="group">
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/justin/sprint_starten.PNG" alt="sprint_starten.png" />
+    <figcaption>
+        Abbildung 7: Wenn ein Sprint gestartet wird
+    </figcaption>
+</figure>
+
+## Aktive Sprints
+Wenn man nun aktive Sprints sehen möchte, muss links in der Navigationsleiste der Punkt „Aktive Sprints“ ausgewählt werden. Hier sieht man nun die aktive Sprints und die Tätigkeiten lassen sich dann in einen gewünschten Zustand ändern per Drag and Drop. 
+<figure role="group">
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/justin/aktive_sprints.PNG" alt="aktive_sprints.png" />
+    <figcaption>
+        Abbildung 8: Aktive Sprints
+    </figcaption>
+</figure>
