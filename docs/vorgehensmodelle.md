@@ -67,26 +67,28 @@ Das V-Modell wurde ursprünglich für das Deutsche Bundesministerium für Vertei
 V-Modell 97 wurde 2004 durch das V-Modell XT ersetzt. In dieser Version wurde verstärkt auf eine flexiblere Anpassbarkeit des Modells eingegangen woraus sich auch die Bezeichnung XT ableitet, die für Extreme Tailoring steht, also der Fähigkeit stark an die jeweiligen Bedürfnisse anpassbar zu sein.
 
 ### Rational-Unified-Process-Modell
-Das Rational-Unified-Process-Modell ist ein iteratives ist ein kommerzielles Produkt der Firma Rational Software. Es beinhaltet sowohl ein Vorgehensmodell zur Softwareentwicklung als auch die dazugehörigen Softwareentwicklungsprogramme. IBM entwickelt den RUP und die zugehörige Software weiter. RUP liefert eine Methode zur Softwareentwicklung auf Basis der Unified Modeling Language. Im Kern folgt der RUP den folgenden drei Grundprinzipien:
+Das Rational-Unified-Process-Modell ist ein von der Firma Rational Software entwickeltes iteratives Vorgehensmodell, das als kommerzielles Produkt von IBM weiterentwickelt und vertrieben wird. Es beinhaltet neben dem Vorgehensmodell zur Softwareentwicklung auch die dazugehörigen Softwareentwicklungsprogramme. RUP liefert eine Methode zur Softwareentwicklung auf Basis der Unified Modeling Language. Im Kern folgt der RUP den folgenden drei Grundprinzipien:
 * RUP ist anwendungsfallgetrieben.
 * Die Architektur steht im Zentrum der Planung.
 * Das Vorgehen zur Entwicklung ist inkrementell/iterativ.
 
-Zur Visualisierung wird ein zweidimensionales Koordinatensystem verwendet, in dem die Phasen auf der horizontalen Achse und die Disziplinen auf der vertikalen Achse eingetragen werden. Durch die Schwerpunkte in den einzelnen Phasen und die Anzahl der damit verbundenen Tätigkeiten entsteht das typische „RUP-Gebirge“.
+Das RUP-Modell teilt den Ablauf eines Projektes in vier zeitlich geordnete Phasen auf, die in mehreren Iterationen behandelt werden können. Jedes Phase endet an einem klar definierten Meilenstein. An diesen Punkten beurteilen die Stakeholder das Projekt, insbesondere was erreicht wurde und die Pläne für die Zukunft. Es wird eine Entscheidung getroffen, ob das Projekt fortgeführt wird. Jede Phase hat eine bestimmte Reihe an Zielen, die innerhalb der Iterationen der Phase angegangen werden, um den Meilenstein der Phase einzuhalten. Die Phasen sind:
 
-Das RUP-Modell teilt den Ablauf eines Projektes in vier zeitlich geordnete Phasen auf, die in mehreren Iterationen behandelt werden können:
-
-* Inception (Projektsetup/Konzeption)
+* Vorbereitung (Projektsetup/Konzeption)
 Diese erste Konzeptionsphase hat das Ziel einer gemeinsamen Vision, eines klaren Zieles sowie der Erstellung eines rudimentären Anwendungsfallmodells, welches die wesentliche Funktionalität beschreibt sowie einer tentativen/provisorischen Architektur. Darüber hinaus werden die wesentlichsten Risiken identifiziert und die Ausarbeitungsphase geplant.
 
-* Elaboration (Ausarbeitung/Entwurf)
+* Ausarbeitung (Entwurf)
 In dieser Phase wird ein Architekturprototyp sowie eine grobe Beschreibung der Anwendungsfälle ausgearbeitet. Planung der Konstruktionsphase, Machbarkeitstests, Systemevaluierung und erste Programmteile von Schlüsselkomponenten sind Teil der Elaborationsphase.
 
-* Construction (Implementierung)
+* Konstruktion (Implementierung)
 Nachdem die Architektur ausgearbeitet wurde, konzentriert sich diese Phase auf die Entwicklung und das Testen des Produktes. In dieser Phase werden sämtliche Anforderungen unter laufender Abstimmung mit dem Kunden realisiert.
 
-* Transition (Inbetriebnahme)
+* Übergang (Inbetriebnahme)
 Übergabephase und Freigabe der Software an den Kunden. 
+
+Neben Phasen repräsentieren Disziplinen die logischen Aktivitäten, die während eines Projektes stattfinden.
+
+Zur Visualisierung wird ein zweidimensionales Koordinatensystem verwendet, in dem die Phasen auf der horizontalen Achse und die Disziplinen auf der vertikalen Achse eingetragen werden. Durch die Schwerpunkte in den einzelnen Phasen und die Anzahl der damit verbundenen Tätigkeiten entsteht das typische „RUP-Gebirge“.
 
 <figure style="width:600px;">
     <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/daniel/rup-modell.PNG"  />
@@ -118,7 +120,7 @@ Agile Vorgehensmodelle zur Softwareentwicklung entstanden wegen der Lean-Managem
 
 Im Gegensatz zu klassischen Vorgehensmodellen zeichnen sich agile Vorgehensmodelle in der Softwareentwicklung durch relativ kurze Iterationen aus, wobei nach jeder Iteration ein für den Kunden greifbares Resultat erreicht wird, z. B. lauffähige Software. Diese Vorgehensweise wirkt sich insbesondere auf das Anforderungsmanagement aus, da der Umgang mit Anforderungen in solchen einfachen Vorgehensmodellen grundsätzlich auf einer anderen Basis stattfindet als bei komplexeren Vorgehensmodellen. Auf dieser Grundlage können Anforderungsveränderungen bei jeder Iteration neu berücksichtigt werden, sodass keine Grenze für die Aufnahme von Change Requests (CR) existiert. Bei jeder neuen Iteration erfolgt demnach die Entscheidung, welche Anforderungen in der aktuellen Iteration realisiert werden können.
 
-## Extreme Programming (XP)
+### Extreme Programming (XP)
 Ein Vertreter der agilen Vorgehensmodelle ist Extreme Programming (XP), welches 1999 von Kent Beck vorgestellt wurde. XP beschränkt sich weitgehend auf die Betrachtung des Prozesses der Softwareerstellung und blendet die Planungsvorgänge aus. In Situationen, in denen eine Entwicklung durch unklare Anforderungen und häufige Änderungen gekennzeichnet ist, stellt XP Werte und Prinzipien zur Verfügung, die insbesondere die _Kommunikation_ innerhalb eines Projekts vereinfachen sollen. XP teilt die Arbeit dahingehend auf, dass der Kunde für die Planung und Beschreibung von Vorgängen zuständig ist, während die Entwicklung an der Umsetzung der Prozesse zu einem Softwareprodukt arbeiten und Rückmeldung über Erfolg oder Misserfolg geben. Die Kommunikation erfolgt mit Hilfe von User Stories, die getrennt entwickelt und getestet werden können und auf verschiedenen Abstraktionsebenen beschreiben, wie sich die zu erstellende Software verhalten soll. Zur Vermeidung von Missverständnissen sieht das Konzept vor, dass zumindest ein Vertreter der Kundenseite die Entwicklung der Software ständig begleitet und somit als Kunde vor Ort bzw. on-site customer agiert. Zusätzlich wird im XP die Idee des Pair Programming umgesetzt, bei der während der Programmierung zwei Entwickler zusammen an einem Computer den Prozess entwerfen und so Fehler früher erkennen als auch Prozesswissen austauschen. Neben der Kommunikation über User Stories wird die Koordination durch die Rolle eines Managers unterstützt, der die Aufgabe hat, alle politischen und organisatorischen Hindernisse einer Entwicklung zu klären.
 
 <figure style="width:600px;">
@@ -128,9 +130,9 @@ Ein Vertreter der agilen Vorgehensmodelle ist Extreme Programming (XP), welches 
     </figcaption>
 </figure>
 
-Geeignet ist XP besonders für kleine Projekte, die eine intensive persönliche Kommunikation voraussetzen. Die Erstellung und Überarbeitung der User Stories eignet es sich für die schnelle Erstellung von Teilprogrammen und ermöglicht bereits nach kurzer Zeit Ergebnisse vorliegen zu haben. Wegen der meist mangelnden Entwurfsplanung sowie der ständigen Beteiligung des Kunden bestehen zahlreiche Kritikpunkte an der Vorgehensweise des XP.
+Geeignet ist XP besonders für kleine Projekte, die eine intensive persönliche Kommunikation voraussetzen. Die Erstellung und Überarbeitung der User Stories eignet sich für die schnelle Erstellung von Teilprogrammen und ermöglicht bereits nach kurzer Zeit Ergebnisse vorliegen zu haben. Wegen der meist mangelnden Entwurfsplanung sowie der ständigen Beteiligung des Kunden bestehen zahlreiche Kritikpunkte an der Vorgehensweise des XP.
 
-## Scrum
+### Scrum
 Scrum basiert, wie bei agilen Vorgehensmodellen üblich, auf der Grundannahme, dass Projekte aufgrund ihrer Komplexität von Anfang an nicht detailliert planbar sind. Es gibt in Scrum keine starren Templates oder Verfahrensanweisungen. Der Prozess und die Arbeitsweise werden in Reviews und Retrospektiven immer wieder begutachtet und gegebenfalls angepasst, um Verbesserungen zu erreichen. In maximal 1 Monat langen Zyklen (sog. "Sprints") werden iterativ (möglichst auslieferbare) Produkt-Inkremente erstellt. Für diesen Zweck wird ein selbstorganisierendes Team definiert, das im Wesentlichen durch drei Rollen bestimmt wird:
 Der Product Owner vertritt die Stakeholder des Produkts, ist zuständig für den Product Backlog und verantwortlich für de Maximierung des Nutzens des Produkts. Er priorisiert die Anforderungen des Kunden und steuert den Entwicklungsprozess.
 Das Team ist zuständig für die Umsetzung der Anforderungen in auslieferbare Produktinkremente. Dabei bestimmt es selbstorganisierend, welche Elemente des Product Backlogs es innerhalb eines bestimmten Zeitraums (Sprints) umgesetzen will. Das Team hat das Recht, eine Auswahl zu treffen, verpflichtet sich dafür aber auch, das durch die Auswahl gesetzte Ziel zu erreichen.
