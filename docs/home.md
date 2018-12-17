@@ -18,24 +18,14 @@ mitgewirkt haben.
 | Moritz Withöft   |[Github](https://github.com/mwithoeft)| Entwickler|
 
 Aufteilung:
-- Projektmanagement verstehen
- - Justin
-- Projekte definieren
- - Moritz
-- Vorgehensmodelle
- - Daniel
-- Projekte planen
- - Michael
-- Projekte auf Kurs halten
- - Alexander
-- Projekte abschließen
- - Alexander
-- Prozessmodelle
- - Daniel
-- Tools - Microsoft Project
- - Alexander
-- Tools - GitHub Projects
- - Daniel
-- Tools - Jira
- - Justin
+- Projektmanagement verstehen: Justin
+- Projekte definieren: Moritz
+- Vorgehensmodelle: Daniel
+- Projekte planen: Michael
+- Projekte auf Kurs halten: Alexander
+- Projekte abschließen: Alexander
+- Prozessmodelle: Daniel
+- Tools - Microsoft Project: Alexander
+- Tools - GitHub Projects: Daniel
+- Tools - Jira: Justin
 
