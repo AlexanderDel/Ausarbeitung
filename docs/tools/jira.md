@@ -45,7 +45,7 @@ Nachdem man unter der Projektauswahl die Schaltfläche „Projekt erstellen“  
 
 > Da wir „Scrum“ als Vorgehensmodell besitzen, werden wir auf die Seite „Backlog“ weiter geleitet.
 
-## Backlog
+## Backlog und Aufgaben
 Unter Backlog lassen sich die Meilensteine bzw. Aufgaben anlegen indem man unter dem Textfeld **„Was muss gemacht werden?“** die gewünschte Tätigkeit definiert oder unter **„+ Vorgänge erstellen“**. 
 
 Wenn man nun eine erstellte Tätigkeit klickt, lässt sich die Tätigkeit nun spezifischer einstellen.
@@ -67,6 +67,46 @@ Wenn man nun eine erstellte Tätigkeit klickt, lässt sich die Tätigkeit nun sp
 <figure role="group">
     <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/justin/backlog_erstellen.PNG" alt="backlog_erstellen.png" />
     <figcaption>
-        Abbildung 5: Blacklog Page
+        Abbildung 5: Blacklog Page - Aufgabe Beschreibung rechte Seite
     </figcaption>
 </figure>
+
+## Sprint erstellen
+Wenn  man nun ein Sprint erstellen möchte, muss man unter der Seite „Backlog“ auf die Schaltfläche „Sprint erstellen“ drücken. Nun erscheint eine Fläche, wo sich die Tätigkeiten hineinziehen lassen, um die gewünschten Tätigkeiten zu einem Sprint zu verfassen. 
+
+Wenn man nun über dem eben erstellten Sprint auf die Schaltfläche „...“ klickt, lässt sich der Sprint löschen oder aber auch bearbeiten. Unter „Sprint bearbeiten“ lässt sich dann der Sprintname einstellen und das  Sprint-Ziel kann erläutert werden.
+<figure role="group">
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/justin/sprint_namen.PNG" alt="backlog_erstellen.png" />
+    <figcaption>
+        Abbildung 6: Sprint bearbeiten
+    </figcaption>
+</figure>
+Wenn nun der Sprint aktiv werden soll, muss die Schaltfläche „Sprint starten“ betätigt werden.
+Hier lässt sich dann die Dauer des Sprintes einstellen und das Startdatum. Das Enddatum wird anhand der Dauer ermittelt. Falls noch nicht angeben, lässt sich hier nochmals das Sprint-Ziel einzustellen bzw. zu erläutern.
+<figure role="group">
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/justin/sprint_starten.PNG" alt="sprint_starten.png" />
+    <figcaption>
+        Abbildung 7: Wenn ein Sprint gestartet wird
+    </figcaption>
+</figure>
+
+## Aktive Sprints
+Wenn man nun aktive Sprints sehen möchte, muss links in der Navigationsleiste der Punkt „Aktive Sprints“ ausgewählt werden. Hier sieht man nun die aktive Sprints und die Tätigkeiten lassen sich dann in einen gewünschten Zustand ändern per Drag and Drop. 
+<figure role="group">
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/justin/aktive_sprints.PNG" alt="aktive_sprints.png" />
+    <figcaption>
+        Abbildung 8: Aktive Sprints
+    </figcaption>
+</figure>
+
+## Diagramme bzw. Berichte erstellen lassen
+Jira bietet auch die Option, Diagramme erstellen zu lassen, auf Grund der vorliegende Information. Wenn man sich ein Diagramm erstellen lassen möchte, muss man in der Navigationsleiste "Berichte" auswählen. Hier bekommt nun eine Übersicht, der möglichen Diagramma und passend zum Vorgehensmodell.
+<figure role="group">
+    <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/justin/berichte.PNG" alt="berichte.png" />
+    <figcaption>
+        Abbildung 9: Übersicht, der möglichen Diagramme oder Berichte
+    </figcaption>
+</figure>
+
+## Fazit
+Jira ist gute Lösung, wenn das Projekt eine gewisse Komplexität bzw. Größe hat. Gerade die Option ein Vorgehensmodell auszuwählen und die Features dementsprechend dynamisch sind, macht es zu einen vielseitigen Tool. Wenn es ein kleines Projekt ist, wie in unserem Fall, lohnt es sich eher weniger, da man wahrscheinlich nur ein Teil der Features benutzt und diese dann teils auch umständlicher zu benutzen sind als in anderen Tools, zum Beispiel: Github Projects.

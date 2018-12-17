@@ -9,6 +9,7 @@
 * [Projekte abschließen](projekte_abschliessen.md)
 * [Tools - Microsoft Project](tools/microsoft_project.md)
 * [Tools - GitHub Projects](tools/github_projects.md)
+* [Tools - Jira](tools/jira.md)
 
 
 
