@@ -19,23 +19,23 @@ mitgewirkt haben.
 
 Aufteilung:
 - Projektmanagement verstehen
-- - Justin
+ - Justin
 - Projekte definieren
-- - Moritz
+ - Moritz
 - Vorgehensmodelle
-- - Daniel
+ - Daniel
 - Projekte planen
-- - Michael
+ - Michael
 - Projekte auf Kurs halten
-- - Alexander
+ - Alexander
 - Projekte abschließen
-- - Alexander
+ - Alexander
 - Prozessmodelle
-- - Daniel
+ - Daniel
 - Tools - Microsoft Project
-- - Alexander
+ - Alexander
 - Tools - GitHub Projects
-- - Daniel
+ - Daniel
 - Tools - Jira
-- - Justin
+ - Justin
 
