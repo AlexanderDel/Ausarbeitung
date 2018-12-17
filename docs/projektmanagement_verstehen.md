@@ -1,7 +1,7 @@
 # Projekt Management verstehen
 
 ## Einstieg Projektmanagement
-Projektmanagement kommt immer mehr in Mode und gewinnt an Relevanz dazu. Es bietet durch seine verschiedene Vorgehensmodelle und Konzepte, dynamische Lösungsansätze um ein Problem zu lösen, in Form eines Projektes. 
+Projektmanagement kommt immer mehr in Mode und gewinnt an Relevanz dazu. Es bietet durch seine verschiedenen Vorgehensmodelle und Konzepte, dynamische Lösungsansätze um ein Problem zu lösen, in Form eines Projektes. 
 
 „**Projekt**“
 </br>Das Deutsche Institut für Normungen hat einen passenden Standard nach meiner Meinung, der folgend lautet:
