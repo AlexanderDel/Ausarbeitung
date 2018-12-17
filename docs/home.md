@@ -17,7 +17,7 @@ mitgewirkt haben.
 | Michael Dering |[Github](https://github.com/TheFreeZerg)| Entwickler|
 | Moritz Withöft   |[Github](https://github.com/mwithoeft)| Entwickler|
 
-Aufteilung:
+**Aufteilung:**
 - Projektmanagement verstehen: Justin
 - Projekte definieren: Moritz
 - Vorgehensmodelle: Daniel
